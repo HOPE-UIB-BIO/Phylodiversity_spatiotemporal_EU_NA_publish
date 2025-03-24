@@ -1,13 +1,13 @@
 #----------------------------------------------------------#
 #
-# Spatio-temporal patterns of phylogenetic diversity in Europe and North America
-#                           during the Holocene
+#   Phylogenetic assembly of angiosperms through space and time of Europe and
+#                     North America in the Holocene
 #
-#                            Kuber Bhatta
-#                                2024
+# Kuber P. Bhatta, Vivian A. Felde, Hilary H. Birks, and H. John B. Birks
+#
+#                             2025
 #
 #----------------------------------------------------------#
-
 #----------------------------------------------------------#
 # Import data from HOPE database, filter samples based on age criteria ----
 #----------------------------------------------------------#
