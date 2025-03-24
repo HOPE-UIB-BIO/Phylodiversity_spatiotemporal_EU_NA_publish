@@ -18,9 +18,7 @@ This R project is accessible in two ways:
 2. A user can download the latest Release of the R project as a zip file from the "Fossil_vs_Modern_Pollen_Assemblage_Patterns" [Release page](https://github.com/HOPE-UIB-BIO/Phylodiversity_spatiotemporal_EU_NA_publish/releases)
 
 Different sections (folders) of the R project are as follows:
-- `Inputs/`: All the pre-analysed and processed data, and tables are stored in this folder.
-  - The subfolder `Inputs/Data/` contains a geo-tif file for the biome or climate-zone classification (`Inputs/Data/Biomes/`), backbone phylogeny used for construction of phylogeny (`Inputs/Data/Ramirez_Barahona_etal_2020_phylogeny/`), unprocessed surface sample data (`Inputs/Data/surface_samples_epd`), and processed data (.rds files) to be used in the analyses. The subfolder `Inputs/Tables/` contains the pollen taxa lists and pollen-taxa harmonisation tables used for standardising the pollen taxonomy. 
-Please note that users will not find raw data of surface pollen data (`Inputs/Data/surface_samples_cao/`) and fossil pollen data (`Inputs/Data/Data_processed_2022-08-30.rds`) here because it cannot be shared publicly due to an embargo of the data contributors. 
+- `Inputs/`: All the pre-analysed data and tables are stored in this folder. This folder also contians all constituent data that are not directly used for analyses of phylogenetic dispersion, but are used as subsidiary data in the analyses. 
 - `Outputs/` contains outputs of all analyses in the form of data (`Outputs/Data/`), figures (`Outputs/Figure/`), and tables (`Outputs/Table/`).
 - `___Init_project___.R`: This script is useful for the initial project setup (see below).
 - `renv/`: This folder stores all the installed packages with the record of their versions.
@@ -29,6 +27,7 @@ Please note that users will not find raw data of surface pollen data (`Inputs/Da
   - `R/functions/`: This folder contains and specific R functions used in the project
   - `R/01_Data_processing/`: This folder contains all R scripts used for data processing prior to main analyses. 
   - `R/02_Main_analyses/`: This folder contains all R scripts used for the main analyses. Please note that implementation of some of the scripts maiy take substantial amount of time from hours to days. So, please check individual script carefully before executing it. Reduce the number of randomisations for a metric to be estimated, or reduce the number of 'k' while implementing the scripts of the generalised additive models.
+  - `R/03_Supplementary_analyses/`: This folder contains all R scripts used for the Supplementary analyses
  
 ## How to use the repo?
 Once a user obtains the R project, there are several steps to be done before using it:
