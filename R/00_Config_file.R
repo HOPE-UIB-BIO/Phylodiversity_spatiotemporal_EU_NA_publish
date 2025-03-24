@@ -94,9 +94,33 @@ sapply(
   paste0("R/functions/", fun_list, sep = ""),
   source)
 
+#----------------------------------------------------------#
+# 4. Authorise the user -----
+#----------------------------------------------------------#
+
+auth_tibble <-
+  tibble::tibble(
+    name = c("kbh022", "kuber"),
+    paths = c(
+      "C:/Users/kbh022/OneDrive - University of Bergen/HOPE_data/Hope_main_external_storage/",
+      "C:/Users/kuber/OneDrive - University of Bergen/HOPE_data/Hope_main_external_storage/"
+    )
+  )
+
+sys_info <- Sys.info()
+
+username <-
+  sys_info["user"]
+
+# Define the directory (external) for storing big data files
+#   Default is in the current project
+data_storage_path <-
+  auth_tibble %>%
+  dplyr::filter(name == username) %>%
+  purrr::pluck("paths")
 
 #----------------------------------------------------------#
-# 4. Colour scheme ----
+# 5. Colour scheme ----
 #----------------------------------------------------------#
 color_pd_curve <- "#0072B2"
 color_richness_curve <- "#D55E00"
@@ -108,45 +132,6 @@ color_low_lat <- "#FF0000"
 
 color_high_age <- "#009E73"
 color_low_age <- "#E69F00"
-
-# Assign unique colour to each climate zone
-my_palette <-
-  c("#FFCC99",
-    "#0066CC",
-    "#00CCCC",
-    "#333333",
-    "#993300",
-    "#99CC00"
-    ) %>% 
-  rlang::set_names(
-    nm = c(
-      "Arid_Steppe",
-      "Cold_Without_dry_season",
-      "Temperate_Without_dry_season",
-      "Polar_Tundra",
-      "Temperate_Dry_Summer",
-      "Cold_Dry_Summer"
-      )
-    )
-
-#----------------------------------------------------------#
-# 6. Graphical options -----
-#----------------------------------------------------------#
-
-## examples
-#set ggplot output
-ggplot2::theme_set(
-  ggplot2::theme_classic())
-
-# define general
-text_size = 10
-line_size = 0.1
-
-# define output sizes
-image_width <- 16
-image_height <- 12
-image_units <- "cm"
-
 
 #----------------------------------------------------------#
 

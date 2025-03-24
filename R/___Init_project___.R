@@ -38,6 +38,7 @@ package_list <-
   c(
     "ape",
     "assertthat",
+    "dbplyr",
     "devtools",
     "flextable",
     "ggpubr",
