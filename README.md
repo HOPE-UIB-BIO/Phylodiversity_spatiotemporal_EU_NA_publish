@@ -14,7 +14,7 @@ This repository contains data and R codes for analysing spatio-temporal variatio
 
 ## How to access the repo?
 This R project is accessible in two ways:
-1. If a user has a [GitHub account](https://github.com/), the easiest way is to create your own GitHub repo using this [Github link](https://github.com/HOPE-UIB-BIO/Fossil_vs_Modern_Pollen_Assemblage_Patterns)
+1. If a user has a [GitHub account](https://github.com/), the easiest way is to create your own GitHub repo using this [Github link](https://github.com/HOPE-UIB-BIO/Phylodiversity_spatiotemporal_EU_NA_publish.git)
 2. A user can download the latest Release of the R project as a zip file from the "Fossil_vs_Modern_Pollen_Assemblage_Patterns" [Release page](https://github.com/HOPE-UIB-BIO/Fossil_vs_Modern_Pollen_Assemblage_Patterns/releases)
 
 Different sections (folders) of the R project are as follows:
