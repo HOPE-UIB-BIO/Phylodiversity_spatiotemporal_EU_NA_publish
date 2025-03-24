@@ -1,0 +1,269 @@
+taxon_name,gymnosperm,apg_family,group
+Abies,TRUE,Pinaceae,trsh
+Acacia,FALSE,Fabaceae,trsh
+Acanthaceae,FALSE,Acanthaceae,herb
+Acer,FALSE,Sapindaceae,trsh
+Aconitum,FALSE,Ranunculaceae,herb
+Acorus,FALSE,Acoraceae,herb
+Adonis,FALSE,Ranunculaceae,herb
+Adoxa moschatellina,FALSE,Adoxaceae,herb
+Aesculus,FALSE,Sapindaceae,trsh
+Agrimonia/Aremonia,FALSE,Rosaceae,herb
+Alchemilla/Aphanes,FALSE,Rosaceae,herb
+Alkanna-type,FALSE,Lythraceae,herb
+Alnus,FALSE,Betulaceae,trsh
+Ambrosia/Xanthium,FALSE,Asteraceae,herb
+Anagallis-type,FALSE,Primulaceae,herb
+Anarrhinum bellidifolium,FALSE,Plantaginaceae,herb
+Anchusa arvensis-type,FALSE,Boraginaceae,herb
+Androsace,FALSE,Primulaceae,herb
+Angiospermae undiff. (herbs),FALSE,delete,herb
+Anthyllis,FALSE,Fabaceae,herb
+Apiaceae,FALSE,Apiaceae,herb
+Araliaceae,FALSE,Araliaceae,trsh
+Arceuthobium oxycedri,FALSE,Santalaceae,trsh
+Aristolochiaceae,FALSE,Aristolochiaceae,herb
+Artemisia,FALSE,Asteraceae,herb
+Arum/Acorus,FALSE,Araceae,herb
+Aruncus/Spiraea,FALSE,Rosaceae,herb
+Asphodelaceae,FALSE,Asphodelaceae,herb
+Asteraceae,FALSE,Asteraceae,herb
+Astragalus-type,FALSE,Fabaceae,herb
+Atropa-type,FALSE,Solanaceae,herb
+Berberidaceae,FALSE,Berberidaceae,trsh
+Betula,FALSE,Betulaceae,trsh
+Betulaceae,FALSE,Betulaceae,trsh
+Boraginaceae,FALSE,Boraginaceae,trsh
+Brassicaceae,FALSE,Brassicaceae,trsh
+Bruckenthalia spiculifolia,FALSE,Ericaceae,trsh
+Bryonia,FALSE,Cucurbitaceae,trsh
+Buxus,FALSE,Buxaceae,trsh
+Calligonum-type,FALSE,Polygonaceae,trsh
+Caltha-type,FALSE,Ranunculaceae,herb
+Calystegia,FALSE,Convolvulaceae,herb
+Campanulaceae,FALSE,Campanulaceae,herb
+Cannabaceae/Urticaceae,FALSE,Cannabaceae,herb
+Cannabis/Humulus,FALSE,Cannabaceae,herb
+Caprifoliaceae,FALSE,Caprifoliaceae,trsh
+Carpinus betulus,FALSE,Betulaceae,trsh
+Carya,FALSE,Juglandaceae,trsh
+Caryophyllaceae (periporate excl. Paronychioideae),FALSE,Caryophyllaceae,herb
+Caryophyllaceae subfam. Paronychioideae,FALSE,Caryophyllaceae,herb
+Castanea sativa,FALSE,Fagaceae,trsh
+Cedrus,TRUE,Pinaceae,trsh
+Celastraceae,FALSE,Celastraceae,trsh
+Celtis,FALSE,Cannabaceae,trsh
+Centaurea,FALSE,Asteraceae,herb
+Centaurea cyanus-type,FALSE,Asteraceae,herb
+Centaurea nigra-type,FALSE,Asteraceae,herb
+Centaurea scabiosa-type,FALSE,Asteraceae,herb
+Ceratonia siliqua,FALSE,Fabaceae,trsh
+Chamaerops,FALSE,Arecaceae,trsh
+Chelidonium majus,FALSE,Papaveraceae,herb
+Chenopodiaceae/Amaranthaceae,FALSE,Amaranthaceae,herb
+Chrysosplenium,FALSE,Saxifragaceae,herb
+Cistaceae,FALSE,Cistaceae,herb
+Cistus,FALSE,Cistaceae,trsh
+Citrus,FALSE,Rutaceae,trsh
+Compositae subfam. Asteroideae,FALSE,Asteraceae,herb
+Compositae subfam. Cichorioideae,FALSE,Asteraceae,herb
+Consolida-type,FALSE,Ranunculaceae,herb
+Convolvulaceae,FALSE,Convolvulaceae,herb
+Convolvulus,FALSE,Convolvulaceae,herb
+Coriaria myrtifolia,FALSE,Coriariaceae,trsh
+Cornus,FALSE,Cornaceae,trsh
+Coronilla-type,FALSE,Fabaceae,herb
+Corrigiola litoralis,FALSE,Caryophyllaceae,herb
+Corrigiola telephiifolia,FALSE,Caryophyllaceae,herb
+Corydalis,FALSE,Papaveraceae,herb
+Corylus/Myrica,FALSE,Betulaceae,trsh
+Crassulaceae,FALSE,Crassulaceae,herb
+Cuscuta,FALSE,Convolvulaceae,herb
+Cyclamen,FALSE,Primulaceae,herb
+Cynareae,FALSE,Asteraceae,herb
+Cynoglossum-type,FALSE,Boraginaceae,herb
+Cyperaceae,FALSE,Cyperaceae,herb
+Datura,FALSE,Solanaceae,herb
+Diapensia lapponica,FALSE,Diapensiaceae,trsh
+Dipsacaceae,FALSE,Caprifoliaceae,herb
+Dipsacoideae,FALSE,Caprifoliaceae,herb
+Dorycnium,FALSE,Fabaceae,herb
+Drosera,FALSE,Droseraceae,herb
+Echium/Onosma,FALSE,Boraginaceae,herb
+Ephedra,TRUE,Ephedraceae,trsh
+Eranthis hyemalis,FALSE,Ranunculaceae,herb
+Ericales (tetrads),FALSE,Ericaceae,herb
+Erodium,FALSE,Geraniaceae,herb
+Euonymus,FALSE,Celastraceae,trsh
+Euphorbiaceae,FALSE,Euphorbiaceae,herb
+Fabaceae,FALSE,Fabaceae,herb
+Fagopyrum,FALSE,Polygonaceae,herb
+Fagus,FALSE,Fagaceae,trsh
+Ficus carica,FALSE,Moraceae,trsh
+Filipendula,FALSE,Rosaceae,herb
+Fraxinus,FALSE,Oleaceae,trsh
+Fumana,FALSE,Cistaceae,herb
+Fumaria,FALSE,Papaveraceae,herb
+Galeopsis/Ballota-type,FALSE,Lamiaceae,herb
+Genista-group,FALSE,Fabaceae,trsh
+Gentianaceae,FALSE,Gentianaceae,herb
+Geraniaceae,FALSE,Geraniaceae,herb
+Geum-type,FALSE,Rosaceae,herb
+Glaucium,FALSE,Papaveraceae,herb
+Globularia,FALSE,Plantaginaceae,herb
+Gratiola officinalis,FALSE,Plantaginaceae,herb
+Halimium,FALSE,Cistaceae,herb
+Hedera,FALSE,Araliaceae,trsh
+Helianthemum,FALSE,Cistaceae,herb
+Heliotropium,FALSE,Boraginaceae,herb
+Helleborus,FALSE,Ranunculaceae,herb
+Hepatica,FALSE,Ranunculaceae,herb
+Hippophae rhamnoides,FALSE,Elaeagnaceae,trsh
+Hypecoum,FALSE,Papaveraceae,herb
+Hypericum,FALSE,Hypericaceae,herb
+Ilex,FALSE,Aquifoliaceae,trsh
+Impatiens,FALSE,Balsaminaceae,herb
+Jasminum,FALSE,Oleaceae,trsh
+Juglandaceae,FALSE,Juglandaceae,trsh
+Juglans,FALSE,Juglandaceae,trsh
+Juncaceae,FALSE,Juncaceae,herb
+Juniperus-type,TRUE,Cupressaceae,trsh
+Koenigia islandica,FALSE,Polygonaceae,herb
+Labiatae (6),FALSE,Lamiaceae,herb
+Lamiaceae,FALSE,Lamiaceae,herb
+Lamium album-type,FALSE,Lamiaceae,herb
+Larix/Pseudotsuga,TRUE,Pinaceae,trsh
+Lathyrus/Vicia-type,FALSE,Fabaceae,herb
+Laurus,FALSE,Lauraceae,trsh
+Leontice,FALSE,Berberidaceae,herb
+Ligustrum-type,FALSE,Oleaceae,herb
+Liliaceae-type,FALSE,Liliaceae,herb
+Linaceae,FALSE,Linaceae,herb
+Linnaea borealis,FALSE,Caprifoliaceae,herb
+Linum,FALSE,Linaceae,herb
+Liquidambar,FALSE,Altingiaceae,trsh
+Liriodendron,FALSE,Magnoliaceae,trsh
+Lobelia,FALSE,Campanulaceae,herb
+Lonicera,FALSE,Caprifoliaceae,trsh
+Loranthaceae,FALSE,Loranthaceae,trsh
+Loranthus europaeus,FALSE,Loranthaceae,trsh
+Lotus-type,FALSE,Fabaceae,herb
+Lythrum,FALSE,Lythraceae,herb
+Malvaceae,FALSE,Malvaceae,herb
+Marrubium,FALSE,Lamiaceae,herb
+Medicago sativa-type,FALSE,Fabaceae,herb
+Melampyrum,FALSE,Orobanchaceae,herb
+Mercurialis,FALSE,Euphorbiaceae,herb
+Mimulus,FALSE,Phrymaceae,herb
+Monotropa hypopitys,FALSE,Ericaceae,herb
+Myosotis-type,FALSE,Boraginaceae,herb
+Myricaria germanica,FALSE,Tamaricaceae,trsh
+Myrtaceae,FALSE,Myrtaceae,trsh
+Nerium oleander,FALSE,Apocynaceae,trsh
+Nicotiana,FALSE,Solanaceae,herb
+Nigella,FALSE,Ranunculaceae,herb
+Nyssa,FALSE,Nyssaceae,trsh
+Odontites-type,FALSE,Orobanchaceae,herb
+Olea europaea,FALSE,Oleaceae,trsh
+Oleaceae,FALSE,Oleaceae,trsh
+Onagraceae,FALSE,Onagraceae,herb
+Onobrychis-type,FALSE,Fabaceae,herb
+Orchidaceae,FALSE,Orchidaceae,herb
+Ornithopus,FALSE,Fabaceae,herb
+Orthilia,FALSE,Ericaceae,trsh
+Ostrya/Carpinus orientalis,FALSE,Betulaceae,trsh
+Oxalis,FALSE,Oxalidaceae,herb
+Papaver,FALSE,Papaveraceae,herb
+Parnassia palustris,FALSE,Celastraceae,herb
+Parrotia,FALSE,Hamamelidaceae,trsh
+Pedicularis,FALSE,Orobanchaceae,herb
+Penthorum sedoides,FALSE,Penthoraceae,herb
+Phillyrea,FALSE,Oleaceae,trsh
+Picea,TRUE,Pinaceae,trsh
+Pinguicula,FALSE,Lentibulariaceae,herb
+Pinus,TRUE,Pinaceae,trsh
+Pistacia,FALSE,Anacardiaceae,trsh
+Plantaginaceae,FALSE,Plantaginaceae,herb
+Plantago,FALSE,Plantaginaceae,herb
+Platanus,FALSE,Platanaceae,trsh
+Plumbaginaceae,FALSE,Plumbaginaceae,trsh
+Poaceae,FALSE,Poaceae,herb
+Polemoniaceae,FALSE,Polemoniaceae,herb
+Polygala,FALSE,Polygalaceae,herb
+Polygonaceae,FALSE,Polygonaceae,herb
+Polygonum (pericolpate/periporate),FALSE,Polygonaceae,herb
+Polygonum alpinum,FALSE,Polygonaceae,herb
+Polygonum oxyspermum ssp. raii,FALSE,Polygonaceae,herb
+Polygonum-type (tricolporate),FALSE,Polygonaceae,herb
+Populus,FALSE,Salicaceae,trsh
+Portulaca/Montia,FALSE,Portulacaceae,herb
+Primula,FALSE,Primulaceae,herb
+Primulaceae,FALSE,Primulaceae,herb
+Psoralea bituminosa,FALSE,Fabaceae,herb
+Pterocarya,FALSE,Juglandaceae,trsh
+Quercus,FALSE,Fagaceae,trsh
+Radiola linoides,FALSE,Linaceae,herb
+Ranunculaceae,FALSE,Ranunculaceae,herb
+Ranunculus arvensis-type,FALSE,Ranunculaceae,herb
+Ranunculus-type,FALSE,Ranunculaceae,herb
+Resedaceae,FALSE,Resedaceae,herb
+Rhamnaceae,FALSE,Rhamnaceae,trsh
+Rheum,FALSE,Polygonaceae,herb
+Rhinanthus-group,FALSE,Orobanchaceae,herb
+Rhus/Cotinus,FALSE,Anacardiaceae,trsh
+Ribes,FALSE,Grossulariaceae,trsh
+Roemeria-type,FALSE,Papaveraceae,herb
+Rosaceae,FALSE,Rosaceae,trsh
+Rosaceae (non-operculate),FALSE,Rosaceae,trsh
+Rosaceae (operculate),FALSE,Rosaceae,herb
+Rubiaceae,FALSE,Rubiaceae,herb
+Rubus chamaemorus,FALSE,Rosaceae,herb
+Rumex aquaticus-type,FALSE,Polygonaceae,herb
+Rumex/Oxyria,FALSE,Polygonaceae,herb
+Ruta,FALSE,Rutaceae,trsh
+Rutaceae,FALSE,Rutaceae,trsh
+Salix,FALSE,Salicaceae,trsh
+Sambucus,FALSE,Adoxaceae,trsh
+Sanguisorba-type,FALSE,Rosaceae,herb
+Santalaceae,FALSE,Santalaceae,herb
+Saxifraga,FALSE,Saxifragaceae,herb
+Saxifragaceae,FALSE,Saxifragaceae,herb
+Sciadopitys,TRUE,Sciadopityaceae,trsh
+Scrophulariaceae (colporate-reticulate),FALSE,Scrophulariaceae,herb
+Solanaceae,FALSE,Solanaceae,herb
+Solanum,FALSE,Solanaceae,herb
+Soldanella,FALSE,Primulaceae,herb
+Spergula arvensis-type,FALSE,Caryophyllaceae,herb
+Spergularia-type,FALSE,Caryophyllaceae,herb
+Spermatophyta undiff. (trees/shrubs),FALSE,delete,trsh
+Spermatophyta undiff. (upland herbs),FALSE,delete,trsh
+Staphylea pinnata,FALSE,Staphyleaceae,trsh
+Tamarix,FALSE,Tamaricaceae,trsh
+Tamus communis,FALSE,Dioscoreaceae,herb
+Taxus baccata,TRUE,Taxaceae,trsh
+Teucrium,FALSE,Lamiaceae,herb
+Thalictrum,FALSE,Ranunculaceae,herb
+Theligonum cynocrambe,FALSE,Rubiaceae,herb
+Thesium,FALSE,Santalaceae,herb
+Thymelaeaceae,FALSE,Thymelaeaceae,trsh
+Tilia,FALSE,Malvaceae,trsh
+Tofieldia,FALSE,Tofieldiaceae,herb
+Trachycarpus fortunei,FALSE,Arecaceae,trsh
+Tribulus terrestris,FALSE,Zygophyllaceae,herb
+Trientalis europaea,FALSE,Primulaceae,herb
+Trifolium-type,FALSE,Fabaceae,herb
+Trollius europaeus,FALSE,Ranunculaceae,herb
+Tsuga,TRUE,Pinaceae,trsh
+Tuberaria,FALSE,Cistaceae,herb
+Ulmus/Zelkova,FALSE,Ulmaceae,trsh
+Urticaceae/Moraceae,FALSE,Urticaceae,herb
+Valerianaceae,FALSE,Caprifoliaceae,herb
+Verbena officinalis,FALSE,Verbenaceae,herb
+Verbenaceae,FALSE,Verbenaceae,herb
+Viburnum,FALSE,Adoxaceae,trsh
+Vincetoxicum,FALSE,Apocynaceae,herb
+Viola,FALSE,Violaceae,herb
+Viscum album,FALSE,Santalaceae,trsh
+Vitis,FALSE,Vitaceae,trsh
+Zygophyllum,FALSE,Zygophyllaceae,trsh
+sample_id,FALSE,sample_id,labo

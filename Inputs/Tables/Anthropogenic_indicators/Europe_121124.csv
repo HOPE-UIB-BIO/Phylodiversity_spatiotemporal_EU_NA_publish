@@ -1,0 +1,2059 @@
+raw_name,taxon_name,level_1,indicator
+Abies,abies,Abies,FALSE
+Abies alba,abies_alba,Abies,FALSE
+Abies undiff.,abies_undiff,Abies,FALSE
+Acacia,acacia,Acacia,FALSE
+Acanthus,acanthus,Acanthus,FALSE
+Acer,acer,Acer campestre-type,FALSE
+Acer campestre,acer_campestre,Acer campestre-type,FALSE
+Acer campestre-type,acer_campestre_type,Acer campestre-type,FALSE
+Acer negundo,acer_negundo,Acer negundo,FALSE
+Acer platanoides,acer_platanoides,Acer campestre-type,FALSE
+Acer undiff.,acer_undiff,Acer campestre-type,FALSE
+Achillea,achillea,Matricaria-type,FALSE
+Achillea-type,achillea_type,Matricaria-type,FALSE
+Achillea erba-rotta subsp. moschata,achillea_erba_minus_rotta_subsp_moschata,Matricaria-type,FALSE
+Aconitum,aconitum,Aconitum,FALSE
+Aconitum-type,aconitum_type,Aconitum,FALSE
+Aconitum (excluding A. napellus),aconitum_excluding_a_napellus,Aconitum,FALSE
+Aconitum lycoctonum subsp. septentrionale,aconitum_lycoctonum_subsp_septentrionale,Aconitum,FALSE
+Aconitum napellus-type,aconitum_napellus_type,Aconitum,FALSE
+Actaea spicata,actaea_spicata,Actaea,FALSE
+Adenostyles,adenostyles,Senecio-type,FALSE
+Adenostyles alliariae,adenostyles_alliariae,Senecio-type,FALSE
+Adonis,adonis,Adonis,FALSE
+Adonis-type,adonis_type,Adonis,FALSE
+Adonis aestivalis,adonis_aestivalis,Adonis aestivalis-type,FALSE
+Adonis aestivalis-type,adonis_aestivalis_type,Adonis aestivalis-type,FALSE
+Adoxa,adoxa,Adoxa moschatellina,FALSE
+Adoxa moschatellina,adoxa_moschatellina,Adoxa moschatellina,FALSE
+Aesculus,aesculus,Aesculus,FALSE
+Aesculus hippocastanum,aesculus_hippocastanum,Aesculus hippocastanum,FALSE
+Aethusa cynapium,aethusa_cynapium,Aethusa cynapium,FALSE
+Aethusa cynapium-type,aethusa_cynapium_type,Aethusa cynapium,FALSE
+Agrimonia,agrimonia,Agrimonia/Aremonia,FALSE
+Agrimonia-type,agrimonia_type,Agrimonia/Aremonia,FALSE
+Agrimonia eupatoria-type,agrimonia_eupatoria_type,Agrimonia/Aremonia,FALSE
+Agropyron-type,agropyron_type,Hordeum-type,FALSE
+Agrostemma,agrostemma,Agrostemma githago,FALSE
+Agrostemma-type,agrostemma_type,Agrostemma githago,FALSE
+Agrostemma githago,agrostemma_githago,Agrostemma githago,FALSE
+Ailanthus,ailanthus,Apiaceae,FALSE
+Alchemilla,alchemilla,Alchemilla,FALSE
+Alchemilla-type,alchemilla_type,Alchemilla/Aphanes,FALSE
+Alchemilla cf. A. glabra,alchemilla_cf_a_glabra,Alchemilla,FALSE
+Alchemilla pentaphyllea,alchemilla_pentaphyllea,Alchemilla,FALSE
+Alchemilla/Aphanes,alchemilla_aphanes,Alchemilla/Aphanes,FALSE
+Alkanna,alkanna,Alkanna-type,FALSE
+Allium,allium,Allium-type,FALSE
+Allium-type,allium_type,Allium-type,FALSE
+Allium ursinum-type,allium_ursinum_type,Allium ursinum-type,FALSE
+Allium vineale-type,allium_vineale_type,Allium vineale-type,FALSE
+Alnus,alnus,Alnus glutinosa-type,FALSE
+Alnus (excluding A. viridis),alnus_excluding_a_viridis,Alnus glutinosa-type,FALSE
+"Alnus (shrub, pale shallow pores)",alnus_shrub_pale_shallow_pores,Alnus glutinosa-type,FALSE
+"Alnus (tree, robust deep pores)",alnus_tree_robust_deep_pores,Alnus glutinosa-type,FALSE
+Alnus glutinosa,alnus_glutinosa,Alnus glutinosa-type,FALSE
+Alnus glutinosa-type,alnus_glutinosa_type,Alnus glutinosa-type,FALSE
+Alnus glutinosa/A. incana,alnus_glutinosa_a_incana,Alnus glutinosa-type,FALSE
+Alnus incana,alnus_incana,Alnus glutinosa-type,FALSE
+Alnus incana-type,alnus_incana_type,Alnus glutinosa-type,FALSE
+Alnus subg. Alnobetula,alnus_subg_alnobetula,Alnus viridis,FALSE
+Alnus undiff.,alnus_undiff,Alnus,FALSE
+Alnus viridis,alnus_viridis,Alnus viridis,FALSE
+Alnus viridis-type,alnus_viridis_type,Alnus viridis,FALSE
+Alnus viridis subsp. fruticosa,alnus_viridis_subsp_fruticosa,Alnus viridis,FALSE
+Amaranthaceae,amaranthaceae,Chenopodiaceae/Amaranthaceae,FALSE
+Amaranthaceae-type,amaranthaceae_type,Chenopodiaceae/Amaranthaceae,FALSE
+Amaranthus,amaranthus,Chenopodiaceae/Amaranthaceae,FALSE
+Ambrosia,ambrosia,Ambrosia,FALSE
+Ambrosia-type,ambrosia_type,Ambrosia/Xanthium,FALSE
+Ammi,ammi,Apiaceae,FALSE
+Ammi-type,ammi_type,Apiaceae,FALSE
+Amygdaloideae,amygdaloideae,Amygdaloideae,FALSE
+Anagallis,anagallis,Anagallis,FALSE
+Anagallis-type,anagallis_type,Anagallis-type,FALSE
+Anagallis arvensis,anagallis_arvensis,Anagallis arvensis-type,FALSE
+Anagallis cf. A. arvensis,anagallis_cf_a_arvensis,Anagallis arvensis-type,FALSE
+Anagallis cf. A. tenella,anagallis_cf_a_tenella,Anagallis tenella-type,FALSE
+Anagallis tenella,anagallis_tenella,Anagallis tenella-type,FALSE
+Anarrhinum,anarrhinum,Anarrhinum bellidifolium,FALSE
+Anchusa,anchusa,Anchusa arvensis-type,FALSE
+Anchusa-type,anchusa_type,Anchusa/Pulmonaria,FALSE
+Andromeda,andromeda,Andromeda polifolia,FALSE
+Andromeda polifolia,andromeda_polifolia,Andromeda polifolia,FALSE
+Androsace,androsace,Androsace,FALSE
+Androsace-type,androsace_type,Androsace,FALSE
+Androsace alpina-type,androsace_alpina_type,Androsace elongata-type,FALSE
+Androsace elongata-type,androsace_elongata_type,Androsace elongata-type,FALSE
+Anemone,anemone,Anemone nemorosa-type,FALSE
+Anemone-type,anemone_type,Anemone nemorosa-type,FALSE
+Anemone alpina,anemone_alpina,Pulsatilla,FALSE
+Anemone hortensis-type,anemone_hortensis_type,Anemone nemorosa-type,FALSE
+Anemone nemorosa,anemone_nemorosa,Anemone nemorosa-type,FALSE
+Anemone nemorosa-type,anemone_nemorosa_type,Anemone nemorosa-type,FALSE
+Anemone nemorosa group,anemone_nemorosa_group,Anemone nemorosa-type,FALSE
+Anemone sect. Hepatica,anemone_sect_hepatica,Hepatica,FALSE
+Anemone sect. Pulsatilla,anemone_sect_pulsatilla,Pulsatilla,FALSE
+Anemone sect. Pulsatilla-type,anemone_sect_pulsatilla_type,Pulsatilla,FALSE
+Anemone subg. Anemone,anemone_subg_anemone,Ranunculus-type,FALSE
+Anethum-type,anethum_type,Falcaria-type,FALSE
+Angelica-type,angelica_type,Apiaceae,FALSE
+Angelica archangelica-type,angelica_archangelica_type,Angelica archangelica,FALSE
+Angelica palustris-type,angelica_palustris_type,Angelica palustris,FALSE
+Angelica sylvestris,angelica_sylvestris,Peucedanum-type,FALSE
+Angiospermae undiff. (herbs),angiospermae_undiff_herbs,Angiospermae undiff. (herbs),FALSE
+Antennaria-type,antennaria_type,Antennaria-type,FALSE
+Anthemideae,anthemideae,Matricaria-type,FALSE
+Anthemis,anthemis,Matricaria-type,FALSE
+Anthemis-type,anthemis_type,Matricaria-type,FALSE
+Anthemis-type (small),anthemis_type_small,Matricaria-type,FALSE
+Anthemis arvensis-type,anthemis_arvensis_type,Matricaria-type,FALSE
+Anthericum,anthericum,Anthericum,FALSE
+Anthericum-type,anthericum_type,Anthericum,FALSE
+Anthoxanthum,anthoxanthum,Poaceae,FALSE
+Anthriscus,anthriscus,Apiaceae,FALSE
+Anthriscus-type,anthriscus_type,Apiaceae,FALSE
+Anthriscus sylvestris,anthriscus_sylvestris,Anthriscus sylvestris-type,FALSE
+Anthriscus sylvestris-type,anthriscus_sylvestris_type,Anthriscus sylvestris-type,FALSE
+Anthyllis,anthyllis,Anthyllis,FALSE
+Anthyllis vulneraria,anthyllis_vulneraria,Anthyllis,FALSE
+Aphanes,aphanes,Aphanes,FALSE
+Aphanes-type,aphanes_type,Alchemilla/Aphanes,FALSE
+Aphanes arvensis-type,aphanes_arvensis_type,Aphanes,FALSE
+Apiaceae,apiaceae,Apiaceae,FALSE
+Apiaceae undiff,apiaceae_undiff,Apiaceae,FALSE
+Apium,apium,Apium,FALSE
+Apium-type,apium_type,Apiaceae,FALSE
+Apium inundatum-type,apium_inundatum_type,Apium,FALSE
+Apium nodiflorum,apium_nodiflorum,Apium nodiflorum,FALSE
+Aquilegia,aquilegia,Aquilegia,FALSE
+Aquilegia-type,aquilegia_type,Aquilegia,FALSE
+Araliaceae undiff.,araliaceae_undiff,Araliaceae,FALSE
+Arbutus,arbutus,Arbutus,FALSE
+Arbutus unedo,arbutus_unedo,Arbutus,FALSE
+Arceuthobium oxycedri,arceuthobium_oxycedri,Arceuthobium oxycedri,FALSE
+Arctium,arctium,Arctium,FALSE
+Arctium-type,arctium_type,Saussurea-type,FALSE
+Arctium/Jurinea,arctium_jurinea,Saussurea-type,FALSE
+Arctostaphylos,arctostaphylos,Arctostaphylos,FALSE
+Arctostaphylos uva-ursi,arctostaphylos_uva_minus_ursi,Arctostaphylos uva-ursi,FALSE
+Arctostaphylos uva-ursi-type,arctostaphylos_uva_minus_ursi_type,Arctostaphylos uva-ursi,FALSE
+Arctous alpina,arctous_alpina,Arctostaphylos alpinus,FALSE
+Arenaria,arenaria,Arenaria,FALSE
+Arenaria-type,arenaria_type,Arenaria,FALSE
+Arenaria biflora,arenaria_biflora,Arenaria,FALSE
+Arenaria serpyllifolia-type,arenaria_serpyllifolia_type,Arenaria,FALSE
+Armeria,armeria,Armeria-type,FALSE
+Armeria-type,armeria_type,Armeria-type,FALSE
+Armeria (type A),armeria_type_a,Armeria-type,FALSE
+Armeria (type B),armeria_type_b,Armeria-type,FALSE
+Armeria alliacea,armeria_alliacea,Armeria-type,FALSE
+Armeria maritima,armeria_maritima,Armeria-type,FALSE
+Armeria maritima (type A),armeria_maritima_type_a,Armeria-type,FALSE
+Armeria maritima (type B),armeria_maritima_type_b,Armeria-type,FALSE
+Armeria maritima subsp. elongata,armeria_maritima_subsp_elongata,Armeria-type,FALSE
+Armeria/Limonium,armeria_limonium,Armeria-type,FALSE
+Arnica,arnica,Bidens-type,FALSE
+Arnica-type,arnica_type,Bidens-type,FALSE
+Arnica montana,arnica_montana,Bidens-type,FALSE
+Artemisia,artemisia,Artemisia,FALSE
+Artemisia-type,artemisia_type,Artemisia,FALSE
+Artemisia campestris,artemisia_campestris,Artemisia,FALSE
+Artemisia campestris-type,artemisia_campestris_type,Artemisia,FALSE
+Artemisia cf. A. norvegica,artemisia_cf_a_norvegica,Artemisia,FALSE
+Artemisia genipi/A. umbelliformis,artemisia_genipi_a_umbelliformis,Artemisia,FALSE
+Artemisia herba-alba-type,artemisia_herba_minus_alba_type,Artemisia,FALSE
+Artemisia norvegica,artemisia_norvegica,Artemisia,FALSE
+Artemisia norvegica-type,artemisia_norvegica_type,Artemisia,FALSE
+Artemisia rupestris,artemisia_rupestris,Artemisia,FALSE
+Artemisia sensu lato,artemisia_sensu_lato,Artemisia,FALSE
+Artemisia sensu stricto,artemisia_sensu_stricto,Artemisia,FALSE
+Artemisia undiff.,artemisia_undiff,Artemisia,FALSE
+Artemisia vulgaris,artemisia_vulgaris,Artemisia,FALSE
+Artemisia vulgaris-type,artemisia_vulgaris_type,Artemisia,FALSE
+Arum/Acorus,arum_acorus,Arum/Acorus,FALSE
+Aruncus,aruncus,Aruncus/Spiraea,FALSE
+Aruncus-type,aruncus_type,Aruncus/Spiraea,FALSE
+Aruncus dioicus,aruncus_dioicus,Aruncus/Spiraea,FALSE
+Asarum europaeum,asarum_europaeum,Asarum europaeum,FALSE
+Asparagus,asparagus,Asparagus,FALSE
+Asparagus acutifolius,asparagus_acutifolius,Asparagus acutifolius,FALSE
+Asperula,asperula,Rubiaceae,FALSE
+Asphodeline,asphodeline,Asphodeline,FALSE
+Asphodelus,asphodelus,Asphodelus,FALSE
+Asphodelus-type,asphodelus_type,Asphodelus/Asphodeline,FALSE
+Asphodelus albus,asphodelus_albus,Asphodelus albus-type,FALSE
+Asphodelus albus-type,asphodelus_albus_type,Asphodelus albus-type,FALSE
+Asphodelus fistulosus,asphodelus_fistulosus,Asphodelus fistulosus-type,FALSE
+Aster,aster,Aster-type,FALSE
+Aster-type,aster_type,Aster-type,FALSE
+Aster/Achillea,aster_achillea,Compositae subfam. Asteroideae,FALSE
+Aster/Achillea-type,aster_achillea_type,Compositae subfam. Asteroideae,FALSE
+Asteraceae,asteraceae,Asteraceae,FALSE
+Asteraceae (undiff.),asteraceae_undiff,Asteraceae,FALSE
+Asteroideae,asteroideae,Compositae subfam. Asteroideae,FALSE
+Asteroideae pro parte,asteroideae_pro_parte,Compositae subfam. Asteroideae,FALSE
+Asteroideae undiff.,asteroideae_undiff,Compositae subfam. Asteroideae,FALSE
+Astragalus,astragalus,Astragalus-type,FALSE
+Astragalus-type,astragalus_type,Astragalus-type,FALSE
+Astragalus alpinus,astragalus_alpinus,Astragalus-type,FALSE
+Astragalus alpinus-type,astragalus_alpinus_type,Astragalus-type,FALSE
+Astragalus cf. A. alpinus,astragalus_cf_a_alpinus,Astragalus-type,FALSE
+Astragalus cf. A. glycyphyllos,astragalus_cf_a_glycyphyllos,Astragalus-type,FALSE
+Astragalus danicus,astragalus_danicus,Astragalus-type,FALSE
+Astragalus frigidus,astragalus_frigidus,Astragalus-type,FALSE
+Astragalus undiff.,astragalus_undiff,Astragalus-type,FALSE
+Astragalus/Oxytropis-type,astragalus_oxytropis_type,Astragalus-type,FALSE
+Astrantia,astrantia,Astrantia-type,FALSE
+Astrantia-type,astrantia_type,Astrantia-type,FALSE
+Astrantia major,astrantia_major,Astrantia major,FALSE
+Astrantia major-type,astrantia_major_type,Astrantia-type,FALSE
+Astrantia minor,astrantia_minor,Astrantia-type,FALSE
+Athamanta cretensis,athamanta_cretensis,Athamanta cretensis,FALSE
+Atriplex,atriplex,Chenopodiaceae/Amaranthaceae,FALSE
+Atriplex calotheca,atriplex_calotheca,Chenopodiaceae/Amaranthaceae,FALSE
+Atriplex kuzenevae,atriplex_kuzenevae,Chenopodiaceae/Amaranthaceae,FALSE
+Atriplex nudicaulis,atriplex_nudicaulis,Chenopodiaceae/Amaranthaceae,FALSE
+Atriplex praecox,atriplex_praecox,Chenopodiaceae/Amaranthaceae,FALSE
+Atropa-type,atropa_type,Atropa-type,FALSE
+Atropa belladonna,atropa_belladonna,Atropa,FALSE
+Avena,avena,Avena-type,FALSE
+Avena-type,avena_type,Avena-type,FALSE
+Avena sativa,avena_sativa,Avena-type,FALSE
+Avena/Triticum,avena_triticum,Avena/Triticum-type,FALSE
+Avena/Triticum-type,avena_triticum_type,Avena/Triticum-type,FALSE
+Ballota,ballota,Ballota-type,FALSE
+Ballota-type,ballota_type,Ballota-type,FALSE
+Ballota group,ballota_group,Ballota-type,FALSE
+Balsaminaceae,balsaminaceae,Impatiens,FALSE
+Bambusa-type,bambusa_type,Poaceae,FALSE
+Barbarea-type,barbarea_type,Brassicaceae,FALSE
+Bartsia,bartsia,Rhinanthus-type,FALSE
+Bartsia-type,bartsia_type,Rhinanthus-type,FALSE
+Bassia laniflora,bassia_laniflora,Chenopodiaceae/Amaranthaceae,FALSE
+Bellidiastrum-type,bellidiastrum_type,Aster-type,FALSE
+Bellidiastrum michelii,bellidiastrum_michelii,Aster-type,FALSE
+Bellis,bellis,Aster-type,FALSE
+Bellis-type,bellis_type,Aster-type,FALSE
+Berberis,berberis,Berberis,FALSE
+Berberis vulgaris,berberis_vulgaris,Berberis,FALSE
+Berberis vulgaris-type,berberis_vulgaris_type,Berberis,FALSE
+Berula-type,berula_type,Sium-type,FALSE
+Berula erecta,berula_erecta,Berula erecta,FALSE
+Berula erecta-type,berula_erecta_type,Sium-type,FALSE
+Betula,betula,Betula pubescens-type,FALSE
+Betula (hybrid),betula_hybrid,Betula pubescens-type,FALSE
+Betula (tree),betula_tree,Betula pubescens-type,FALSE
+Betula cf. B. nana,betula_cf_b_nana,Betula nana-type,FALSE
+Betula fruticosa,betula_fruticosa,Betula nana-type,FALSE
+Betula humilis,betula_humilis,Betula nana-type,FALSE
+Betula nana,betula_nana,Betula nana-type,FALSE
+Betula nana-type,betula_nana_type,Betula nana-type,FALSE
+Betula nana subsp. exilis,betula_nana_subsp_exilis,Betula nana-type,FALSE
+Betula pendula,betula_pendula,Betula pubescens-type,FALSE
+Betula pubescens,betula_pubescens,Betula pubescens-type,FALSE
+Betula pubescens-type,betula_pubescens_type,Betula pubescens-type,FALSE
+Betula pubescens var. pumila,betula_pubescens_var_pumila,Betula pubescens-type,FALSE
+Betula sect. Apterocaryon,betula_sect_apterocaryon,Betula nana-type,FALSE
+Betula sect. Betula,betula_sect_betula,Betula pubescens-type,FALSE
+Betula undiff.,betula_undiff,Betula,FALSE
+"Betula/Alnus/Corylus/Myrica (type 114, HdV)",betula_alnus_corylus_myrica_type_114_hd_v,Betulaceae,FALSE
+Betula/Corylus/Myrica,betula_corylus_myrica,Betula/Corylus/Myrica,FALSE
+Betulaceae,betulaceae,Betulaceae,FALSE
+Bidens,bidens,Bidens-type,FALSE
+Bidens-type,bidens_type,Bidens-type,FALSE
+Bistorta,bistorta,Polygonum bistorta-type,FALSE
+Bistorta officinalis,bistorta_officinalis,Polygonum bistorta,FALSE
+Bistorta officinalis-type,bistorta_officinalis_type,Polygonum bistorta-type,FALSE
+Bistorta officinalis/B. vivipara,bistorta_officinalis_b_vivipara,Polygonum bistorta-type,FALSE
+Bistorta vivipara,bistorta_vivipara,Polygonum viviparum,FALSE
+Bistorta vivipara-type,bistorta_vivipara_type,Polygonum bistorta-type,FALSE
+Bituminaria bituminosa,bituminaria_bituminosa,Psoralea bituminosa,FALSE
+Blackstonia,blackstonia,Blackstonia perfoliata,FALSE
+Blackstonia perfoliata-type,blackstonia_perfoliata_type,Blackstonia perfoliata,FALSE
+Boraginaceae,boraginaceae,Boraginaceae,FALSE
+Boraginaceae undiff.,boraginaceae_undiff,Boraginaceae,FALSE
+Borago,borago,Borago,FALSE
+Borago officinalis,borago_officinalis,Borago,FALSE
+Brassica,brassica,Brassicaceae,FALSE
+Brassica-type,brassica_type,Brassicaceae,FALSE
+Brassicaceae,brassicaceae,Brassicaceae,FALSE
+Brassicaceae-type,brassicaceae_type,Brassicaceae,FALSE
+Brassicaceae undiff.,brassicaceae_undiff,Brassicaceae,FALSE
+Bromus,bromus,Bromus,FALSE
+Bruckenthalia,bruckenthalia,Bruckenthalia spiculifolia,FALSE
+Bruckenthalia-type,bruckenthalia_type,Bruckenthalia spiculifolia,FALSE
+Bryonia,bryonia,Bryonia,FALSE
+Buglossoides arvensis,buglossoides_arvensis,Buglossoides arvensis,FALSE
+Bunium-type,bunium_type,Peucedanum-type,FALSE
+Buphthalmum,buphthalmum,Senecio-type,FALSE
+Bupleurum,bupleurum,Bupleurum,FALSE
+Bupleurum-type,bupleurum_type,Apiaceae,FALSE
+Bupleurum ranunculoides,bupleurum_ranunculoides,Bupleurum,FALSE
+Buxus,buxus,Buxus,FALSE
+Buxus sempervirens,buxus_sempervirens,Buxus,FALSE
+Calendula,calendula,Calendula,FALSE
+Calligonum,calligonum,Calligonum,FALSE
+Calluna,calluna,Calluna vulgaris,FALSE
+Calluna vulgaris,calluna_vulgaris,Calluna vulgaris,FALSE
+Calluna vulgaris-type,calluna_vulgaris_type,Calluna vulgaris,FALSE
+Caltha-type,caltha_type,Caltha-type,FALSE
+Calystegia,calystegia,Calystegia,FALSE
+Calystegia-type,calystegia_type,Calystegia,FALSE
+Calystegia sepium,calystegia_sepium,Calystegia,FALSE
+Calystegia sepium-type,calystegia_sepium_type,Calystegia,FALSE
+Campanula,campanula,Phyteuma-type,FALSE
+Campanula-type,campanula_type,Phyteuma-type,FALSE
+Campanula barbata,campanula_barbata,Campanula trachelium-type,FALSE
+Campanula rapunculoides,campanula_rapunculoides,Campanula trachelium-type,FALSE
+Campanula rotundifolia,campanula_rotundifolia,Phyteuma-type,FALSE
+Campanula trachelium-type,campanula_trachelium_type,Campanula trachelium-type,FALSE
+Campanula/Jasione,campanula_jasione,Campanulaceae,FALSE
+Campanulaceae,campanulaceae,Campanulaceae,FALSE
+Campanulaceae undiff.,campanulaceae_undiff,Campanulaceae,FALSE
+Cannabaceae,cannabaceae,Cannabis/Humulus,FALSE
+Cannabaceae-type,cannabaceae_type,Cannabis/Humulus,FALSE
+Cannabaceae cf. Cannabis sativa,cannabaceae_cf_cannabis_sativa,Cannabis/Humulus,FALSE
+Cannabaceae sensu stricto,cannabaceae_sensu_stricto,Cannabis/Humulus,FALSE
+Cannabaceae undiff.,cannabaceae_undiff,Cannabis/Humulus,FALSE
+Cannabis,cannabis,Cannabis sativa,FALSE
+Cannabis-type,cannabis_type,Cannabis sativa,FALSE
+Cannabis sativa,cannabis_sativa,Cannabis sativa,FALSE
+Cannabis sativa-type,cannabis_sativa_type,Cannabis sativa,FALSE
+Caprifoliaceae,caprifoliaceae,Caprifoliaceae,FALSE
+Capsella-type,capsella_type,Brassicaceae,FALSE
+Cardamine,cardamine,Brassicaceae,FALSE
+Cardamine-type,cardamine_type,Brassicaceae,FALSE
+Cardamine pratensis-type,cardamine_pratensis_type,Brassicaceae,FALSE
+Cardueae,cardueae,Cynareae,FALSE
+Carduoideae,carduoideae,Cynareae,FALSE
+Carduus,carduus,Carduus,FALSE
+Carduus-type,carduus_type,Carduus-type,FALSE
+Carex,carex,Carex,FALSE
+Carex-type,carex_type,Carex,FALSE
+Carex hirta-type,carex_hirta_type,Carex,FALSE
+Carlina,carlina,Carlina,FALSE
+Carlina acaulis,carlina_acaulis,Carlina acaulis,FALSE
+Carpinus,carpinus,Carpinus betulus,FALSE
+Carpinus-type,carpinus_type,Carpinus betulus,FALSE
+Carpinus betulus,carpinus_betulus,Carpinus betulus,FALSE
+Carpinus betulus-type,carpinus_betulus_type,Carpinus betulus,FALSE
+Carpinus orientalis,carpinus_orientalis,Ostrya/Carpinus orientalis,FALSE
+Carthamus,carthamus,Carthamus-type,FALSE
+Carthamus-type,carthamus_type,Carduncellus-type,FALSE
+Carum,carum,Apiaceae,FALSE
+Carum-type,carum_type,Apiaceae,FALSE
+Carum carvi,carum_carvi,Carum carvi,FALSE
+Carum carvi-type,carum_carvi_type,Carum carvi,FALSE
+Carum verticillatum,carum_verticillatum,Carum verticillatum,FALSE
+Carya,carya,Carya,FALSE
+Carya tomentosa,carya_tomentosa,Carya,FALSE
+Caryophyllaceae,caryophyllaceae,Caryophyllaceae (periporate excl. Paronychioideae),FALSE
+"Caryophyllaceae (periporate, excluding Paronychioideae)",caryophyllaceae_periporate_excluding_paronychioideae,Caryophyllaceae (periporate excl. Paronychioideae),FALSE
+Caryophyllaceae cf. Silene latifolia subsp. alba,caryophyllaceae_cf_silene_latifolia_subsp_alba,Caryophyllaceae (periporate excl. Paronychioideae),FALSE
+Caryophyllaceae pro parte,caryophyllaceae_pro_parte,Caryophyllaceae (periporate excl. Paronychioideae),FALSE
+Caryophyllaceae undiff.,caryophyllaceae_undiff,Caryophyllaceae (periporate excl. Paronychioideae),FALSE
+Castanea,castanea,Castanea sativa,FALSE
+Castanea-type,castanea_type,Castanea sativa,FALSE
+Castanea sativa,castanea_sativa,Castanea sativa,FALSE
+Caucalis platycarpos,caucalis_platycarpos,Caucalis platycarpos,FALSE
+Cedrus,cedrus,Cedrus,FALSE
+Cedrus-type,cedrus_type,Cedrus,FALSE
+Celastraceae,celastraceae,Celastraceae,FALSE
+Celtis,celtis,Celtis,FALSE
+Celtis-type,celtis_type,Celtis,FALSE
+Celtis australis,celtis_australis,Celtis,FALSE
+Centaurea,centaurea,Centaurea,FALSE
+Centaurea-type,centaurea_type,Centaurea,FALSE
+Centaurea cf. C. cyanus,centaurea_cf_c_cyanus,Centaurea cyanus-type,FALSE
+Centaurea cf. C. cyanus-type,centaurea_cf_c_cyanus_type,Centaurea cyanus-type,FALSE
+Centaurea cf. C. nigra-type,centaurea_cf_c_nigra_type,Centaurea nigra-type,FALSE
+Centaurea cf. C. scabiosa-type,centaurea_cf_c_scabiosa_type,Centaurea scabiosa-type,FALSE
+Centaurea collina,centaurea_collina,Centaurea scabiosa-type,FALSE
+Centaurea collina-type,centaurea_collina_type,Centaurea scabiosa-type,FALSE
+Centaurea cyanus,centaurea_cyanus,Centaurea cyanus-type,FALSE
+Centaurea cyanus-type,centaurea_cyanus_type,Centaurea cyanus-type,FALSE
+Centaurea depressa-type,centaurea_depressa_type,Centaurea cyanus-type,FALSE
+Centaurea jacea,centaurea_jacea,Centaurea nigra-type,FALSE
+Centaurea jacea-type,centaurea_jacea_type,Centaurea nigra-type,FALSE
+Centaurea montana,centaurea_montana,Centaurea montana-type,FALSE
+Centaurea montana-type,centaurea_montana_type,Centaurea montana-type,FALSE
+Centaurea montana/Cyanus triumfettii,centaurea_montana_cyanus_triumfettii,Centaurea montana-type,FALSE
+Centaurea nigra,centaurea_nigra,Centaurea nigra-type,FALSE
+Centaurea nigra-type,centaurea_nigra_type,Centaurea nigra-type,FALSE
+Centaurea scabiosa,centaurea_scabiosa,Centaurea scabiosa-type,FALSE
+Centaurea scabiosa-type,centaurea_scabiosa_type,Centaurea scabiosa-type,FALSE
+Centaurea sinaica,centaurea_sinaica,Laserpitium latifolium-type,FALSE
+Centaurea solstitialis,centaurea_solstitialis,Centaurea nigra-type,FALSE
+Centaurea solstitialis-type,centaurea_solstitialis_type,Centaurea nigra-type,FALSE
+Centaurea stoebe,centaurea_stoebe,Centaurea nigra-type,FALSE
+Centaurea stoebe-type,centaurea_stoebe_type,Centaurea nigra-type,FALSE
+Centaurea undiff.,centaurea_undiff,Centaurea,FALSE
+Centaurea/Serratula,centaurea_serratula,Compositae subfam. Asteroideae,FALSE
+Centaurium,centaurium,Centaurium,FALSE
+Centaurium-type,centaurium_type,Centaurium,FALSE
+Centaurium pulchellum,centaurium_pulchellum,Centaurium,FALSE
+Centaurium pulchellum-type,centaurium_pulchellum_type,Centaurium,FALSE
+Centranthus,centranthus,Centranthus,FALSE
+Cerastium,cerastium,Cerastium-type,FALSE
+Cerastium-type,cerastium_type,Cerastium-type,FALSE
+Cerastium alpinum-type,cerastium_alpinum_type,Cerastium-type,FALSE
+Cerastium arvense,cerastium_arvense,Cerastium-type,FALSE
+Cerastium arvense-type,cerastium_arvense_type,Cerastium-type,FALSE
+Cerastium cerastoides,cerastium_cerastoides,Cerastium-type,FALSE
+Cerastium cerastoides-type,cerastium_cerastoides_type,Cerastium-type,FALSE
+Cerastium fontanum,cerastium_fontanum,Cerastium-type,FALSE
+Cerastium fontanum-type,cerastium_fontanum_type,Cerastium-type,FALSE
+Cerastium undiff.,cerastium_undiff,Cerastium-type,FALSE
+Cerastium uniflorum,cerastium_uniflorum,Cerastium-type,FALSE
+Ceratonia,ceratonia,Ceratonia siliqua,FALSE
+Ceratonia siliqua,ceratonia_siliqua,Ceratonia siliqua,FALSE
+Cerinthe,cerinthe,Cerinthe,FALSE
+cf Brassicaceae,cf_brassicaceae,Brassicaceae,FALSE
+cf Centaurium,cf_centaurium,Gentianaceae,FALSE
+cf Convolvulus,cf_convolvulus,Convolvulus,FALSE
+cf Euphorbia,cf_euphorbia,Euphorbia,FALSE
+cf Fabaceae,cf_fabaceae,Fabaceae,FALSE
+cf Lamiaceae,cf_lamiaceae,Lamiaceae,FALSE
+cf Lonicera,cf_lonicera,Lonicera,FALSE
+cf Quercus,cf_quercus,Quercus robur-type,FALSE
+cf Ranunculus,cf_ranunculus,Ranunculus-type,FALSE
+cf Samolus,cf_samolus,Samolus,FALSE
+cf Viola,cf_viola,Viola,FALSE
+cf. Acorus,cf_acorus,Acorus,FALSE
+cf. Alchemilla,cf_alchemilla,Alchemilla,FALSE
+cf. Anagallis,cf_anagallis,Anagallis,FALSE
+cf. Androsace,cf_androsace,Androsace,FALSE
+cf. Anthericum,cf_anthericum,Anthericum,FALSE
+cf. Armeria,cf_armeria,Plumbaginaceae,FALSE
+cf. Armeria (type A),cf_armeria_type_a,Plumbaginaceae,FALSE
+cf. Artemisia,cf_artemisia,Artemisia,FALSE
+cf. Avena,cf_avena,Cerealia-type,TRUE
+cf. Cannabis,cf_cannabis,Cannabis/Humulus,FALSE
+cf. Cannabis sativa,cf_cannabis_sativa,Cannabis/Humulus,FALSE
+cf. Carpinus,cf_carpinus,Carpinus betulus,FALSE
+cf. Cedrus,cf_cedrus,Cedrus,FALSE
+cf. Centaurea nigra-type,cf_centaurea_nigra_type,Centaurea,FALSE
+cf. Chrysanthemum,cf_chrysanthemum,Matricaria-type,FALSE
+cf. Chrysosplenium,cf_chrysosplenium,Chrysosplenium,FALSE
+cf. Cirsium,cf_cirsium,Cirsium,FALSE
+cf. Cyperaceae-type,cf_cyperaceae_type,Cyperaceae,FALSE
+cf. Daphne,cf_daphne,Daphne,FALSE
+cf. Digitalis,cf_digitalis,Digitalis,FALSE
+cf. Dryas,cf_dryas,Dryas octopetala,FALSE
+cf. Empetrum,cf_empetrum,Ericales (tetrads),FALSE
+cf. Ephedra fragilis,cf_ephedra_fragilis,Ephedra,FALSE
+cf. Epilobium,cf_epilobium,Onagraceae,FALSE
+cf. Filipendula,cf_filipendula,Filipendula,FALSE
+cf. Frangula,cf_frangula,Frangula alnus,FALSE
+cf. Frangula alnus,cf_frangula_alnus,Frangula alnus,FALSE
+cf. Galeopsis,cf_galeopsis,Galeopsis-type,FALSE
+cf. Gentiana pneumonanthe,cf_gentiana_pneumonanthe,Gentianaceae,FALSE
+cf. Gentianaceae,cf_gentianaceae,Gentianaceae,FALSE
+cf. Gentianella campestris,cf_gentianella_campestris,Gentianaceae,FALSE
+cf. Geranium,cf_geranium,Geranium,FALSE
+cf. Geum,cf_geum,Geum-type,FALSE
+cf. Helianthemum,cf_helianthemum,Helianthemum,FALSE
+cf. Herniaria,cf_herniaria,Herniaria,FALSE
+cf. Hippophae,cf_hippophae,Hippophae rhamnoides,FALSE
+cf. Hippophae rhamnoides,cf_hippophae_rhamnoides,Hippophae rhamnoides,FALSE
+cf. Hordeum,cf_hordeum,Cerealia-type,TRUE
+cf. Humulus,cf_humulus,Cannabis/Humulus,FALSE
+cf. Humulus lupulus,cf_humulus_lupulus,Cannabis/Humulus,FALSE
+cf. Hypericum,cf_hypericum,Hypericum,FALSE
+cf. Ilex,cf_ilex,Ilex,FALSE
+cf. Juncus,cf_juncus,Juncaceae,FALSE
+cf. Juniperus,cf_juniperus,Juniperus communis-type,FALSE
+cf. Larix,cf_larix,Larix/Pseudotsuga,FALSE
+cf. Limosella aquatica,cf_limosella_aquatica,delete,FALSE
+cf. Littorella,cf_littorella,delete,FALSE
+cf. Lobelia,cf_lobelia,Lobelia,FALSE
+cf. Lotus,cf_lotus,Lotus-type,FALSE
+cf. Lycopsis arvensis,cf_lycopsis_arvensis,Anchusa arvensis-type,FALSE
+cf. Maianthemum,cf_maianthemum,Maianthemum/Paris,FALSE
+cf. Melampyrum,cf_melampyrum,Melampyrum,FALSE
+cf. Mercurialis,cf_mercurialis,Mercurialis,FALSE
+cf. Montia,cf_montia,Montia,FALSE
+cf. Myrica,cf_myrica,Corylus/Myrica,FALSE
+cf. Myricaria germanica,cf_myricaria_germanica,Myricaria germanica,FALSE
+cf. Myrtus,cf_myrtus,Myrtus communis,FALSE
+cf. Odontites,cf_odontites,Odontites-type,FALSE
+cf. Olea,cf_olea,Olea europaea,FALSE
+cf. Oxyria,cf_oxyria,Oxyria digyna,FALSE
+cf. Oxyria digyna,cf_oxyria_digyna,Oxyria digyna,FALSE
+cf. Oxytropis,cf_oxytropis,Astragalus-type,FALSE
+cf. Papaver,cf_papaver,Papaver,FALSE
+cf. Pedicularis,cf_pedicularis,Pedicularis,FALSE
+cf. Persicaria amphibia,cf_persicaria_amphibia,Polygonum amphibium,FALSE
+cf. Peucedanum,cf_peucedanum,Apiaceae,FALSE
+cf. Platanus,cf_platanus,Platanus,FALSE
+cf. Polemonium,cf_polemonium,Polemonium,FALSE
+cf. Polygonum,cf_polygonum,Polygonum-type (tricolporate),FALSE
+cf. Populus,cf_populus,Populus,FALSE
+cf. Primula,cf_primula,Primula,FALSE
+cf. Prunus,cf_prunus,Rosaceae (non-operculate),FALSE
+cf. Pterocarya,cf_pterocarya,Pterocarya,FALSE
+cf. Rhamnus,cf_rhamnus,Rhamnus-type,FALSE
+cf. Rhinanthus,cf_rhinanthus,Rhinanthus-type,FALSE
+cf. Rubus idaeus,cf_rubus_idaeus,Rosaceae (non-operculate),FALSE
+cf. Ruta,cf_ruta,Ruta,FALSE
+cf. Sagina,cf_sagina,Caryophyllaceae (periporate excl. Paronychioideae),FALSE
+cf. Salix herbacea,cf_salix_herbacea,Salix,FALSE
+cf. Sambucus nigra,cf_sambucus_nigra,Sambucus nigra/S. racemosa,FALSE
+cf. Sambucus racemosa,cf_sambucus_racemosa,Sambucus nigra/S. racemosa,FALSE
+cf. Saxifraga granulata,cf_saxifraga_granulata,Saxifraga granulata-type,FALSE
+cf. Saxifraga oppositifolia,cf_saxifraga_oppositifolia,Saxifraga oppositifolia-type,FALSE
+cf. Saxifraga oppositifolia-type,cf_saxifraga_oppositifolia_type,Saxifraga oppositifolia-type,FALSE
+cf. Saxifraga stellaris-type,cf_saxifraga_stellaris_type,Saxifraga stellaris-type,FALSE
+cf. Scutellaria,cf_scutellaria,Scutellaria-type,FALSE
+cf. Secale,cf_secale,Cerealia-type,TRUE
+cf. Sedum-type,cf_sedum_type,Sedum-type,FALSE
+cf. Sorbus,cf_sorbus,Rosaceae (non-operculate),FALSE
+cf. Sorbus aucuparia,cf_sorbus_aucuparia,Rosaceae (non-operculate),FALSE
+cf. Stellaria,cf_stellaria,Caryophyllaceae (periporate excl. Paronychioideae),FALSE
+cf. Succisa,cf_succisa,Succisa-type,FALSE
+cf. Taraxacum,cf_taraxacum,Compositae subfam. Cichorioideae,FALSE
+cf. Taxus,cf_taxus,Taxus baccata,FALSE
+cf. Thalictrum,cf_thalictrum,Thalictrum,FALSE
+cf. Tofieldia,cf_tofieldia,Tofieldia,FALSE
+cf. Triticum,cf_triticum,Cerealia-type,TRUE
+cf. Triticum turgidum subsp. dicoccon,cf_triticum_turgidum_subsp_dicoccon,Cerealia-type,TRUE
+cf. Trollius europaeus,cf_trollius_europaeus,Trollius europaeus,FALSE
+cf. Tussilago,cf_tussilago,Tussilago-type,FALSE
+cf. Urtica,cf_urtica,Urtica,FALSE
+cf. Valeriana,cf_valeriana,Valeriana,FALSE
+cf. Verbascum,cf_verbascum,Verbascum,FALSE
+cf. Veronica,cf_veronica,Veronica-type,FALSE
+cf. Viscum,cf_viscum,Viscum,FALSE
+cf. Xanthium,cf_xanthium,Xanthium,FALSE
+cf. Xanthium-type,cf_xanthium_type,Ambrosia/Xanthium,FALSE
+Chaerophyllum,chaerophyllum,Apiaceae,FALSE
+Chaerophyllum-type,chaerophyllum_type,Apiaceae,FALSE
+Chaerophyllum hirsutum,chaerophyllum_hirsutum,Chaerophyllum hirsutum-type,FALSE
+Chaerophyllum hirsutum-type,chaerophyllum_hirsutum_type,Chaerophyllum hirsutum-type,FALSE
+Chaerophyllum temulum,chaerophyllum_temulum,Chaerophyllum hirsutum-type,FALSE
+Chamaenerion,chamaenerion,Epilobium,FALSE
+Chamaenerion-type,chamaenerion_type,Epilobium,FALSE
+Chamaenerion angustifolium,chamaenerion_angustifolium,Epilobium angustifolium-type,FALSE
+Chamaenerion angustifolium-type,chamaenerion_angustifolium_type,Epilobium angustifolium-type,FALSE
+Chamaenerion fleischeri,chamaenerion_fleischeri,Epilobium angustifolium-type,FALSE
+Chamaerops,chamaerops,Chamaerops,FALSE
+Chamaerops humilis,chamaerops_humilis,Chamaerops,FALSE
+Chelidonium,chelidonium,Chelidonium majus,FALSE
+Chelidonium-type,chelidonium_type,Chelidonium majus,FALSE
+Chelidonium majus,chelidonium_majus,Chelidonium majus,FALSE
+Chenopodiaceae sensu stricto,chenopodiaceae_sensu_stricto,Chenopodiaceae/Amaranthaceae,FALSE
+Chenopodium,chenopodium,Chenopodiaceae/Amaranthaceae,FALSE
+Chenopodium-type,chenopodium_type,Chenopodiaceae/Amaranthaceae,FALSE
+Chenopodium album,chenopodium_album,Chenopodiaceae/Amaranthaceae,FALSE
+Chenopodium hybridum,chenopodium_hybridum,Chenopodiaceae/Amaranthaceae,FALSE
+Chenopodium polyspermum,chenopodium_polyspermum,Chenopodiaceae/Amaranthaceae,FALSE
+Chenopodium rubrum,chenopodium_rubrum,Chenopodiaceae/Amaranthaceae,FALSE
+Chrysanthemum-type,chrysanthemum_type,Matricaria-type,FALSE
+Chrysosplenium,chrysosplenium,Chrysosplenium,FALSE
+Chrysosplenium-type,chrysosplenium_type,Chrysosplenium,FALSE
+Chrysosplenium oppositifolium,chrysosplenium_oppositifolium,Chrysosplenium oppositifolium,FALSE
+Chrysosplenium undiff.,chrysosplenium_undiff,Chrysosplenium,FALSE
+Cichorieae,cichorieae,Compositae subfam. Cichorioideae,FALSE
+Cichorioideae,cichorioideae,Compositae subfam. Cichorioideae,FALSE
+Cichorioideae-type,cichorioideae_type,Compositae subfam. Cichorioideae,FALSE
+Cichorioideae undiff.,cichorioideae_undiff,Compositae subfam. Cichorioideae,FALSE
+Cichorium,cichorium,Crepis-type,FALSE
+Cichorium-type,cichorium_type,Crepis-type,FALSE
+Cicuta virosa,cicuta_virosa,Cicuta virosa,FALSE
+Circaea,circaea,Circaea,FALSE
+Circaea lutetiana-type,circaea_lutetiana_type,Circaea,FALSE
+Cirsium,cirsium,Cirsium,FALSE
+Cirsium-type,cirsium_type,Cynareae,FALSE
+Cirsium spinosissimum,cirsium_spinosissimum,Cirsium,FALSE
+Cirsium/Carduus,cirsium_carduus,Cynareae,FALSE
+Cirsium/Carduus-type,cirsium_carduus_type,Cynareae,FALSE
+Cirsium/Gundelia,cirsium_gundelia,Cynareae,FALSE
+Cistaceae,cistaceae,Cistaceae,FALSE
+Cistus,cistus,Cistus,FALSE
+Cistus-type,cistus_type,Cistus,FALSE
+Cistus albidus-type,cistus_albidus_type,Cistus albidus-type,FALSE
+Cistus ladanifer-type,cistus_ladanifer_type,Cistus ladanifer-type,FALSE
+Cistus monspeliensis,cistus_monspeliensis,Cistus monspeliensis-type,FALSE
+Cistus salviifolius,cistus_salviifolius,Cistus salvifolius,FALSE
+Citrus,citrus,Citrus,FALSE
+Clematis,clematis,Clematis,FALSE
+Clematis-type,clematis_type,Clematis,FALSE
+Clusiaceae,clusiaceae,Hypericum,FALSE
+Colchicum,colchicum,Colchicum-type,FALSE
+Colchicum-type,colchicum_type,Colchicum-type,FALSE
+Colchicum autumnale-type,colchicum_autumnale_type,Colchicum-type,FALSE
+Colchicum montanum,colchicum_montanum,Merendera pyrenaica,FALSE
+Comarum-type,comarum_type,Potentilla-type,FALSE
+Coniferae-type,coniferae_type,Aster-type,FALSE
+Coniferae (saccate),coniferae_saccate,Aster-type,FALSE
+Coniferae undiff.,coniferae_undiff,Aster-type,FALSE
+Conium-type,conium_type,Apiaceae,FALSE
+Conium maculatum,conium_maculatum,Conium maculatum,FALSE
+Conium maculatum-type,conium_maculatum_type,Conium maculatum,FALSE
+Conopodium-type,conopodium_type,Apiaceae,FALSE
+Consolida,consolida,Consolida-type,FALSE
+Consolida-type,consolida_type,Consolida-type,FALSE
+Consolida regalis-type,consolida_regalis_type,Consolida-type,FALSE
+Convallaria,convallaria,Convallaria majalis,FALSE
+Convallaria-type,convallaria_type,Convallaria-type,FALSE
+Convallaria majalis,convallaria_majalis,Convallaria majalis,FALSE
+Convolvulaceae,convolvulaceae,Convolvulaceae,FALSE
+Convolvulaceae undiff.,convolvulaceae_undiff,Convolvulaceae,FALSE
+Convolvulus,convolvulus,Convolvulus,FALSE
+Convolvulus-type,convolvulus_type,Convolvulus,FALSE
+Convolvulus arvensis,convolvulus_arvensis,Convolvulus,FALSE
+Convolvulus arvensis-type,convolvulus_arvensis_type,Convolvulus arvensis-type,FALSE
+Coriaria,coriaria,Coriaria myrtifolia,FALSE
+Cornaceae,cornaceae,Cornus,FALSE
+Cornus,cornus,Cornus,FALSE
+Cornus cf. C. suecica,cornus_cf_c_suecica,Cornus,FALSE
+Cornus mas,cornus_mas,Cornus mas,FALSE
+Cornus mas-type,cornus_mas_type,Cornus mas-type,FALSE
+Cornus mas/C. suecica,cornus_mas_c_suecica,Cornus mas-type,FALSE
+Cornus sanguinea,cornus_sanguinea,Cornus sanguinea-type,FALSE
+Cornus sanguinea-type,cornus_sanguinea_type,Cornus sanguinea-type,FALSE
+Cornus subg. Thelycrania,cornus_subg_thelycrania,Cornus sanguinea-type,FALSE
+Cornus suecica,cornus_suecica,Cornus suecica,FALSE
+Cornus suecica-type,cornus_suecica_type,Cornus mas-type,FALSE
+Cornus suecica (thick wall),cornus_suecica_thick_wall,Cornus suecica,FALSE
+Cornus undiff.,cornus_undiff,Cornus,FALSE
+Coronilla,coronilla,Coronilla-type,FALSE
+Coronilla-type,coronilla_type,Coronilla-type,FALSE
+Corrigiola litoralis,corrigiola_litoralis,Corrigiola litoralis,FALSE
+Corrigiola litoralis-type,corrigiola_litoralis_type,Corrigiola litoralis,FALSE
+Corrigiola telephiifolia-type,corrigiola_telephiifolia_type,Corrigiola telephiifolia,FALSE
+Corydalis,corydalis,Corydalis,FALSE
+Corydalis cava-type,corydalis_cava_type,Corydalis solida-type,FALSE
+Corydalis pumila-type,corydalis_pumila_type,Corydalis solida-type,FALSE
+Corydalis solida-type,corydalis_solida_type,Corydalis solida-type,FALSE
+corylus,corylus,Corylus,FALSE
+Corylus-type,corylus_type,Corylus/Myrica,FALSE
+Corylus avellana,corylus_avellana,Corylus,FALSE
+Corylus avellana-type,corylus_avellana_type,Corylus,FALSE
+Corylus/Myrica,corylus_myrica,Corylus/Myrica,FALSE
+Cotinus-type,cotinus_type,Rhus/Cotinus,FALSE
+Cotinus coggygria,cotinus_coggygria,Cotinus coggygria,FALSE
+Cousinia,cousinia,Cousinia,FALSE
+Crassula,crassula,Umbilicus-type,FALSE
+Crassulaceae,crassulaceae,Crassulaceae,FALSE
+Crassulaceae undiff.,crassulaceae_undiff,Crassulaceae,FALSE
+Crataegus,crataegus,Crataegus,FALSE
+Crataegus-type,crataegus_type,Prunus-type,FALSE
+Crataegus monogyna,crataegus_monogyna,Crataegus,FALSE
+Crataegus monogyna-type,crataegus_monogyna_type,Crataegus,FALSE
+Crepis,crepis,Crepis-type,FALSE
+Crepis-type,crepis_type,Crepis-type,FALSE
+Crepis aurea,crepis_aurea,Crepis-type,FALSE
+Crepis paludosa,crepis_paludosa,Crepis-type,FALSE
+Crocus,crocus,Crocus,FALSE
+Crocus vernus,crocus_vernus,Crocus vernus,FALSE
+Crupina-type,crupina_type,Crupina,FALSE
+Cryptomeria,cryptomeria,Cryptomeria-type,FALSE
+Cupressaceae,cupressaceae,Juniperus-type,FALSE
+Cuscuta,cuscuta,Cuscuta,FALSE
+Cuscuta europaea-type,cuscuta_europaea_type,Cuscuta europaea-type,FALSE
+Cuscuta lupuliformis,cuscuta_lupuliformis,Cuscuta lupuliformis,FALSE
+Cyclamen purpurascens,cyclamen_purpurascens,Cyclamen purpurascens,FALSE
+Cynoglossum,cynoglossum,Cynoglossum-type,FALSE
+Cynoglossum-type,cynoglossum_type,Cynoglossum-type,FALSE
+Cynoglossum officinale-type,cynoglossum_officinale_type,Cynoglossum-type,FALSE
+Cyperaceae,cyperaceae,Cyperaceae,FALSE
+Cyperaceae undiff.,cyperaceae_undiff,Cyperaceae,FALSE
+Cyperus,cyperus,Cyperus,FALSE
+Cyperus-type,cyperus_type,Cyperus,FALSE
+Cyperus capitatus,cyperus_capitatus,Cyperus,FALSE
+Cyperus longus-type,cyperus_longus_type,Cyperus,FALSE
+Cytisus,cytisus,Genista-type,FALSE
+Cytisus-type,cytisus_type,Cytisus-type,FALSE
+Cytisus grandiflorus,cytisus_grandiflorus,Genista-type,FALSE
+Cytisus scoparius,cytisus_scoparius,Genista-type,FALSE
+Cytisus/Genista-type,cytisus_genista_type,Genista-type,FALSE
+Dactylis-type,dactylis_type,Poaceae,FALSE
+Daphne,daphne,Daphne,FALSE
+Daphne-type,daphne_type,Daphne,FALSE
+Daphne oleoides,daphne_oleoides,Daphne,FALSE
+Datura stramonium,datura_stramonium,Datura stramonium,FALSE
+Daucus,daucus,Daucus,FALSE
+Daucus-type,daucus_type,Apiaceae,FALSE
+Daucus carota,daucus_carota,Daucus,FALSE
+Daucus carota-type,daucus_carota_type,Daucus,FALSE
+Delphinium,delphinium,Consolida-type,FALSE
+Delphinium-type,delphinium_type,Consolida-type,FALSE
+Delphinium ambiguum,delphinium_ambiguum,Consolida-type,FALSE
+Deschampsia,deschampsia,Poaceae,FALSE
+Descurainia sophia,descurainia_sophia,Brassicaceae,FALSE
+Descurainia sophia-type,descurainia_sophia_type,Brassicaceae,FALSE
+Dianthus,dianthus,Dianthus/Petrorhaghia,FALSE
+Dianthus-type,dianthus_type,Dianthus/Petrorhaghia,FALSE
+Dianthus lusitanus-type,dianthus_lusitanus_type,Dianthus/Petrorhaghia,FALSE
+Dianthus superbus-type,dianthus_superbus_type,Dianthus/Petrorhaghia,FALSE
+Diapensia,diapensia,Diapensia lapponica,FALSE
+Diapensia lapponica,diapensia_lapponica,Diapensia lapponica,FALSE
+Dictamnus albus,dictamnus_albus,Dictamnus albus,FALSE
+Digitalis,digitalis,Digitalis,FALSE
+Digitalis-type,digitalis_type,Digitalis-type,FALSE
+Digitalis purpurea-type,digitalis_purpurea_type,Digitalis,FALSE
+Dioscorea,dioscorea,Tamus communis,FALSE
+Dioscorea communis,dioscorea_communis,Tamus communis,FALSE
+Dipsacoideae,dipsacoideae,Dipsacoideae,FALSE
+Dipsacoideae undiff.,dipsacoideae_undiff,Dipsacoideae,FALSE
+Dipsacus,dipsacus,Dipsacus-type,FALSE
+Dipsacus-type,dipsacus_type,Dipsacus-type,FALSE
+Dipsacus fullonum-type,dipsacus_fullonum_type,Dipsacus fullonum-type,FALSE
+Dorycnium,dorycnium,Dorycnium,FALSE
+Dorycnium-type,dorycnium_type,Dorycnium,FALSE
+Draba-type,draba_type,Brassicaceae,FALSE
+Droseraceae,droseraceae,Drosera,FALSE
+Dryas,dryas,Dryas octopetala,FALSE
+Dryas-type,dryas_type,Dryas octopetala,FALSE
+Dryas octopetala,dryas_octopetala,Dryas octopetala,FALSE
+Echinops,echinops,Echinops,FALSE
+Echium,echium,Echium,FALSE
+Echium-type,echium_type,Echium/Onosma,FALSE
+Echium vulgare,echium_vulgare,Echium,FALSE
+Echium vulgare-type,echium_vulgare_type,Echium,FALSE
+Elymus,elymus,Hordeum-type,FALSE
+Elymus-type,elymus_type,Hordeum-type,FALSE
+Empetrum,empetrum,Empetrum nigrum,FALSE
+Empetrum-type,empetrum_type,Empetrum/Ledum,FALSE
+Empetrum cf. E. nigrum,empetrum_cf_e_nigrum,Empetrum nigrum,FALSE
+Empetrum hermaphroditum,empetrum_hermaphroditum,Empetrum nigrum,FALSE
+Empetrum nigrum,empetrum_nigrum,Empetrum nigrum,FALSE
+Empetrum/Rhododendron subsect. Ledum,empetrum_rhododendron_subsect_ledum,Empetrum/Ledum,FALSE
+Engelhardia-type,engelhardia_type,Engelhardtia,FALSE
+Ephedra,ephedra,Ephedra,FALSE
+Ephedra (undiff.),ephedra_undiff,Ephedra,FALSE
+Ephedra cf. E. foeminea,ephedra_cf_e_foeminea,Ephedra fragilis-type,FALSE
+Ephedra cf. E. fragilis,ephedra_cf_e_fragilis,Ephedra fragilis-type,FALSE
+Ephedra distachya,ephedra_distachya,Ephedra distachya-type,FALSE
+Ephedra distachya-type,ephedra_distachya_type,Ephedra distachya-type,FALSE
+Ephedra distachya subsp. helvetica-type,ephedra_distachya_subsp_helvetica_type,Ephedra distachya-type,FALSE
+Ephedra foeminea,ephedra_foeminea,Ephedra fragilis-type,FALSE
+Ephedra foeminea-type,ephedra_foeminea_type,Ephedra fragilis-type,FALSE
+Ephedra fragilis,ephedra_fragilis,Ephedra fragilis-type,FALSE
+Ephedra fragilis-type,ephedra_fragilis_type,Ephedra fragilis-type,FALSE
+Ephedra major,ephedra_major,Ephedra distachya-type,FALSE
+Ephedra strobilacea-type,ephedra_strobilacea_type,Ephedra strobilacea,FALSE
+Epilobium,epilobium,Epilobium,FALSE
+Epilobium-type,epilobium_type,Epilobium,FALSE
+Epimedium,epimedium,Epimedium,FALSE
+Epipactis,epipactis,Epipactis,FALSE
+Epipactis palustris,epipactis_palustris,Epipactis,FALSE
+Epipactis palustris-type,epipactis_palustris_type,Epipactis,FALSE
+Eranthis hyemalis,eranthis_hyemalis,Eranthis hyemalis,FALSE
+Erica,erica,Erica,FALSE
+Erica-type,erica_type,Erica,FALSE
+Erica arborea,erica_arborea,Erica arborea-type,FALSE
+Erica arborea-type,erica_arborea_type,Erica arborea-type,FALSE
+Erica australis,erica_australis,Erica ciliaris-type,FALSE
+Erica australis-type,erica_australis_type,Erica ciliaris-type,FALSE
+Erica cf. E. tetralix,erica_cf_e_tetralix,Erica,FALSE
+Erica ciliaris,erica_ciliaris,Erica ciliaris-type,FALSE
+Erica ciliaris-type,erica_ciliaris_type,Erica ciliaris-type,FALSE
+Erica cinerea,erica_cinerea,Erica cinerea,FALSE
+Erica cinerea/E. tetralix,erica_cinerea_e_tetralix,Erica,FALSE
+Erica tetralix,erica_tetralix,Erica tetralix-type,FALSE
+Erica tetralix-type,erica_tetralix_type,Erica tetralix-type,FALSE
+Erica umbellata,erica_umbellata,Erica umbellata,FALSE
+Erica umbellata-type,erica_umbellata_type,Erica umbellata,FALSE
+Erica undiff.,erica_undiff,Erica,FALSE
+Ericaceae,ericaceae,Ericales (tetrads),FALSE
+Ericaceae-type,ericaceae_type,Ericales (tetrads),FALSE
+Ericaceae cf. Calluna,ericaceae_cf_calluna,Ericales (tetrads),FALSE
+Ericaceae cf. Cassiope,ericaceae_cf_cassiope,Ericales (tetrads),FALSE
+Ericaceae undiff.,ericaceae_undiff,Ericales (tetrads),FALSE
+Ericales,ericales,Ericales (tetrads),FALSE
+Ericales (tetrad),ericales_tetrad,Ericales (tetrads),FALSE
+Ericales undiff.,ericales_undiff,Ericales (tetrads),FALSE
+Ericoideae,ericoideae,Ericales (tetrads),FALSE
+Erigeron,erigeron,Gnaphalium-type,FALSE
+Erodium,erodium,Erodium,FALSE
+Erodium cicutarium-type,erodium_cicutarium_type,Erodium,FALSE
+Eryngium,eryngium,Eryngium,FALSE
+Eryngium-type,eryngium_type,Apiaceae,FALSE
+Eryngium campestre,eryngium_campestre,Eryngium campestre,FALSE
+Eryngium campestre-type,eryngium_campestre_type,Eryngium,FALSE
+Eucalyptus,eucalyptus,Eucalyptus,FALSE
+Euonymus,euonymus,Euonymus,FALSE
+Euonymus europaeus,euonymus_europaeus,Euonymus,FALSE
+Eupatorium,eupatorium,Aster-type,FALSE
+Eupatorium-type,eupatorium_type,Aster-type,FALSE
+Eupatorium cannabinum-type,eupatorium_cannabinum_type,Aster-type,FALSE
+Euphorbia,euphorbia,Euphorbia,FALSE
+Euphorbia cf. E. palustris,euphorbia_cf_e_palustris,Euphorbia,FALSE
+Euphorbiaceae,euphorbiaceae,Euphorbiaceae,FALSE
+Euphorbiaceae cf. Mercurialis,euphorbiaceae_cf_mercurialis,Euphorbiaceae,FALSE
+Euphorbiaceae undiff.,euphorbiaceae_undiff,Euphorbiaceae,FALSE
+Euphrasia,euphrasia,Rhinanthus-type,FALSE
+Euphrasia-type,euphrasia_type,Rhinanthus-type,FALSE
+Fabaceae,fabaceae,Fabaceae,FALSE
+Fabaceae pro parte,fabaceae_pro_parte,Fabaceae,FALSE
+Fabaceae Undiff,fabaceae_undiff,Fabaceae,FALSE
+Faboideae,faboideae,Fabaceae,FALSE
+Faboideae undiff.,faboideae_undiff,Fabaceae,FALSE
+Fagopyrum,fagopyrum,Fagopyrum,FALSE
+Fagopyrum-type,fagopyrum_type,Fagopyrum,FALSE
+Fagopyrum esculentum,fagopyrum_esculentum,Fagopyrum esculentum,FALSE
+Fagopyrum tataricum,fagopyrum_tataricum,Fagopyrum tataricum,FALSE
+Fagopyrum undiff.,fagopyrum_undiff,Fagopyrum,FALSE
+Fagus,fagus,Fagus,FALSE
+Fagus sylvatica,fagus_sylvatica,Fagus,FALSE
+Falcaria,falcaria,Falcaria-type,FALSE
+Falcaria-type,falcaria_type,Falcaria-type,FALSE
+Falcaria vulgaris,falcaria_vulgaris,Falcaria-type,FALSE
+Falcaria vulgaris-type,falcaria_vulgaris_type,Falcaria-type,FALSE
+Fallopia,fallopia,Fallopia,FALSE
+Fallopia cf. F. convolvulus,fallopia_cf_f_convolvulus,Fallopia,FALSE
+Fallopia convolvulus,fallopia_convolvulus,Fallopia,FALSE
+Fallopia convolvulus-type,fallopia_convolvulus_type,Fallopia,FALSE
+Fallopia convolvulus/F. dumetorum,fallopia_convolvulus_f_dumetorum,Fallopia,FALSE
+Fedia cornucopiae,fedia_cornucopiae,Fedia cornucopiae,FALSE
+Festuca,festuca,Poaceae,FALSE
+Festuca-type,festuca_type,Poaceae,FALSE
+Ficaria verna-type,ficaria_verna_type,Ranunculus ficaria,FALSE
+Ficus,ficus,Ficus carica,FALSE
+Ficus carica,ficus_carica,Ficus carica,FALSE
+Filago-type,filago_type,Gnaphalium-type,FALSE
+Filipendula,filipendula,Filipendula,FALSE
+Filipendula-type,filipendula_type,Filipendula,FALSE
+Filipendula ulmaria,filipendula_ulmaria,Filipendula,FALSE
+Filipendula vulgaris,filipendula_vulgaris,Filipendula,FALSE
+Filipendula vulgaris-type,filipendula_vulgaris_type,Filipendula,FALSE
+Foeniculum-type,foeniculum_type,Foeniculum-type,FALSE
+Foeniculum vulgare,foeniculum_vulgare,Foeniculum vulgare,FALSE
+Frangula,frangula,Frangula alnus,FALSE
+Frangula alnus,frangula_alnus,Frangula alnus,FALSE
+Fraxinus,fraxinus,Fraxinus excelsior-type,FALSE
+Fraxinus angustifolia,fraxinus_angustifolia,Fraxinus angustifolia,FALSE
+Fraxinus angustifolia-type,fraxinus_angustifolia_type,Fraxinus angustifolia,FALSE
+Fraxinus excelsior,fraxinus_excelsior,Fraxinus excelsior-type,FALSE
+Fraxinus excelsior-type,fraxinus_excelsior_type,Fraxinus excelsior-type,FALSE
+Fraxinus ornus,fraxinus_ornus,Fraxinus ornus,FALSE
+Fraxinus undiff.,fraxinus_undiff,Fraxinus,FALSE
+Fritillaria-type,fritillaria_type,Fritillaria,FALSE
+Fritillaria lusitanica,fritillaria_lusitanica,Fritillaria,FALSE
+Fumana,fumana,Fumana,FALSE
+Fumana-type,fumana_type,Fumana,FALSE
+Fumaria,fumaria,Fumaria,FALSE
+Gagea,gagea,Gagea/Tulipa,FALSE
+Gagea-type,gagea_type,Gagea/Tulipa,FALSE
+Gagea nevadensis,gagea_nevadensis,Gagea/Tulipa,FALSE
+Gagea/Tulipa,gagea_tulipa,Gagea/Tulipa,FALSE
+Galanthus-type,galanthus_type,Leucojum-type,FALSE
+Galeopsis,galeopsis,Galeopsis-type,FALSE
+Galeopsis-type,galeopsis_type,Galeopsis-type,FALSE
+Galium,galium,Rubiaceae,FALSE
+Galium-type,galium_type,Rubiaceae,FALSE
+Genista,genista,Genista-type,FALSE
+Genista-type,genista_type,Genista-type,FALSE
+Gentiana,gentiana,Gentiana,FALSE
+Gentiana-type,gentiana_type,Gentianaceae,FALSE
+Gentiana asclepiadea-type,gentiana_asclepiadea_type,Gentiana pneumonanthe-type,FALSE
+Gentiana campestris,gentiana_campestris,Gentianella campestris-type,FALSE
+Gentiana cf. G. pneumonanthe,gentiana_cf_g_pneumonanthe,Gentiana,FALSE
+Gentiana lutea,gentiana_lutea,Gentiana pneumonanthe-type,FALSE
+Gentiana lutea/G. pneumonanthe,gentiana_lutea_g_pneumonanthe,Gentiana lutea/G. pneumonanthe,FALSE
+Gentiana nivalis,gentiana_nivalis,Gentiana nivalis,FALSE
+Gentiana nivalis-type,gentiana_nivalis_type,Gentiana nivalis,FALSE
+Gentiana pneumonanthe,gentiana_pneumonanthe,Gentiana pneumonanthe-type,FALSE
+Gentiana pneumonanthe-type,gentiana_pneumonanthe_type,Gentiana pneumonanthe-type,FALSE
+Gentiana punctata,gentiana_punctata,Gentiana pneumonanthe-type,FALSE
+Gentiana purpurea,gentiana_purpurea,Gentiana purpurea,FALSE
+Gentiana purpurea-type,gentiana_purpurea_type,Gentiana pneumonanthe-type,FALSE
+Gentiana verna,gentiana_verna,Gentiana verna,FALSE
+Gentiana verna-type,gentiana_verna_type,Gentianella campestris-type,FALSE
+Gentianaceae,gentianaceae,Gentianaceae,FALSE
+Gentianaceae undiff,gentianaceae_undiff,Gentianaceae,FALSE
+Gentianella,gentianella,Gentianella campestris-type,FALSE
+Gentianella-type,gentianella_type,Gentianella campestris-type,FALSE
+Gentianella campestris,gentianella_campestris,Gentianella campestris-type,FALSE
+Gentianella campestris-type,gentianella_campestris_type,Gentianella campestris-type,FALSE
+Gentianella ramosa,gentianella_ramosa,Gentianella campestris-type,FALSE
+Gentianella tenella-type,gentianella_tenella_type,Gentianella tenella-type,FALSE
+Geraniaceae,geraniaceae,Geraniaceae,FALSE
+Geranium,geranium,Geranium,FALSE
+Geranium-type,geranium_type,Geranium,FALSE
+Geranium molle-type,geranium_molle_type,Geranium,FALSE
+Geranium pratense-type,geranium_pratense_type,Geranium pratense-type,FALSE
+Geranium sylvaticum,geranium_sylvaticum,Geranium pratense-type,FALSE
+Geranium sylvaticum-type,geranium_sylvaticum_type,Geranium pratense-type,FALSE
+Geum,geum,Geum-type,FALSE
+Geum-type,geum_type,Geum-type,FALSE
+Geum cf. G. rivale,geum_cf_g_rivale,Geum-type,FALSE
+Geum cf. G. urbanum,geum_cf_g_urbanum,Geum-type,FALSE
+Geum montanum-type,geum_montanum_type,Geum-type,FALSE
+Geum rivale,geum_rivale,Geum-type,FALSE
+Gladiolus,gladiolus,Gladiolus/Romulea,FALSE
+Gladiolus-type,gladiolus_type,Gladiolus/Romulea,FALSE
+Glaucium,glaucium,Glaucium,FALSE
+Glaucium-type,glaucium_type,Glaucium,FALSE
+Glaux,glaux,Glaux maritima,FALSE
+Glechoma-type,glechoma_type,Prunella-type,FALSE
+Globularia,globularia,Globularia,FALSE
+Glyceria,glyceria,Hordeum-type,FALSE
+Glyceria-type,glyceria_type,Hordeum-type,FALSE
+Gnaphalium,gnaphalium,Gnaphalium-type,FALSE
+Gnaphalium-type,gnaphalium_type,Gnaphalium-type,FALSE
+Gnaphalium supinum,gnaphalium_supinum,Gnaphalium-type,FALSE
+Gratiola officinalis,gratiola_officinalis,Gratiola officinalis,FALSE
+Gypsophila,gypsophila,Gypsophila repens-type,FALSE
+Gypsophila-type,gypsophila_type,Gypsophila repens-type,FALSE
+Gypsophila arrostii,gypsophila_arrostii,Gypsophila repens-type,FALSE
+Gypsophila fastigiata,gypsophila_fastigiata,Gypsophila repens-type,FALSE
+Gypsophila fastigiata-type,gypsophila_fastigiata_type,Gypsophila repens-type,FALSE
+Gypsophila muralis,gypsophila_muralis,Gypsophila muralis,FALSE
+Gypsophila repens,gypsophila_repens,Gypsophila repens-type,FALSE
+Gypsophila repens-type,gypsophila_repens_type,Gypsophila repens-type,FALSE
+Halimium,halimium,Halimium,FALSE
+Halimium-type,halimium_type,Halimium,FALSE
+Halimium/Tuberaria,halimium_tuberaria,Halimium/Tuberaria,FALSE
+Halothamnus-type,halothamnus_type,Aellenia-type,FALSE
+Hedera,hedera,Hedera,FALSE
+Hedera-type,hedera_type,Hedera,FALSE
+Hedera helix,hedera_helix,Hedera,FALSE
+Hedera helix-type,hedera_helix_type,Hedera,FALSE
+Hedysarum-type,hedysarum_type,Onobrychis-type,FALSE
+Hedysarum cf. H. hedysaroides,hedysarum_cf_h_hedysaroides,Hedysarum,FALSE
+Helianthemum,helianthemum,Helianthemum,FALSE
+Helianthemum-type,helianthemum_type,Helianthemum,FALSE
+Helianthemum canum-type,helianthemum_canum_type,Helianthemum oelandicum-type,FALSE
+Helianthemum cf. H. canum,helianthemum_cf_h_canum,Helianthemum oelandicum-type,FALSE
+Helianthemum nummularium,helianthemum_nummularium,Helianthemum nummularium-type,FALSE
+Helianthemum nummularium-type,helianthemum_nummularium_type,Helianthemum nummularium-type,FALSE
+Helianthemum oelandicum-type,helianthemum_oelandicum_type,Helianthemum oelandicum-type,FALSE
+Helianthemum oelandicum subsp. alpestris-type,helianthemum_oelandicum_subsp_alpestris_type,Helianthemum oelandicum-type,FALSE
+Helianthemum undiff.,helianthemum_undiff,Helianthemum,FALSE
+Helianthus,helianthus,Helianthus-type,FALSE
+Helianthus-type,helianthus_type,Helianthus-type,FALSE
+Helictochloa versicolor,helictochloa_versicolor,Avena-type,FALSE
+Heliotropium,heliotropium,Heliotropium,FALSE
+Heliotropium-type,heliotropium_type,Heliotropium,FALSE
+Helleborus,helleborus,Helleborus,FALSE
+Helleborus-type,helleborus_type,Helleborus,FALSE
+Helleborus foetidus,helleborus_foetidus,Helleborus foetidus,FALSE
+Helleborus viridis,helleborus_viridis,Helleborus viridis-type,FALSE
+Helleborus viridis-type,helleborus_viridis_type,Helleborus viridis-type,FALSE
+Heracleum,heracleum,Heracleum,FALSE
+Heracleum-type,heracleum_type,Apiaceae,FALSE
+Heracleum sphondylium,heracleum_sphondylium,Heracleum sphondylium,FALSE
+Heracleum sphondylium-type,heracleum_sphondylium_type,Heracleum,FALSE
+Herniaria,herniaria,Herniaria,FALSE
+Herniaria-type,herniaria_type,Herniaria-type,FALSE
+Herniaria glabra-type,herniaria_glabra_type,Herniaria glabra-type,FALSE
+Hieracium-type,hieracium_type,Crepis-type,FALSE
+Hieracium murorum,hieracium_murorum,Crepis-type,FALSE
+Hippocastanoideae,hippocastanoideae,Aesculus,FALSE
+Hippocrepis,hippocrepis,Coronilla-type,FALSE
+Hippocrepis-type,hippocrepis_type,Coronilla-type,FALSE
+Hippophae,hippophae,Hippophae rhamnoides,FALSE
+Hippophae rhamnoides,hippophae_rhamnoides,Hippophae rhamnoides,FALSE
+Holosteum umbellatum,holosteum_umbellatum,Holosteum umbellatum,FALSE
+Homogyne,homogyne,Homogyne-type,FALSE
+Homogyne-type,homogyne_type,Homogyne-type,FALSE
+Homogyne alpina,homogyne_alpina,Homogyne-type,FALSE
+Hordelymus,hordelymus,Poaceae,FALSE
+Hordeum,hordeum,Hordeum-type,FALSE
+Hordeum-type,hordeum_type,Hordeum-type,FALSE
+Hordeum/Secale,hordeum_secale,Cerealia-type,TRUE
+Hordeum/Triticum-type,hordeum_triticum_type,Cerealia-type,TRUE
+Hornungia,hornungia,Hornungia-type,FALSE
+Hornungia-type,hornungia_type,Hornungia-type,FALSE
+Humulus,humulus,Humulus lupulus,FALSE
+Humulus-type,humulus_type,Humulus lupulus,FALSE
+Humulus lupulus,humulus_lupulus,Humulus lupulus,FALSE
+Humulus lupulus-type,humulus_lupulus_type,Humulus lupulus,FALSE
+Humulus/Cannabis,humulus_cannabis,Cannabis/Humulus,FALSE
+Humulus/Cannabis-type,humulus_cannabis_type,Cannabis/Humulus,FALSE
+Humulus/Cannabis sativa,humulus_cannabis_sativa,Cannabis/Humulus,FALSE
+Humulus/Urtica,humulus_urtica,Cannabaceae/Urticaceae,FALSE
+Hyacinthoides-type,hyacinthoides_type,Ornithogalum-type,FALSE
+Hypecoum,hypecoum,Hypecoum,FALSE
+Hypericaceae,hypericaceae,Hypericum,FALSE
+Hypericum,hypericum,Hypericum,FALSE
+Hypericum-type,hypericum_type,Hypericum,FALSE
+Hypericum calycinum-type,hypericum_calycinum_type,Hypericum calycinum-type,FALSE
+Hypericum elodes,hypericum_elodes,Hypericum elodes,FALSE
+Hypericum perforatum,hypericum_perforatum,Hypericum perforatum-type,FALSE
+Hypericum perforatum-type,hypericum_perforatum_type,Hypericum perforatum-type,FALSE
+Hypericum pulchrum-type,hypericum_pulchrum_type,Hypericum perforatum-type,FALSE
+Hypochaeris uniflora,hypochaeris_uniflora,Crepis-type,FALSE
+Hystrix,hystrix,delete,FALSE
+Ilex,ilex,Ilex,FALSE
+Ilex-type,ilex_type,Ilex,FALSE
+Ilex aquifolium,ilex_aquifolium,Ilex,FALSE
+Ilex aquifolium-type,ilex_aquifolium_type,Ilex,FALSE
+Illecebrum,illecebrum,Illecebrum verticillatum,FALSE
+Illecebrum verticillatum-type,illecebrum_verticillatum_type,Illecebrum verticillatum,FALSE
+Impatiens,impatiens,Impatiens,FALSE
+Impatiens noli-tangere,impatiens_noli_tangere,Impatiens,FALSE
+Inula,inula,Inula,FALSE
+Iridaceae,iridaceae,Liliaceae-type,FALSE
+Iris,iris,Iris,FALSE
+Iris-type,iris_type,Iris,FALSE
+Iris pseudacorus,iris_pseudacorus,Iris pseudacorus-type,FALSE
+Iris pseudacorus-type,iris_pseudacorus_type,Iris pseudacorus-type,FALSE
+Jasione,jasione,Jasione montana-type,FALSE
+Jasione-type,jasione_type,Jasione montana-type,FALSE
+Jasione montana,jasione_montana,Jasione montana-type,FALSE
+Jasione montana-type,jasione_montana_type,Jasione montana-type,FALSE
+Jasminum,jasminum,Jasminum,FALSE
+Juglandaceae,juglandaceae,Juglandaceae,FALSE
+Juglandaceae-type,juglandaceae_type,Juglandaceae,FALSE
+Juglans,juglans,Juglans,FALSE
+Juglans regia,juglans_regia,Juglans regia,FALSE
+Juncaceae,juncaceae,Juncaceae,FALSE
+Juniperus,juniperus,Juniperus communis-type,FALSE
+Juniperus-type,juniperus_type,Juniperus-type,FALSE
+Juniperus communis,juniperus_communis,Juniperus communis-type,FALSE
+Juniperus communis-type,juniperus_communis_type,Juniperus communis-type,FALSE
+Jurinea,jurinea,Saussurea-type,FALSE
+Jurinea-type,jurinea_type,Saussurea-type,FALSE
+Kalmia procumbens,kalmia_procumbens,Loiseleuria procumbens,FALSE
+Kickxia,kickxia,Kickxia,FALSE
+Knautia,knautia,Knautia,FALSE
+Knautia-type,knautia_type,Knautia,FALSE
+Knautia arvensis,knautia_arvensis,Knautia,FALSE
+Knautia arvensis-type,knautia_arvensis_type,Knautia,FALSE
+Knautia/Dipsacus,knautia_dipsacus,Dipsacaceae,FALSE
+Koenigia,koenigia,Koenigia islandica,FALSE
+Koenigia alpina,koenigia_alpina,Polygonum alpinum,FALSE
+Koenigia alpina-type,koenigia_alpina_type,Polygonum alpinum,FALSE
+Koenigia islandica,koenigia_islandica,Koenigia islandica,FALSE
+Krascheninnikovia ceratoides,krascheninnikovia_ceratoides,Chenopodiaceae/Amaranthaceae,FALSE
+Lactuca,lactuca,Lactuca-type,FALSE
+Lactuca-type,lactuca_type,Lactuca-type,FALSE
+Lactuca sativa-type,lactuca_sativa_type,Lactuca-type,FALSE
+Lamiaceae,lamiaceae,Lamiaceae,FALSE
+Lamiaceae (hexacolpate),lamiaceae_hexacolpate,Labiatae (6),FALSE
+Lamiaceae (tricolpate),lamiaceae_tricolpate,Lamiaceae,FALSE
+Lamiaceae pro parte,lamiaceae_pro_parte,Lamiaceae,FALSE
+Lamiaceae undiff.,lamiaceae_undiff,Lamiaceae,FALSE
+Lamium,lamium,Lamium album-type,FALSE
+Lamium-type,lamium_type,Lamium album-type,FALSE
+Lamium album-type,lamium_album_type,Lamium album-type,FALSE
+Larix,larix,Larix/Pseudotsuga,FALSE
+Larix-type,larix_type,Larix/Pseudotsuga,FALSE
+Larix decidua,larix_decidua,Larix/Pseudotsuga,FALSE
+Larix/Pseudotsuga,larix_pseudotsuga,Larix/Pseudotsuga,FALSE
+Laserpitium,laserpitium,Apiaceae,FALSE
+Laserpitium latifolium-type,laserpitium_latifolium_type,Laserpitium latifolium-type,FALSE
+Lathraea,lathraea,Rhinanthus-type,FALSE
+Lathyrus,lathyrus,Lathyrus-type,FALSE
+Lathyrus-type,lathyrus_type,Lathyrus-type,FALSE
+Laurus,laurus,Laurus,FALSE
+Lavandula,lavandula,Lavandula,FALSE
+Lavandula-type,lavandula_type,Lavandula,FALSE
+Leontice leontopetalum,leontice_leontopetalum,Leontice,FALSE
+Leontodon hispidus,leontodon_hispidus,Crepis-type,FALSE
+Leucanthemopsis alpina,leucanthemopsis_alpina,Matricaria-type,FALSE
+Leucanthemum vulgare-type,leucanthemum_vulgare_type,Matricaria-type,FALSE
+Ligusticum,ligusticum,Ligusticum mutellina,FALSE
+Ligusticum mutellina,ligusticum_mutellina,Ligusticum mutellina,FALSE
+Ligusticum mutellinoides-type,ligusticum_mutellinoides_type,Ligusticum mutellinoides-type,FALSE
+Ligustrum,ligustrum,Ligustrum,FALSE
+Ligustrum-type,ligustrum_type,Ligustrum-type,FALSE
+Ligustrum vulgare,ligustrum_vulgare,Ligustrum,FALSE
+Ligustrum vulgare-type,ligustrum_vulgare_type,Ligustrum,FALSE
+Liliaceae,liliaceae,Liliaceae-type,FALSE
+Liliaceae-type,liliaceae_type,Liliaceae-type,FALSE
+Liliaceae-type undiff.,liliaceae_type_undiff,Liliaceae-type,FALSE
+Liliaceae pro parte,liliaceae_pro_parte,Liliaceae-type,FALSE
+Liliaceae undiff,liliaceae_undiff,Liliaceae-type,FALSE
+Lilium,lilium,Lilium,FALSE
+Lilium-type,lilium_type,Lilium,FALSE
+Lilium martagon,lilium_martagon,Lilium,FALSE
+Lilium martagon-type,lilium_martagon_type,Lilium,FALSE
+Limonium,limonium,Armeria-type,FALSE
+Limonium-type,limonium_type,Armeria-type,FALSE
+Limonium humile-type,limonium_humile_type,Armeria-type,FALSE
+Limosella,limosella,Scrophularia-type,FALSE
+Linaceae,linaceae,Linaceae,FALSE
+Linaria,linaria,Linaria-type,FALSE
+Linaria-type,linaria_type,Linaria-type,FALSE
+Linnaea borealis,linnaea_borealis,Linnaea borealis,FALSE
+Linum,linum,Linum,FALSE
+Linum alpinum-type,linum_alpinum_type,Linum austriacum-type,FALSE
+Linum austriacum-type,linum_austriacum_type,Linum austriacum-type,FALSE
+Linum bienne-type,linum_bienne_type,Linum usitatissimum/L. bienne,FALSE
+Linum catharticum,linum_catharticum,Linum catharticum,FALSE
+Linum catharticum-type,linum_catharticum_type,Linum catharticum-type,FALSE
+Linum flavum,linum_flavum,Linum flavum,FALSE
+Linum undiff.,linum_undiff,Linum,FALSE
+Linum usitatissimum,linum_usitatissimum,Linum usitatissimum/L. bienne,FALSE
+Linum usitatissimum-type,linum_usitatissimum_type,Linum usitatissimum/L. bienne,FALSE
+Liquidambar,liquidambar,Liquidambar,FALSE
+Liriodendron tulipifera,liriodendron_tulipifera,Liriodendron,FALSE
+Listera,listera,Listera-type,FALSE
+Listera-type,listera_type,Listera-type,FALSE
+Listera ovata,listera_ovata,Listera ovata,FALSE
+Lithospermum,lithospermum,Lithospermum-type,FALSE
+Lithospermum-type,lithospermum_type,Lithospermum-type,FALSE
+Lithospermum officinale,lithospermum_officinale,Lithospermum officinale,FALSE
+Lobelia,lobelia,Lobelia,FALSE
+Lobelia-type,lobelia_type,Lobelia,FALSE
+Lobelia dortmanna,lobelia_dortmanna,Lobelia dortmanna,FALSE
+Lobelioideae,lobelioideae,Campanulaceae,FALSE
+Lomelosia rotata-type,lomelosia_rotata_type,Scabiosa columbaria-type,FALSE
+Lonicera,lonicera,Lonicera,FALSE
+Lonicera-type,lonicera_type,Lonicera,FALSE
+Lonicera alpigena,lonicera_alpigena,Lonicera alpigena,FALSE
+Lonicera caerulea,lonicera_caerulea,Lonicera coerulea,FALSE
+Lonicera nigra,lonicera_nigra,Lonicera nigra,FALSE
+Lonicera periclymenum,lonicera_periclymenum,Lonicera periclymenum,FALSE
+Lonicera periclymenum-type,lonicera_periclymenum_type,Lonicera periclymenum-type,FALSE
+Lonicera xylosteum,lonicera_xylosteum,Lonicera xylosteum,FALSE
+Lonicera xylosteum-type,lonicera_xylosteum_type,Lonicera xylosteum-type,FALSE
+Loranthaceae,loranthaceae,Loranthaceae,FALSE
+Loranthus,loranthus,Loranthus europaeus,FALSE
+Loranthus europaeus,loranthus_europaeus,Loranthus europaeus,FALSE
+Lotus,lotus,Lotus-type,FALSE
+Lotus-type,lotus_type,Lotus-type,FALSE
+Lotus cf. L. corniculatus,lotus_cf_l_corniculatus,Lotus-type,FALSE
+Lotus corniculatus,lotus_corniculatus,Lotus-type,FALSE
+Lotus pedunculatus,lotus_pedunculatus,Lotus-type,FALSE
+Lotus pedunculatus-type,lotus_pedunculatus_type,Lotus-type,FALSE
+Luzula,luzula,Juncaceae,FALSE
+Lycopsis arvensis,lycopsis_arvensis,Anchusa arvensis-type,FALSE
+Lycopsis arvensis-type,lycopsis_arvensis_type,Anchusa arvensis-type,FALSE
+Lycopus,lycopus,Mentha-type,FALSE
+Lycopus-type,lycopus_type,Mentha-type,FALSE
+Lycopus europaeus,lycopus_europaeus,Mentha-type,FALSE
+Lycopus/Mentha,lycopus_mentha,Mentha-type,FALSE
+Lycopus/Mentha longifolia,lycopus_mentha_longifolia,Mentha-type,FALSE
+Lygeum spartum,lygeum_spartum,Lygeum spartum,FALSE
+Lysimachia,lysimachia,Anagallis-type,FALSE
+Lysimachia-type,lysimachia_type,Anagallis-type,FALSE
+Lysimachia nemorum,lysimachia_nemorum,Lysimachia nemorum,FALSE
+Lysimachia nummularia,lysimachia_nummularia,Lysimachia vulgaris-type,FALSE
+Lysimachia thyrsiflora,lysimachia_thyrsiflora,Lysimachia vulgaris-type,FALSE
+Lysimachia vulgaris,lysimachia_vulgaris,Lysimachia vulgaris-type,FALSE
+Lysimachia vulgaris-type,lysimachia_vulgaris_type,Lysimachia vulgaris-type,FALSE
+Lythraceae,lythraceae,Lythrum,FALSE
+Lythraceae undiff.,lythraceae_undiff,Lythrum,FALSE
+Lythrum,lythrum,Lythrum,FALSE
+Lythrum portula,lythrum_portula,Lythrum portula-type,FALSE
+Lythrum portula-type,lythrum_portula_type,Lythrum portula-type,FALSE
+Lythrum salicaria,lythrum_salicaria,Lythrum salicaria-type,FALSE
+Lythrum salicaria-type,lythrum_salicaria_type,Lythrum salicaria-type,FALSE
+Lythrum undiff.,lythrum_undiff,Lythrum,FALSE
+Magnolia-type,magnolia_type,Magnolia-type,FALSE
+Maianthemum-type,maianthemum_type,Maianthemum/Paris,FALSE
+Maianthemum bifolium,maianthemum_bifolium,Maianthemum bifolium,FALSE
+Maianthemum/Paris,maianthemum_paris,Maianthemum/Paris,FALSE
+Malabaila,malabaila,Malabaila,FALSE
+Malus,malus,Prunus-type,FALSE
+Malus-type,malus_type,Prunus-type,FALSE
+Malva,malva,Malvaceae,FALSE
+Malva-type,malva_type,Malvaceae,FALSE
+Malva sylvestris-type,malva_sylvestris_type,Malva sylvestris-type,FALSE
+Malvaceae,malvaceae,Malvaceae,FALSE
+Malvaceae sensu stricto,malvaceae_sensu_stricto,Malvaceae,FALSE
+Malvaceae undiff,malvaceae_undiff,Malvaceae,FALSE
+Marrubium,marrubium,Marrubium,FALSE
+Matricaria,matricaria,Matricaria-type,FALSE
+Matricaria-type,matricaria_type,Matricaria-type,FALSE
+Matthiola,matthiola,Matthiola,FALSE
+Matthiola-type,matthiola_type,Matthiola,FALSE
+Medicago,medicago,Medicago sativa-type,FALSE
+Medicago falcata-type,medicago_falcata_type,Medicago sativa-type,FALSE
+Medicago sativa,medicago_sativa,Medicago sativa-type,FALSE
+Melampyrum,melampyrum,Melampyrum,FALSE
+Melampyrum-type,melampyrum_type,Melampyrum,FALSE
+Melampyrum pratense,melampyrum_pratense,Melampyrum,FALSE
+Melilotus-type,melilotus_type,Astragalus-type,FALSE
+Melilotus officinalis,melilotus_officinalis,Astragalus-type,FALSE
+Mentha,mentha,Mentha-type,FALSE
+Mentha-type,mentha_type,Mentha-type,FALSE
+Mercurialis,mercurialis,Mercurialis,FALSE
+Mercurialis annua,mercurialis_annua,Mercurialis annua,FALSE
+Mercurialis_annua_type,mercurialis_annua_type,Mercurialis annua,FALSE
+Mercurialis perennis,mercurialis_perennis,Mercurialis perennis-type,FALSE
+Mercurialis perennis-type,mercurialis_perennis_type,Mercurialis perennis-type,FALSE
+Mercurialis undiff.,mercurialis_undiff,Mercurialis,FALSE
+Meum-type,meum_type,Meum-type,FALSE
+Meum athamanticum,meum_athamanticum,Meum athamanticum,FALSE
+Meum athamanticum-type,meum_athamanticum_type,Meum-type,FALSE
+Micranthes cf. M. stellaris,micranthes_cf_m_stellaris,Saxifraga,FALSE
+Micranthes nivalis,micranthes_nivalis,Saxifraga stellaris-type,FALSE
+Micranthes nivalis-type,micranthes_nivalis_type,Saxifraga stellaris-type,FALSE
+Micranthes nivalis/M. tenuis,micranthes_nivalis_m_tenuis,Saxifraga stellaris-type,FALSE
+Micranthes stellaris,micranthes_stellaris,Saxifraga stellaris-type,FALSE
+Micranthes stellaris-type,micranthes_stellaris_type,Saxifraga stellaris-type,FALSE
+Microrrhinum minus,microrrhinum_minus,Chaenorhinum minus,FALSE
+Mimulus,mimulus,Mimulus,FALSE
+Minuartia-type,minuartia_type,Moehringia-type,FALSE
+Minuartia recurva,minuartia_recurva,Moehringia-type,FALSE
+Minuartia rubra-type,minuartia_rubra_type,Minuartia rubra-type/Bufonia,FALSE
+Minuartia sedoides,minuartia_sedoides,Moehringia-type,FALSE
+Minuartia verna,minuartia_verna,Moehringia-type,FALSE
+Minuartia verna-type,minuartia_verna_type,Moehringia-type,FALSE
+Moehringia-type,moehringia_type,Moehringia-type,FALSE
+Moehringia trinervia-type,moehringia_trinervia_type,Moehringia-type,FALSE
+Monotropa,monotropa,Monotropa hypopitys,FALSE
+Monotropa hypopitys,monotropa_hypopitys,Monotropa hypopitys,FALSE
+Monotropoideae,monotropoideae,Monotropa hypopitys,FALSE
+Montia,montia,Montia,FALSE
+Montia fontana,montia_fontana,Montia,FALSE
+Montia fontana-type,montia_fontana_type,Montia,FALSE
+Moraceae,moraceae,Moraceae,FALSE
+Morus,morus,Morus,FALSE
+Morus alba,morus_alba,Morus alba,FALSE
+Morus alba-type,morus_alba_type,Morus,FALSE
+Muscari,muscari,Muscari,FALSE
+Muscari-type,muscari_type,Muscari,FALSE
+Myosotis,myosotis,Myosotis-type,FALSE
+Myosotis-type,myosotis_type,Myosotis-type,FALSE
+Myosotis arvensis,myosotis_arvensis,Myosotis-type,FALSE
+Myosotis arvensis-type,myosotis_arvensis_type,Myosotis-type,FALSE
+Myrica,myrica,Myrica,FALSE
+Myrica-type,myrica_type,Myrica,FALSE
+Myrica gale,myrica_gale,Myrica,FALSE
+Myricaceae,myricaceae,Myrica,FALSE
+Myricaria,myricaria,Myricaria germanica,FALSE
+Myricaria-type,myricaria_type,Myricaria germanica,FALSE
+Myricaria germanica,myricaria_germanica,Myricaria germanica,FALSE
+Myricaria germanica-type,myricaria_germanica_type,Myricaria germanica,FALSE
+Myrrhis-type,myrrhis_type,Apiaceae,FALSE
+Myrrhis odorata,myrrhis_odorata,Myrrhis odorata,FALSE
+Myrtus,myrtus,Myrtus communis,FALSE
+Myrtus-type,myrtus_type,Myrtus communis,FALSE
+Myrtus communis,myrtus_communis,Myrtus communis,FALSE
+Narcissus,narcissus,Convallaria-type,FALSE
+Narcissus-type,narcissus_type,Convallaria-type,FALSE
+Narcissus bulbocodium,narcissus_bulbocodium,Convallaria-type,FALSE
+Narcissus poeticus-type,narcissus_poeticus_type,Narcissus poeticus-type,FALSE
+Narcissus pseudonarcissus-type,narcissus_pseudonarcissus_type,Convallaria-type,FALSE
+Nardus,nardus,Poaceae,FALSE
+Narthecium,narthecium,Narthecium,FALSE
+Narthecium-type,narthecium_type,Narthecium,FALSE
+Narthecium ossifragum,narthecium_ossifragum,Narthecium,FALSE
+Nepeta-type,nepeta_type,Prunella-type,FALSE
+Nerium oleander,nerium_oleander,Nerium oleander,FALSE
+Nicotiana,nicotiana,Nicotiana,FALSE
+Nigella,nigella,Nigella,FALSE
+Noaea-type,noaea_type,Chenopodiaceae/Amaranthaceae,FALSE
+Nonea,nonea,Nonea,FALSE
+Nyssa,nyssa,Nyssa,FALSE
+Odontites,odontites,Odontites-type,FALSE
+Odontites-type,odontites_type,Odontites-type,FALSE
+Oenanthe fistulosa-type,oenanthe_fistulosa_type,Oenanthe,FALSE
+Oenothera,oenothera,Oenothera,FALSE
+Olea,olea,Olea europaea,FALSE
+Olea europaea,olea_europaea,Olea europaea,FALSE
+Olea/Phillyrea,olea_phillyrea,Olea europaea,FALSE
+Oleaceae,oleaceae,Oleaceae,FALSE
+Oleaceae undiff.,oleaceae_undiff,Oleaceae,FALSE
+Oleaceae/Brassicaceae,oleaceae_brassicaceae,Oleaceae/Brassicaceae,FALSE
+onagraceae,onagraceae,Onagraceae,FALSE
+Onagraceae cf. Epilobium,onagraceae_cf_epilobium,Onagraceae,FALSE
+Onobrychis,onobrychis,Onobrychis,FALSE
+Onobrychis-type,onobrychis_type,Onobrychis-type,FALSE
+Onobrychis viciifolia,onobrychis_viciifolia,Onobrychis,FALSE
+Ononis,ononis,Ononis,FALSE
+Ononis-type,ononis_type,Ononis,FALSE
+Onopordum acanthium,onopordum_acanthium,Chardinia/Onopordon,FALSE
+Onosma,onosma,Onosma,FALSE
+Onosma-type,onosma_type,Echium/Onosma,FALSE
+Orchidaceae,orchidaceae,Orchidaceae,FALSE
+Orlaya,orlaya,Orlaya,FALSE
+Orlaya grandiflora,orlaya_grandiflora,Orlaya,FALSE
+Ornithogalum,ornithogalum,Ornithogalum-type,FALSE
+Ornithogalum-type,ornithogalum_type,Ornithogalum-type,FALSE
+Ornithogalum umbellatum-type,ornithogalum_umbellatum_type,Ornithogalum-type,FALSE
+Ornithopus,ornithopus,Ornithopus,FALSE
+Orthilia,orthilia,Orthilia,FALSE
+Orthilia secunda,orthilia_secunda,Orthilia,FALSE
+Ostrya,ostrya,Ostrya/Carpinus orientalis,FALSE
+Ostrya-type,ostrya_type,Ostrya/Carpinus orientalis,FALSE
+Ostrya carpinifolia,ostrya_carpinifolia,Ostrya/Carpinus orientalis,FALSE
+Ostrya/Carpinus,ostrya_carpinus,Ostrya/Carpinus orientalis,FALSE
+Ostrya/Carpinus-type,ostrya_carpinus_type,Ostrya/Carpinus orientalis,FALSE
+Ostrya/Carpinus orientalis,ostrya_carpinus_orientalis,Ostrya/Carpinus orientalis,FALSE
+Ostrya/Carpinus orientalis-type,ostrya_carpinus_orientalis_type,Ostrya/Carpinus orientalis,FALSE
+Oxalidaceae,oxalidaceae,Oxalis,FALSE
+Oxalis,oxalis,Oxalis,FALSE
+Oxalis-type,oxalis_type,Oxalis,FALSE
+Oxalis acetosella,oxalis_acetosella,Oxalis acetosella,FALSE
+Oxyria,oxyria,Oxyria digyna,FALSE
+Oxyria-type,oxyria_type,Rumex acetosa-type,FALSE
+Oxyria digyna,oxyria_digyna,Oxyria digyna,FALSE
+Oxyria digyna-type,oxyria_digyna_type,Oxyria digyna,FALSE
+Paliurus,paliurus,Rhamnus-type,FALSE
+Panicum-type,panicum_type,Panicum-type,FALSE
+Papaver,papaver,Papaver,FALSE
+Papaver-type,papaver_type,Papaver,FALSE
+Papaver argemone,papaver_argemone,Papaver argemone,FALSE
+Papaver argemone-type,papaver_argemone_type,Papaver argemone,FALSE
+Papaver rhoeas-type,papaver_rhoeas_type,Papaver rhoeas-type,FALSE
+Papaveraceae,papaveraceae,Papaveraceae,FALSE
+Papaveraceae undiff.,papaveraceae_undiff,Papaveraceae,FALSE
+Paradisea liliastrum,paradisea_liliastrum,Paradisia liliastrum,FALSE
+Parietaria,parietaria,Parietaria,FALSE
+Paris-type,paris_type,Maianthemum/Paris,FALSE
+Parnassia,parnassia,Parnassia palustris,FALSE
+Parnassia-type,parnassia_type,Parnassia palustris,FALSE
+Parnassia palustris,parnassia_palustris,Parnassia palustris,FALSE
+Paronychia,paronychia,Paronychia,FALSE
+Paronychia-type,paronychia_type,Paronychia,FALSE
+Paronychia polygonifolia-type,paronychia_polygonifolia_type,Paronychia,FALSE
+Parrotia,parrotia,Parrotia,FALSE
+Pastinaca sativa,pastinaca_sativa,Pastinaca sativa,FALSE
+Pedicularis,pedicularis,Pedicularis,FALSE
+Pedicularis-type,pedicularis_type,Pedicularis palustris-type,FALSE
+Pedicularis palustris,pedicularis_palustris,Pedicularis palustris-type,FALSE
+Pedicularis palustris-type,pedicularis_palustris_type,Pedicularis palustris-type,FALSE
+Pedicularis sylvatica,pedicularis_sylvatica,Pedicularis palustris-type,FALSE
+Pedicularis verticillata-type,pedicularis_verticillata_type,Pedicularis verticillata-type,FALSE
+Pentaglottis sempervirens,pentaglottis_sempervirens,Pentaglottis sempervirens,FALSE
+Penthorum sedoides,penthorum_sedoides,Penthorum sedoides,FALSE
+Persicaria,persicaria,Polygonum persicaria-type,FALSE
+Persicaria amphibia,persicaria_amphibia,Polygonum amphibium,FALSE
+Persicaria amphibia-type,persicaria_amphibia_type,Polygonum amphibium,FALSE
+Persicaria cf. P. lapathifolia,persicaria_cf_p_lapathifolia,Polygonum persicaria-type,FALSE
+Persicaria cf. P. maculosa,persicaria_cf_p_maculosa,Polygonum persicaria-type,FALSE
+Persicaria hydropiper,persicaria_hydropiper,Polygonum persicaria-type,FALSE
+Persicaria lapathifolia,persicaria_lapathifolia,Polygonum persicaria-type,FALSE
+Persicaria lapathifolia-type,persicaria_lapathifolia_type,Polygonum persicaria-type,FALSE
+Persicaria maculosa,persicaria_maculosa,Polygonum persicaria-type,FALSE
+Persicaria maculosa-type,persicaria_maculosa_type,Polygonum persicaria-type,FALSE
+Persicaria minor-type,persicaria_minor_type,Polygonum persicaria-type,FALSE
+Petasites,petasites,Petasites,FALSE
+Petasites-type,petasites_type,Petasites,FALSE
+Petasites hybridus-type,petasites_hybridus_type,Petasites,FALSE
+Peucedanum,peucedanum,Peucedanum-type,FALSE
+Peucedanum-type,peucedanum_type,Peucedanum-type,FALSE
+Peucedanum ostruthium,peucedanum_ostruthium,Peucedanum-type,FALSE
+Peucedanum palustre,peucedanum_palustre,Peucedanum-type,FALSE
+Peucedanum palustre-type,peucedanum_palustre_type,Peucedanum-type,FALSE
+Phillyrea,phillyrea,Phillyrea,FALSE
+Phillyrea angustifolia-type,phillyrea_angustifolia_type,Phillyrea,FALSE
+Phleum-type,phleum_type,Poaceae,FALSE
+Phlomis,phlomis,Phlomis,FALSE
+Physospermum cornubiense,physospermum_cornubiense,Pleurospermum-type,FALSE
+Phyteuma,phyteuma,Phyteuma-type,FALSE
+Phyteuma-type,phyteuma_type,Phyteuma-type,FALSE
+Phyteuma hemisphaericum,phyteuma_hemisphaericum,Phyteuma-type,FALSE
+Picea,picea,Picea abies-type,FALSE
+Picea abies,picea_abies,Picea abies-type,FALSE
+Pilosella officinarum,pilosella_officinarum,Crepis-type,FALSE
+Pimpinella,pimpinella,Pimpinella major-type,FALSE
+Pimpinella-type,pimpinella_type,Pimpinella major-type,FALSE
+Pimpinella anisum,pimpinella_anisum,Pimpinella anisum,FALSE
+Pimpinella major,pimpinella_major,Pimpinella major-type,FALSE
+Pimpinella major-type,pimpinella_major_type,Pimpinella major-type,FALSE
+Pimpinella saxifraga,pimpinella_saxifraga,Pimpinella major-type,FALSE
+Pimpinella saxifraga-type,pimpinella_saxifraga_type,Pimpinella major-type,FALSE
+Pinaceae,pinaceae,Pinaceae,FALSE
+Pinguicula,pinguicula,Pinguicula,FALSE
+Pinguicula vulgaris,pinguicula_vulgaris,Pinguicula,FALSE
+Pinguicula vulgaris-type,pinguicula_vulgaris_type,Pinguicula,FALSE
+Pinus,pinus,Pinus sylvestris-type,FALSE
+Pinus-type,pinus_type,Pinus sylvestris-type,FALSE
+Pinus (excluding P. cembra),pinus_excluding_p_cembra,Pinus sylvestris-type,FALSE
+Pinus cembra,pinus_cembra,Pinus cembra-type,FALSE
+Pinus cembra-type,pinus_cembra_type,Pinus cembra-type,FALSE
+Pinus halepensis,pinus_halepensis,Pinus halepensis-type,FALSE
+Pinus halepensis-type,pinus_halepensis_type,Pinus halepensis-type,FALSE
+Pinus mugo,pinus_mugo,Pinus sylvestris-type,FALSE
+Pinus peuce,pinus_peuce,Pinus cembra-type,FALSE
+Pinus pinaster,pinus_pinaster,Pinus pinaster,FALSE
+Pinus pinaster-type,pinus_pinaster_type,Pinus pinaster,FALSE
+Pinus sibirica,pinus_sibirica,Pinus cembra-type,FALSE
+Pinus subg. Pinus,pinus_subg_pinus,Pinus sylvestris-type,FALSE
+Pinus subg. Pinus-type,pinus_subg_pinus_type,Pinus sylvestris-type,FALSE
+Pinus subg. Strobus,pinus_subg_strobus,Pinus cembra-type,FALSE
+Pinus subg. Strobus-type,pinus_subg_strobus_type,Pinus cembra-type,FALSE
+Pinus sylvestris,pinus_sylvestris,Pinus sylvestris-type,FALSE
+Pinus sylvestris-type,pinus_sylvestris_type,Pinus sylvestris-type,FALSE
+Pinus undiff.,pinus_undiff,Pinus,FALSE
+Pistacia,pistacia,Pistacia,FALSE
+Pistacia lentiscus,pistacia_lentiscus,Pistacia,FALSE
+Pistacia terebinthus,pistacia_terebinthus,Pistacia,FALSE
+Pisum sativum,pisum_sativum,Pisum sativum,FALSE
+Plantaginaceae,plantaginaceae,Plantaginaceae,FALSE
+Plantago,plantago,Plantago,FALSE
+Plantago-type,plantago_type,Plantago,FALSE
+Plantago albicans,plantago_albicans,Plantago albicans,FALSE
+Plantago alpina,plantago_alpina,Plantago maritima-type,FALSE
+Plantago alpina-type,plantago_alpina_type,Plantago maritima-type,FALSE
+Plantago atrata,plantago_atrata,Plantago atrata-type,FALSE
+Plantago atrata-type,plantago_atrata_type,Plantago atrata-type,FALSE
+Plantago cf. P. coronopus,plantago_cf_p_coronopus,Plantago,FALSE
+Plantago coronopus,plantago_coronopus,Plantago coronopus-type,FALSE
+Plantago coronopus-type,plantago_coronopus_type,Plantago coronopus-type,FALSE
+Plantago coronopus sensu stricto,plantago_coronopus_sensu_stricto,Plantago coronopus-type,FALSE
+Plantago lagopus-type,plantago_lagopus_type,Plantago lanceolata-type,TRUE
+Plantago lanceolata,plantago_lanceolata,Plantago lanceolata-type,TRUE
+Plantago lanceolata-type,plantago_lanceolata_type,Plantago lanceolata-type,TRUE
+Plantago major,plantago_major,Plantago major,FALSE
+Plantago major-type,plantago_major_type,Plantago major-type,FALSE
+Plantago major/P. media,plantago_major_p_media,Plantago major-type,FALSE
+Plantago major/P. media-type,plantago_major_p_media_type,Plantago major-type,FALSE
+Plantago maritima,plantago_maritima,Plantago maritima-type,FALSE
+Plantago maritima-type,plantago_maritima_type,Plantago maritima-type,FALSE
+Plantago maritima/P. alpina,plantago_maritima_p_alpina,Plantago maritima-type,FALSE
+Plantago media,plantago_media,Plantago media,FALSE
+Plantago media-type,plantago_media_type,Plantago major-type,FALSE
+Plantago media/P. montana,plantago_media_p_montana,Plantago,FALSE
+Plantago montana,plantago_montana,Plantago,FALSE
+Plantago ovata-type,plantago_ovata_type,Plantago maritima-type,FALSE
+Plantago pro parte,plantago_pro_parte,Plantago,FALSE
+Plantago sp.,plantago_sp,Plantago,FALSE
+Plantago subulata-type,plantago_subulata_type,Plantago,FALSE
+Plantago tenuiflora,plantago_tenuiflora,Plantago tenuiflora,FALSE
+Plantago undiff.,plantago_undiff,Plantago,FALSE
+Plantago uniflora,plantago_uniflora,Plantago,FALSE
+Platanus,platanus,Platanus,FALSE
+Platycarya,platycarya,Platycarya,FALSE
+Pleurospermum,pleurospermum,Pleurospermum-type,FALSE
+Pleurospermum-type,pleurospermum_type,Pleurospermum-type,FALSE
+Pleurospermum austriacum,pleurospermum_austriacum,Pleurospermum-type,FALSE
+Pleurospermum austriacum-type,pleurospermum_austriacum_type,Pleurospermum-type,FALSE
+Plumbaginaceae,plumbaginaceae,Plumbaginaceae,FALSE
+Poa/Festuca-type,poa_festuca_type,Poaceae,FALSE
+Poaceae,poaceae,Poaceae,FALSE
+Poaceae (<37 µm),poaceae_smaller_than_37_mu_m,Poaceae,FALSE
+Poaceae (>40 µm),poaceae_bigger_than_40_mu_m,Poaceae,FALSE
+Poaceae (annulus >10 µm),poaceae_annulus_bigger_than_10_mu_m,Poaceae,FALSE
+Poaceae (annulus 8-10 µm),poaceae_annulus_8_minus_10_mu_m,Poaceae,FALSE
+Poaceae (Cerealia-type),poaceae_cerealia_type,Cerealia-type,TRUE
+Poaceae (Cerealia-type) undiff.,poaceae_cerealia_type_undiff,Cerealia-type,TRUE
+Poaceae (Cerealia),poaceae_cerealia,Cerealia-type,TRUE
+Poaceae (Cerealia) cf. Secale,poaceae_cerealia_cf_secale,Cerealia-type,TRUE
+Poaceae (Cerealia) undiff.,poaceae_cerealia_undiff,Cerealia-type,TRUE
+"Poaceae (Cerealia, >50 µm)",poaceae_cerealia_bigger_than_50_mu_m,Cerealia-type,TRUE
+"Poaceae (Cerealia, 37-40 µm)",poaceae_cerealia_37_minus_40_mu_m,Cerealia-type,TRUE
+"Poaceae (Cerealia, 40-50 µm)",poaceae_cerealia_40_minus_50_mu_m,Cerealia-type,TRUE
+Poaceae (large),poaceae_large,Cerealia-type,TRUE
+Poaceae pro parte,poaceae_pro_parte,Poaceae,FALSE
+Poaceae undiff.,poaceae_undiff,Poaceae,FALSE
+Poaceae undiff. (<40 µm),poaceae_undiff_smaller_than_40_mu_m,Poaceae,FALSE
+Poaceae undiff. (>40 µm),poaceae_undiff_bigger_than_40_mu_m,Poaceae,FALSE
+Podocarpus-type,podocarpus_type,Podocarpus,FALSE
+Polemoniaceae,polemoniaceae,Polemoniaceae,FALSE
+Polemonium,polemonium,Polemonium,FALSE
+Polemonium-type,polemonium_type,Polemonium,FALSE
+Polemonium boreale,polemonium_boreale,Polemonium,FALSE
+Polemonium caeruleum,polemonium_caeruleum,Polemonium,FALSE
+Polygala,polygala,Polygala,FALSE
+Polygala vulgaris,polygala_vulgaris,Polygala comosa-type,FALSE
+Polygala vulgaris-type,polygala_vulgaris_type,Polygala comosa-type,FALSE
+Polygalaceae,polygalaceae,Polygala,FALSE
+Polygonaceae,polygonaceae,Polygonaceae,FALSE
+Polygonaceae cf. Bistorta officinalis,polygonaceae_cf_bistorta_officinalis,Polygonum bistorta-type,FALSE
+Polygonaceae undiff.,polygonaceae_undiff,Polygonaceae,FALSE
+Polygonatum,polygonatum,Polygonatum-type,FALSE
+Polygonatum-type,polygonatum_type,Polygonatum-type,FALSE
+Polygonatum verticillatum,polygonatum_verticillatum,Polygonatum verticillatum,FALSE
+Polygonoideae pro parte,polygonoideae_pro_parte,Polygonaceae,FALSE
+Polygonum,polygonum,Polygonum-type (tricolporate),FALSE
+Polygonum-type (tricolporate),polygonum_type_tricolporate,Polygonum-type (tricolporate),FALSE
+Polygonum-type sensu lato,polygonum_type_sensu_lato,Polygonum-type (tricolporate),FALSE
+Polygonum aviculare,polygonum_aviculare,Polygonum aviculare-type,FALSE
+Polygonum aviculare-type,polygonum_aviculare_type,Polygonum aviculare-type,FALSE
+Polygonum aviculare/Bistorta officinalis,polygonum_aviculare_bistorta_officinalis,Polygonum aviculare-type,FALSE
+Polygonum cf. P. aviculare,polygonum_cf_p_aviculare,Polygonum aviculare-type,FALSE
+Polygonum oxyspermum,polygonum_oxyspermum,Polygonum oxyspermum-type,FALSE
+Polygonum oxyspermum-type,polygonum_oxyspermum_type,Polygonum oxyspermum-type,FALSE
+Polygonum oxyspermum subsp. raii,polygonum_oxyspermum_subsp_raii,Polygonum oxyspermum ssp. raii,FALSE
+Polygonum sensu lato undiff.,polygonum_sensu_lato_undiff,Polygonum-type (tricolporate),FALSE
+Populus,populus,Populus,FALSE
+Populus balsamifera-type,populus_balsamifera_type,Populus balsamifera-type,FALSE
+Populus tremula,populus_tremula,Populus tremula-type,FALSE
+Populus tremula-type,populus_tremula_type,Populus tremula-type,FALSE
+Portulaca,portulaca,Portulaca,FALSE
+Potentilla,potentilla,Potentilla-type,FALSE
+Potentilla-type,potentilla_type,Potentilla-type,FALSE
+Potentilla aurea,potentilla_aurea,Potentilla-type,FALSE
+Potentilla erecta,potentilla_erecta,Potentilla-type,FALSE
+Potentilla grandiflora,potentilla_grandiflora,Potentilla-type,FALSE
+Potentilla recta,potentilla_recta,Potentilla-type,FALSE
+Potentilla undiff.,potentilla_undiff,Potentilla-type,FALSE
+Poterium,poterium,Sanguisorba minor-type,FALSE
+Poterium sanguisorba,poterium_sanguisorba,Sanguisorba minor-type,FALSE
+Prenanthes purpurea,prenanthes_purpurea,Crepis-type,FALSE
+Primula,primula,Primula,FALSE
+Primula-type,primula_type,Primula,FALSE
+Primula clusiana-type,primula_clusiana_type,Primula hirsuta-type,FALSE
+Primula farinosa,primula_farinosa,Primula farinosa-type,FALSE
+Primula farinosa-type,primula_farinosa_type,Primula farinosa-type,FALSE
+Primula hirsuta-type,primula_hirsuta_type,Primula hirsuta-type,FALSE
+Primula integrifolia-type,primula_integrifolia_type,Primula integrifolia-type,FALSE
+Primula veris-type,primula_veris_type,Primula veris-type,FALSE
+Primula vulgaris-type,primula_vulgaris_type,Primula veris-type,FALSE
+Primulaceae,primulaceae,Primulaceae,FALSE
+Primulaceae undiff,primulaceae_undiff,Primulaceae,FALSE
+Prunella,prunella,Prunella-type,FALSE
+Prunella-type,prunella_type,Prunella-type,FALSE
+Prunella vulgaris,prunella_vulgaris,Prunella-type,FALSE
+Prunus,prunus,Prunus-type,FALSE
+Prunus-type,prunus_type,Prunus-type,FALSE
+Prunus avium/P. spinosa,prunus_avium_p_spinosa,Prunus-type,FALSE
+Prunus cf. P. padus,prunus_cf_p_padus,Prunus-type,FALSE
+Prunus padus,prunus_padus,Prunus padus,FALSE
+Prunus spinosa,prunus_spinosa,Prunus-type,FALSE
+Prunus/Sorbus,prunus_sorbus,Rosaceae (non-operculate),FALSE
+Pseudofumaria lutea-type,pseudofumaria_lutea_type,Corydalis lutea-type,FALSE
+Psylliostachys spicata,psylliostachys_spicata,Armeria-type,FALSE
+Pterocarya,pterocarya,Pterocarya,FALSE
+Pterocarya fraxinifolia,pterocarya_fraxinifolia,Pterocarya,FALSE
+Pulmonaria,pulmonaria,Anchusa/Pulmonaria,FALSE
+Pulmonaria-type,pulmonaria_type,Anchusa/Pulmonaria,FALSE
+Pulmonaria obscura,pulmonaria_obscura,Anchusa/Pulmonaria,FALSE
+Pulmonaria obscura-type,pulmonaria_obscura_type,Anchusa/Pulmonaria,FALSE
+Pulmonaria officinalis,pulmonaria_officinalis,Anchusa/Pulmonaria,FALSE
+Pyrola,pyrola,Pyrola-type,FALSE
+Pyrus-type,pyrus_type,Prunus-type,FALSE
+Quercus,quercus,Quercus robur-type,FALSE
+Quercus (deciduous-type),quercus_deciduous_type,Quercus robur-type,FALSE
+Quercus (deciduous),quercus_deciduous,Quercus robur-type,FALSE
+Quercus (evergreen-type),quercus_evergreen_type,Quercus ilex-type,FALSE
+Quercus (evergreen),quercus_evergreen,Quercus ilex-type,FALSE
+Quercus cerris,quercus_cerris,Quercus cerris-type,FALSE
+Quercus cerris-type,quercus_cerris_type,Quercus cerris-type,FALSE
+Quercus cerris/Q. suber,quercus_cerris_q_suber,Quercus cerris-type,FALSE
+Quercus coccifera,quercus_coccifera,Quercus ilex-type,FALSE
+Quercus coccifera-type,quercus_coccifera_type,Quercus ilex-type,FALSE
+Quercus faginea-type,quercus_faginea_type,Quercus robur-type,FALSE
+Quercus frainetto,quercus_frainetto,Quercus robur-type,FALSE
+Quercus ilex,quercus_ilex,Quercus ilex-type,FALSE
+Quercus ilex-type,quercus_ilex_type,Quercus ilex-type,FALSE
+Quercus ilex/Q. coccifera,quercus_ilex_q_coccifera,Quercus ilex-type,FALSE
+Quercus infectoria subsp. veneris-type,quercus_infectoria_subsp_veneris_type,Astrantia-type,FALSE
+Quercus pubescens-type,quercus_pubescens_type,Quercus robur-type,FALSE
+Quercus pyrenaica-type,quercus_pyrenaica_type,Quercus robur-type,FALSE
+Quercus robur,quercus_robur,Quercus robur-type,FALSE
+Quercus robur-type,quercus_robur_type,Quercus robur-type,FALSE
+Quercus suber,quercus_suber,Quercus cerris-type,FALSE
+Quercus suber-type,quercus_suber_type,Quercus cerris-type,FALSE
+Quercus undiff.,quercus_undiff,Quercus,FALSE
+Radiola,radiola,Radiola linoides,FALSE
+Radiola linoides,radiola_linoides,Radiola linoides,FALSE
+Ranunculaceae,ranunculaceae,Ranunculaceae,FALSE
+Ranunculaceae (type 1),ranunculaceae_type_1,Ranunculaceae,FALSE
+Ranunculaceae (type 2),ranunculaceae_type_2,Ranunculaceae,FALSE
+Ranunculaceae pro parte,ranunculaceae_pro_parte,Ranunculaceae,FALSE
+Ranunculaceae undiff.,ranunculaceae_undiff,Ranunculaceae,FALSE
+Ranunculus,ranunculus,Ranunculus-type,FALSE
+Ranunculus-type,ranunculus_type,Ranunculus-type,FALSE
+Ranunculus aconitifolius,ranunculus_aconitifolius,Ranunculus sceleratus-type,FALSE
+Ranunculus aconitifolius-type,ranunculus_aconitifolius_type,Ranunculus sceleratus-type,FALSE
+Ranunculus acris,ranunculus_acris,Ranunculus acris-type,FALSE
+Ranunculus acris-type,ranunculus_acris_type,Ranunculus acris-type,FALSE
+Ranunculus acris/R. flammula/R. sceleratus group,ranunculus_acris_r_flammula_r_sceleratus_group,Ranunculus acris-type,FALSE
+Ranunculus arvensis,ranunculus_arvensis,Ranunculus arvensis,FALSE
+Ranunculus arvensis-type,ranunculus_arvensis_type,Ranunculus arvensis-type,FALSE
+Ranunculus asiaticus-type,ranunculus_asiaticus_type,Ranunculus asiaticus,FALSE
+Ranunculus flammula,ranunculus_flammula,Ranunculus flammula-type,FALSE
+Ranunculus flammula-type,ranunculus_flammula_type,Ranunculus flammula-type,FALSE
+Ranunculus glacialis,ranunculus_glacialis,Ranunculus glacialis-type,FALSE
+Ranunculus glacialis-type,ranunculus_glacialis_type,Ranunculus glacialis-type,FALSE
+Ranunculus lanuginosus,ranunculus_lanuginosus,Ranunculus acris-type,FALSE
+Ranunculus lingua,ranunculus_lingua,Ranunculus lingua,FALSE
+Ranunculus lingua-type,ranunculus_lingua_type,Ranunculus lingua,FALSE
+Ranunculus montanus-type,ranunculus_montanus_type,Ranunculus acris-type,FALSE
+Ranunculus repens-type,ranunculus_repens_type,Ranunculus acris-type,FALSE
+Ranunculus sceleratus-type,ranunculus_sceleratus_type,Ranunculus sceleratus-type,FALSE
+Ranunculus sceleratus/R. repens,ranunculus_sceleratus_r_repens,Ranunculus-type,FALSE
+Ranunculus sect. Batrachium-type,ranunculus_sect_batrachium_type,Ranunculus aquatilis-type,FALSE
+Ranunculus sp.,ranunculus_sp,Ranunculus-type,FALSE
+Ranunculus undiff.,ranunculus_undiff,Ranunculus-type,FALSE
+Reseda,reseda,Reseda,FALSE
+Reseda-type,reseda_type,Resedaceae,FALSE
+Reseda lutea-type,reseda_lutea_type,Reseda,FALSE
+Reseda/Sesamoides,reseda_sesamoides,Resedaceae,FALSE
+Resedaceae,resedaceae,Resedaceae,FALSE
+Rhamnaceae,rhamnaceae,Rhamnaceae,FALSE
+Rhamnus,rhamnus,Rhamnus-type,FALSE
+Rhamnus-type,rhamnus_type,Rhamnus-type,FALSE
+Rhamnus cathartica,rhamnus_cathartica,Rhamnus-type,FALSE
+Rhamnus cathartica-type,rhamnus_cathartica_type,Rhamnus-type,FALSE
+Rhamnus/Frangula,rhamnus_frangula,Rhamnaceae,FALSE
+Rhamnus/Paliurus,rhamnus_paliurus,Rhamnus-type,FALSE
+Rhaponticum scariosum,rhaponticum_scariosum,Centaurea nigra-type,FALSE
+Rheum,rheum,Rheum,FALSE
+Rhinanthus,rhinanthus,Rhinanthus-type,FALSE
+Rhinanthus-type,rhinanthus_type,Rhinanthus-type,FALSE
+Rhinanthus/Veronica,rhinanthus_veronica,Rhinanthus-type,FALSE
+Rhododendron,rhododendron,Rhododendron,FALSE
+Rhododendron-type,rhododendron_type,Rhododendron,FALSE
+Rhododendron ferrugineum,rhododendron_ferrugineum,Rhododendron,FALSE
+Rhododendron subsect. Ledum,rhododendron_subsect_ledum,Ledum palustre,FALSE
+Rhododendron tomentosum,rhododendron_tomentosum,Ledum palustre,FALSE
+Rhus,rhus,Rhus,FALSE
+Rhus coriaria-type,rhus_coriaria_type,Rhus coriaria-type,FALSE
+Ribes,ribes,Ribes,FALSE
+Ribes alpinum,ribes_alpinum,Ribes alpinum,FALSE
+Ribes cf. R. alpinum,ribes_cf_r_alpinum,Ribes,FALSE
+Ribes uva-crispa,ribes_uva_minus_crispa,Ribes uva-crispa,FALSE
+Roemeria hybrida,roemeria_hybrida,Roemeria-type,FALSE
+Rosa,rosa,Rosa,FALSE
+Rosa-type,rosa_type,Rosa,FALSE
+Rosaceae,rosaceae,Rosaceae,FALSE
+Rosaceae-type,rosaceae_type,Rosaceae,FALSE
+Rosaceae (herbs) undiff.,rosaceae_herbs_undiff,Rosaceae,FALSE
+Rosaceae (trees),rosaceae_trees,Rosaceae (non-operculate),FALSE
+Rosaceae (trees) undiff.,rosaceae_trees_undiff,Rosaceae (non-operculate),FALSE
+Rosaceae (type A),rosaceae_type_a,Rosaceae,FALSE
+Rosaceae (type B),rosaceae_type_b,Rosaceae,FALSE
+Rosaceae pro parte,rosaceae_pro_parte,Rosaceae,FALSE
+Rosaceae undiff.,rosaceae_undiff,Rosaceae,FALSE
+Rosmarinus,rosmarinus,Salvia officinalis-type,FALSE
+Rubia,rubia,Rubiaceae,FALSE
+Rubiaceae,rubiaceae,Rubiaceae,FALSE
+Rubus,rubus,Rubus,FALSE
+Rubus-type,rubus_type,Rubus,FALSE
+Rubus arcticus,rubus_arcticus,Rubus arcticus,FALSE
+Rubus cf. R. idaeus,rubus_cf_r_idaeus,Rubus,FALSE
+Rubus cf. R. saxatilis,rubus_cf_r_saxatilis,Rubus,FALSE
+Rubus chamaemorus,rubus_chamaemorus,Rubus chamaemorus,FALSE
+Rubus fruticosus,rubus_fruticosus,Rubus,FALSE
+Rubus fruticosus-type,rubus_fruticosus_type,Rubus,FALSE
+Rubus idaeus-type,rubus_idaeus_type,Rubus,FALSE
+Rubus saxatilis,rubus_saxatilis,Rubus,FALSE
+Rubus sp.,rubus_sp,Rubus,FALSE
+Rumex,rumex,Rumex/Oxyria,FALSE
+Rumex-type,rumex_type,Rumex/Oxyria,FALSE
+Rumex acetosa,rumex_acetosa,Rumex acetosa-type,FALSE
+Rumex acetosa-type,rumex_acetosa_type,Rumex acetosa-type,FALSE
+Rumex acetosa/Oxyria-type,rumex_acetosa_oxyria_type,Rumex acetosa-type,FALSE
+Rumex acetosa/R. acetosella,rumex_acetosa_r_acetosella,Rumex acetosa-type,FALSE
+Rumex acetosa/R. acetosella-type,rumex_acetosa_r_acetosella_type,Rumex acetosa-type,FALSE
+Rumex acetosella,rumex_acetosella,Rumex acetosella,FALSE
+Rumex acetosella-type,rumex_acetosella_type,Rumex acetosella-type,FALSE
+Rumex alpinus,rumex_alpinus,Rumex alpinus-type,FALSE
+Rumex alpinus-type,rumex_alpinus_type,Rumex alpinus-type,FALSE
+Rumex aquaticus,rumex_aquaticus,Rumex aquaticus-type,FALSE
+Rumex aquaticus-type,rumex_aquaticus_type,Rumex aquaticus-type,FALSE
+Rumex cf. R. alpinus,rumex_cf_r_alpinus,Rumex acetosa-type,FALSE
+Rumex cf. R. hydrolapathum,rumex_cf_r_hydrolapathum,Rumex aquaticus-type,FALSE
+Rumex cf. R. longifolius,rumex_cf_r_longifolius,Rumex aquaticus-type,FALSE
+Rumex cf. R. obtusifolius,rumex_cf_r_obtusifolius,Rumex crispus-type,FALSE
+Rumex conglomeratus-type,rumex_conglomeratus_type,Rumex crispus-type,FALSE
+Rumex crispus,rumex_crispus,Rumex crispus-type,FALSE
+Rumex crispus-type,rumex_crispus_type,Rumex crispus-type,FALSE
+Rumex hydrolapathum,rumex_hydrolapathum,Rumex aquaticus-type,FALSE
+Rumex longifolius,rumex_longifolius,Rumex aquaticus-type,FALSE
+Rumex longifolius-type,rumex_longifolius_type,Rumex aquaticus-type,FALSE
+Rumex maritimus-type,rumex_maritimus_type,Rumex crispus-type,FALSE
+Rumex obtusifolius,rumex_obtusifolius,Rumex crispus-type,FALSE
+Rumex obtusifolius-type,rumex_obtusifolius_type,Rumex crispus-type,FALSE
+Rumex sanguineus-type,rumex_sanguineus_type,Rumex crispus-type,FALSE
+Rumex scutatus-type,rumex_scutatus_type,Rumex alpestris,FALSE
+Rumex subg. Acetosa,rumex_subg_acetosa,Rumex acetosa-type,FALSE
+Rumex subg. Rumex,rumex_subg_rumex,Rumex crispus-type,FALSE
+Rumex undiff.,rumex_undiff,Rumex/Oxyria,FALSE
+Rumex/Oxyria,rumex_oxyria,Rumex/Oxyria,FALSE
+Rumex/Oxyria-type,rumex_oxyria_type,Rumex/Oxyria,FALSE
+Rumex/Oxyria digyna,rumex_oxyria_digyna,Rumex/Oxyria,FALSE
+Ruta graveolens,ruta_graveolens,Ruta graveolens,FALSE
+Rutaceae,rutaceae,Rutaceae,FALSE
+Sagina,sagina,Sagina,FALSE
+Sagina-type,sagina_type,Sagina,FALSE
+Sagina nodosa group,sagina_nodosa_group,Sagina,FALSE
+Sagina procumbens-type,sagina_procumbens_type,Sagina,FALSE
+Sagina saginoides,sagina_saginoides,Sagina,FALSE
+Salicornia-type,salicornia_type,Chenopodiaceae/Amaranthaceae,FALSE
+Salicornia europaea,salicornia_europaea,Chenopodiaceae/Amaranthaceae,FALSE
+Salix,salix,Salix,FALSE
+Salix glauca-type,salix_glauca_type,Salix,FALSE
+Salix helvetica-type,salix_helvetica_type,Salix,FALSE
+Salix herbacea,salix_herbacea,Salix,FALSE
+Salix herbacea-type,salix_herbacea_type,Salix,FALSE
+Salix pentandra-type,salix_pentandra_type,Salix,FALSE
+Salix polaris-type,salix_polaris_type,Salix,FALSE
+Salix reticulata,salix_reticulata,Salix,FALSE
+Salix retusa-type,salix_retusa_type,Salix,FALSE
+Salix undiff.,salix_undiff,Salix,FALSE
+Salsola,salsola,Chenopodiaceae/Amaranthaceae,FALSE
+Salsola kali,salsola_kali,Salsola kali,FALSE
+Salvia,salvia,Salvia-type,FALSE
+Salvia-type,salvia_type,Salvia-type,FALSE
+Sambucus,sambucus,Sambucus,FALSE
+Sambucus-type,sambucus_type,Sambucus,FALSE
+Sambucus cf. S. ebulus,sambucus_cf_s_ebulus,Sambucus,FALSE
+Sambucus cf. S. nigra,sambucus_cf_s_nigra,Sambucus nigra/S. racemosa,FALSE
+Sambucus cf. S. racemosa,sambucus_cf_s_racemosa,Sambucus nigra/S. racemosa,FALSE
+Sambucus ebulus,sambucus_ebulus,Sambucus ebulus,FALSE
+Sambucus ebulus-type,sambucus_ebulus_type,Sambucus ebulus,FALSE
+Sambucus nigra,sambucus_nigra,Sambucus nigra,FALSE
+Sambucus nigra-type,sambucus_nigra_type,Sambucus nigra/S. racemosa,FALSE
+Sambucus nigra/S. racemosa,sambucus_nigra_s_racemosa,Sambucus nigra/S. racemosa,FALSE
+Sambucus racemosa,sambucus_racemosa,Sambucus racemosa,FALSE
+Sambucus racemosa-type,sambucus_racemosa_type,Sambucus nigra/S. racemosa,FALSE
+Sambucus undiff.,sambucus_undiff,Sambucus,FALSE
+Sanguisorba,sanguisorba,Sanguisorba officinalis,FALSE
+Sanguisorba-type,sanguisorba_type,Sanguisorba-type,FALSE
+Sanguisorba minor-type,sanguisorba_minor_type,Sanguisorba minor-type,FALSE
+Sanguisorba officinalis,sanguisorba_officinalis,Sanguisorba officinalis,FALSE
+Sanguisorba officinalis-type,sanguisorba_officinalis_type,Sanguisorba officinalis,FALSE
+Sanicula-type,sanicula_type,Astrantia-type,FALSE
+Sanicula europaea,sanicula_europaea,Sanicula europaea,FALSE
+Santalaceae,santalaceae,Santalaceae,FALSE
+Sarcopoterium-type,sarcopoterium_type,Sanguisorba minor-type,FALSE
+Saussurea,saussurea,Saussurea-type,FALSE
+Saussurea-type,saussurea_type,Saussurea-type,FALSE
+Saussurea nuda,saussurea_nuda,Saussurea alpina,FALSE
+Saxifraga,saxifraga,Saxifraga,FALSE
+Saxifraga-type,saxifraga_type,Saxifraga,FALSE
+Saxifraga aizoides,saxifraga_aizoides,Saxifraga oppositifolia-type,FALSE
+Saxifraga aizoides-type,saxifraga_aizoides_type,Saxifraga oppositifolia-type,FALSE
+Saxifraga cernua-type,saxifraga_cernua_type,Saxifraga granulata-type,FALSE
+Saxifraga cernua/S. rivularis,saxifraga_cernua_s_rivularis,Saxifraga granulata-type,FALSE
+Saxifraga cespitosa-type,saxifraga_cespitosa_type,Saxifraga granulata-type,FALSE
+Saxifraga cf. S. aizoides,saxifraga_cf_s_aizoides,Saxifraga,FALSE
+Saxifraga cf. S. cespitosa,saxifraga_cf_s_cespitosa,Saxifraga,FALSE
+Saxifraga cf. S. hirculus,saxifraga_cf_s_hirculus,Saxifraga,FALSE
+Saxifraga cf. S. nivalis,saxifraga_cf_s_nivalis,Saxifraga,FALSE
+Saxifraga cf. S. oppositifolia,saxifraga_cf_s_oppositifolia,Saxifraga,FALSE
+Saxifraga granulata,saxifraga_granulata,Saxifraga granulata-type,FALSE
+Saxifraga granulata-type,saxifraga_granulata_type,Saxifraga granulata-type,FALSE
+Saxifraga hirculus,saxifraga_hirculus,Saxifraga granulata-type,FALSE
+Saxifraga hirculus-type,saxifraga_hirculus_type,Saxifraga granulata-type,FALSE
+Saxifraga hirsuta,saxifraga_hirsuta,Saxifraga hirsuta-type,FALSE
+Saxifraga hirsuta-type,saxifraga_hirsuta_type,Saxifraga hirsuta-type,FALSE
+Saxifraga hypnoides,saxifraga_hypnoides,Saxifraga granulata-type,FALSE
+Saxifraga hypnoides-type,saxifraga_hypnoides_type,Saxifraga granulata-type,FALSE
+Saxifraga oppositifolia,saxifraga_oppositifolia,Saxifraga oppositifolia-type,FALSE
+Saxifraga oppositifolia-type,saxifraga_oppositifolia_type,Saxifraga oppositifolia-type,FALSE
+Saxifraga paniculata-type,saxifraga_paniculata_type,Saxifraga oppositifolia-type,FALSE
+Saxifraga tridactylites,saxifraga_tridactylites,Saxifraga granulata-type,FALSE
+Saxifraga tridactylitis-type,saxifraga_tridactylitis_type,Saxifraga granulata-type,FALSE
+Saxifraga undiff.,saxifraga_undiff,Saxifraga,FALSE
+Saxifragaceae,saxifragaceae,Saxifragaceae,FALSE
+Saxifragaceae undiff.,saxifragaceae_undiff,Saxifragaceae,FALSE
+Scabiosa,scabiosa,Scabiosa,FALSE
+Scabiosa-type,scabiosa_type,Scabiosa,FALSE
+Scabiosa columbaria,scabiosa_columbaria,Scabiosa columbaria-type,FALSE
+Scabiosa columbaria-type,scabiosa_columbaria_type,Scabiosa columbaria-type,FALSE
+Scandix pecten-veneris,scandix_pecten_minus_veneris,Scandix pecten-veneris,FALSE
+Scandix pecten-veneris-type,scandix_pecten_minus_veneris_type,Scandix pecten-veneris/Caucalis platycarpos,FALSE
+Schlagintweitia intybacea,schlagintweitia_intybacea,Crepis-type,FALSE
+Sciadopitys,sciadopitys,Sciadopitys,FALSE
+Scilla,scilla,Ornithogalum-type,FALSE
+Scilla-type,scilla_type,Ornithogalum-type,FALSE
+Scleranthus,scleranthus,Scleranthus,FALSE
+Scleranthus-type,scleranthus_type,Scleranthus,FALSE
+Scleranthus annuus,scleranthus_annuus,Scleranthus annuus,FALSE
+Scleranthus annuus-type,scleranthus_annuus_type,Scleranthus annuus,FALSE
+Scleranthus perennis,scleranthus_perennis,Scleranthus perennis,FALSE
+Scorzonera-type,scorzonera_type,Compositae subfam. Cichorioideae,FALSE
+Scorzonera humilis-type,scorzonera_humilis_type,Scorzonera humilis-type,FALSE
+Scorzoneroides helvetica,scorzoneroides_helvetica,Crepis-type,FALSE
+Scrophularia,scrophularia,Scrophularia-type,FALSE
+Scrophularia-type,scrophularia_type,Scrophularia-type,FALSE
+Scrophularia nodosa-type,scrophularia_nodosa_type,Scrophularia-type,FALSE
+Scrophularia/Verbascum,scrophularia_verbascum,Scrophularia-type,FALSE
+Scrophulariaceae,scrophulariaceae,Scrophulariaceae (colporate-reticulate),FALSE
+Scrophulariaceae pro parte,scrophulariaceae_pro_parte,Scrophulariaceae (colporate-reticulate),FALSE
+Scrophulariaceae undiff.,scrophulariaceae_undiff,Scrophulariaceae (colporate-reticulate),FALSE
+Scutellaria,scutellaria,Scutellaria-type,FALSE
+Scutellaria-type,scutellaria_type,Scutellaria-type,FALSE
+Secale,secale,Secale cereale,TRUE
+Secale-type,secale_type,Secale cereale,TRUE
+Secale (primitive),secale_primitive,Secale cereale,TRUE
+Secale cereale,secale_cereale,Secale cereale,TRUE
+Sedum,sedum,Sedum-type,FALSE
+Sedum-type,sedum_type,Sedum-type,FALSE
+Sedum acre,sedum_acre,Sedum-type,FALSE
+Sedum anglicum,sedum_anglicum,Sedum-type,FALSE
+Sedum/Rhodiola cf. R. rosea,sedum_rhodiola_cf_r_rosea,Sedum-type,FALSE
+Selinum carvifolia,selinum_carvifolia,Peucedanum-type,FALSE
+Selinum carvifolia-type,selinum_carvifolia_type,Peucedanum-type,FALSE
+Sempervivum,sempervivum,Sempervivum,FALSE
+Senecio,senecio,Senecio-type,FALSE
+Senecio-type,senecio_type,Senecio-type,FALSE
+Senecio/Aster,senecio_aster,Senecio-type,FALSE
+Sequoia,sequoia,Sequoia,FALSE
+Serratula,serratula,Saussurea-type,FALSE
+Serratula-type,serratula_type,Saussurea-type,FALSE
+Seseli,seseli,Seseli-type,FALSE
+Seseli-type,seseli_type,Seseli-type,FALSE
+Seseli libanotis-type,seseli_libanotis_type,Seseli-type,FALSE
+Sibbaldia,sibbaldia,Sibbaldia procumbens,FALSE
+Sideritis,sideritis,Sideritis,FALSE
+Silaum silaus,silaum_silaus,Silaum silaus,FALSE
+Silaum silaus-type,silaum_silaus_type,Silaum silaus,FALSE
+Silene,silene,Silene-type,FALSE
+Silene-type,silene_type,Silene-type,FALSE
+Silene-type undiff.,silene_type_undiff,Silene-type,FALSE
+Silene acaulis,silene_acaulis,Silene vulgaris-type,FALSE
+Silene acaulis-type,silene_acaulis_type,Silene vulgaris-type,FALSE
+Silene cf. S. acaulis,silene_cf_s_acaulis,Silene-type,FALSE
+Silene ciliata-type,silene_ciliata_type,Silene-type,FALSE
+Silene dioica,silene_dioica,Silene dioica-type,FALSE
+Silene dioica-type,silene_dioica_type,Silene dioica-type,FALSE
+Silene flos-cuculi,silene_flos_minus_cuculi,Lychnis flos-cuculi,FALSE
+Silene foetida-type,silene_foetida_type,Silene vulgaris-type,FALSE
+Silene nutans,silene_nutans,Silene vulgaris-type,FALSE
+Silene rupestris,silene_rupestris,Silene-type,FALSE
+Silene undiff.,silene_undiff,Silene-type,FALSE
+Silene uniflora subsp. uniflora-type,silene_uniflora_subsp_uniflora_type,Silene vulgaris-type,FALSE
+Silene viscaria,silene_viscaria,Lychnis viscaria-type,FALSE
+Silene viscaria-type,silene_viscaria_type,Lychnis viscaria-type,FALSE
+Silene vulgaris,silene_vulgaris,Silene vulgaris-type,FALSE
+Silene vulgaris-type,silene_vulgaris_type,Silene vulgaris-type,FALSE
+Sileneae,sileneae,Silene-type,FALSE
+Silenoideae-type,silenoideae_type,Silene-type,FALSE
+Simethis planifolia,simethis_planifolia,Simethis,FALSE
+Sinapis,sinapis,Sinapis-type,FALSE
+Sinapis-type,sinapis_type,Sinapis-type,FALSE
+Sison amomum,sison_amomum,Sison amomum,FALSE
+Sium,sium,Sium-type,FALSE
+Sium-type,sium_type,Sium-type,FALSE
+Sium latifolium-type,sium_latifolium_type,Sium-type,FALSE
+Smilax,smilax,Smilax,FALSE
+Smyrnium,smyrnium,Smyrnium-type,FALSE
+Smyrnium-type,smyrnium_type,Smyrnium-type,FALSE
+Solanaceae,solanaceae,Solanaceae,FALSE
+Solanum,solanum,Solanum,FALSE
+Solanum dulcamara,solanum_dulcamara,Solanum dulcamara,FALSE
+Solanum nigrum,solanum_nigrum,Solanum nigrum-type,FALSE
+Solanum nigrum-type,solanum_nigrum_type,Solanum nigrum-type,FALSE
+Soldanella,soldanella,Soldanella,FALSE
+Soldanella pusilla,soldanella_pusilla,Soldanella,FALSE
+Solidago,solidago,Aster-type,FALSE
+Solidago-type,solidago_type,Senecio-type,FALSE
+Solidago-type/Saussurea-type,solidago_type_saussurea_type,Solidago-type/Saussurea-type,FALSE
+Solidago virgaurea,solidago_virgaurea,Aster-type,FALSE
+Solidago virgaurea-type,solidago_virgaurea_type,Aster-type,FALSE
+Solidago/Saussurea,solidago_saussurea,Saussurea-type,FALSE
+Sonchus,sonchus,Sonchus-type,FALSE
+Sorbus,sorbus,Sorbus-type,FALSE
+Sorbus-type,sorbus_type,Sorbus-type,FALSE
+Sorbus aria-type,sorbus_aria_type,Sorbus-type,FALSE
+Sorbus aucuparia,sorbus_aucuparia,Sorbus-type,FALSE
+Sorbus aucuparia-type,sorbus_aucuparia_type,Sorbus-type,FALSE
+Sorbus group,sorbus_group,Rosaceae (non-operculate),FALSE
+Spartium,spartium,Spartium junceum,FALSE
+Spergula,spergula,Spergularia-type,FALSE
+Spergula-type,spergula_type,Spergularia-type,FALSE
+Spergula arvensis,spergula_arvensis,Spergula arvensis-type,FALSE
+Spergula arvensis-type,spergula_arvensis_type,Spergularia-type,FALSE
+Spergula/Spergularia,spergula_spergularia,Spergularia-type,FALSE
+Spergularia,spergularia,Spergularia-type,FALSE
+Spergularia-type,spergularia_type,Spergularia-type,FALSE
+Spermatophyta undiff. (cf. upland herbs),spermatophyta_undiff_cf_upland_herbs,Spermatophyta undiff. (upland herbs),FALSE
+Spermatophyta undiff. (deciduous trees),spermatophyta_undiff_deciduous_trees,Spermatophyta undiff. (trees/shrubs),FALSE
+Spermatophyta undiff. (halophytes),spermatophyta_undiff_halophytes,Spermatophyta undiff. (halophytes),FALSE
+Spermatophyta undiff. (shrubs),spermatophyta_undiff_shrubs,Spermatophyta undiff. (trees/shrubs),FALSE
+Spermatophyta undiff. (trees),spermatophyta_undiff_trees,Spermatophyta undiff. (trees/shrubs),FALSE
+Spermatophyta undiff. (trees/shrubs),spermatophyta_undiff_trees_shrubs,Spermatophyta undiff. (trees/shrubs),FALSE
+Spermatophyta undiff. (upland herbs),spermatophyta_undiff_upland_herbs,Spermatophyta undiff. (upland herbs),FALSE
+Spiraea,spiraea,Aruncus/Spiraea,FALSE
+Spiraea-type,spiraea_type,Aruncus/Spiraea,FALSE
+Stachys,stachys,Galeopsis-type,FALSE
+Stachys-type,stachys_type,Galeopsis-type,FALSE
+Stachys sylvatica,stachys_sylvatica,Galeopsis-type,FALSE
+Stachys sylvatica-type,stachys_sylvatica_type,Galeopsis-type,FALSE
+Staphylea,staphylea,Staphylea pinnata,FALSE
+Staphylea pinnata,staphylea_pinnata,Staphylea pinnata,FALSE
+Stellaria,stellaria,Cerastium-type,FALSE
+Stellaria-type,stellaria_type,Cerastium-type,FALSE
+Stellaria cf. S. media,stellaria_cf_s_media,Cerastium-type,FALSE
+Stellaria cf. S. palustris,stellaria_cf_s_palustris,Cerastium-type,FALSE
+Stellaria graminea,stellaria_graminea,Cerastium-type,FALSE
+Stellaria holostea,stellaria_holostea,Stellaria holostea,FALSE
+Stellaria holostea-type,stellaria_holostea_type,Stellaria holostea,FALSE
+Stellaria nemorum,stellaria_nemorum,Cerastium-type,FALSE
+Stellaria undiff.,stellaria_undiff,Cerastium-type,FALSE
+Streptopus amplexifolius,streptopus_amplexifolius,Convallaria-type,FALSE
+Suaeda,suaeda,Chenopodiaceae/Amaranthaceae,FALSE
+Suaeda-type,suaeda_type,Chenopodiaceae/Amaranthaceae,FALSE
+Suaeda maritima,suaeda_maritima,Chenopodiaceae/Amaranthaceae,FALSE
+Succisa,succisa,Succisa-type,FALSE
+Succisa-type,succisa_type,Succisa-type,FALSE
+Succisa pratensis,succisa_pratensis,Succisa-type,FALSE
+Succisa pratensis-type,succisa_pratensis_type,Succisa-type,FALSE
+Swertia,swertia,Swertia perennis,FALSE
+Swertia perennis,swertia_perennis,Swertia perennis,FALSE
+Symphytum,symphytum,Symphytum,FALSE
+Symphytum-type,symphytum_type,Symphytum,FALSE
+Symplocos,symplocos,Symplocos,FALSE
+Syringa,syringa,Syringa,FALSE
+Syringa-type,syringa_type,Ligustrum-type,FALSE
+Syringa vulgaris,syringa_vulgaris,Syringa,FALSE
+Tamarix,tamarix,Tamarix,FALSE
+Tanacetum-type,tanacetum_type,Matricaria-type,FALSE
+Taraxacum,taraxacum,Crepis-type,FALSE
+Taraxacum-type,taraxacum_type,Crepis-type,FALSE
+Taraxacum officinale,taraxacum_officinale,Crepis-type,FALSE
+Taraxacum officinale group,taraxacum_officinale_group,Crepis-type,FALSE
+Taxus,taxus,Taxus baccata,FALSE
+Taxus baccata,taxus_baccata,Taxus baccata,FALSE
+Teucrium,teucrium,Teucrium,FALSE
+Teucrium-type,teucrium_type,Teucrium,FALSE
+Teucrium chamaedrys,teucrium_chamaedrys,Teucrium chamaedrys-type,FALSE
+Teucrium chamaedrys-type,teucrium_chamaedrys_type,Teucrium chamaedrys-type,FALSE
+Thalictrum,thalictrum,Thalictrum,FALSE
+Thalictrum-type,thalictrum_type,Thalictrum,FALSE
+Thalictrum aquilegiifolium,thalictrum_aquilegiifolium,Thalictrum aquilegiifolium,FALSE
+Thalictrum lucidum,thalictrum_lucidum,Thalictrum flavum-type,FALSE
+Thalictrum minus,thalictrum_minus,Thalictrum alpinum-type,FALSE
+Thalictrum undiff.,thalictrum_undiff,Thalictrum,FALSE
+Theligonum,theligonum,Theligonum cynocrambe,FALSE
+Theligonum cynocrambe,theligonum_cynocrambe,Theligonum cynocrambe,FALSE
+Thesium,thesium,Thesium,FALSE
+Thymelaea,thymelaea,Thymelaea,FALSE
+Thymelaeaceae,thymelaeaceae,Thymelaeaceae,FALSE
+Thymus,thymus,Mentha-type,FALSE
+Thymus-type,thymus_type,Mentha-type,FALSE
+Thymus/Mentha,thymus_mentha,Mentha-type,FALSE
+Thymus/Mentha-type,thymus_mentha_type,Mentha-type,FALSE
+Tilia,tilia,Tilia,FALSE
+Tilia cordata,tilia_cordata,Tilia cordata-type,FALSE
+Tilia cordata-type,tilia_cordata_type,Tilia cordata-type,FALSE
+Tilia platyphyllos,tilia_platyphyllos,Tilia platyphyllos-type,FALSE
+Tilia platyphyllos-type,tilia_platyphyllos_type,Tilia platyphyllos-type,FALSE
+Tilia undiff.,tilia_undiff,Tilia,FALSE
+Tofieldia,tofieldia,Tofieldia,FALSE
+Tofieldia-type,tofieldia_type,Tofieldia,FALSE
+Tofieldia pusilla,tofieldia_pusilla,Tofieldia,FALSE
+Torilis,torilis,Apiaceae,FALSE
+Torilis arvensis,torilis_arvensis,Torilis arvensis,FALSE
+Torilis arvensis-type,torilis_arvensis_type,Falcaria-type,FALSE
+Torilis japonica,torilis_japonica,Torilis japonica,FALSE
+Torilis japonica-type,torilis_japonica_type,Torilis japonica,FALSE
+Torilis nodosa,torilis_nodosa,Torilis nodosa,FALSE
+Tozzia alpina,tozzia_alpina,Odontites-type,FALSE
+Trachomitum,trachomitum,Trachomitum,FALSE
+Trachycarpus fortunei,trachycarpus_fortunei,Trachycarpus fortunei,FALSE
+Tribulus terrestris,tribulus_terrestris,Tribulus terrestris,FALSE
+Trichophorum cespitosum,trichophorum_cespitosum,Scirpus-type,FALSE
+Trientalis,trientalis,Trientalis europaea,FALSE
+Trientalis-type,trientalis_type,Trientalis europaea,FALSE
+Trientalis europaea,trientalis_europaea,Trientalis europaea,FALSE
+Trifolium,trifolium,Trifolium-type,FALSE
+Trifolium-type,trifolium_type,Trifolium-type,FALSE
+Trifolium alpinum,trifolium_alpinum,Trifolium alpinum-type,FALSE
+Trifolium alpinum-type,trifolium_alpinum_type,Trifolium alpinum-type,FALSE
+Trifolium badium,trifolium_badium,Trifolium badium-type,FALSE
+Trifolium badium-type,trifolium_badium_type,Trifolium badium-type,FALSE
+Trifolium pallescens,trifolium_pallescens,Trifolium repens-type,FALSE
+Trifolium pratense,trifolium_pratense,Trifolium pratense-type,FALSE
+Trifolium pratense-type,trifolium_pratense_type,Trifolium pratense-type,FALSE
+Trifolium repens,trifolium_repens,Trifolium repens-type,FALSE
+Trifolium repens-type,trifolium_repens_type,Trifolium repens-type,FALSE
+Trifolium spadiceum,trifolium_spadiceum,Trifolium badium-type,FALSE
+Trifolium striatum-type,trifolium_striatum_type,Trifolium repens-type,FALSE
+Trifolium undiff.,trifolium_undiff,Trifolium-type,FALSE
+Trinia,trinia,Trinia glauca,FALSE
+Trinia glauca,trinia_glauca,Trinia glauca,FALSE
+Trinia glauca-type,trinia_glauca_type,Trinia glauca,FALSE
+Tripolium pannonicum subsp. tripolium-type,tripolium_pannonicum_subsp_tripolium_type,Tripolium-type,FALSE
+Triticum,triticum,Triticum-type,FALSE
+Triticum-type,triticum_type,Triticum-type,FALSE
+Triticum spelta-type,triticum_spelta_type,Triticum-type,FALSE
+Triticum undiff.,triticum_undiff,Triticum-type,FALSE
+Trollius,trollius,Trollius europaeus,FALSE
+Trollius-type,trollius_type,Trollius europaeus,FALSE
+Trollius europaeus,trollius_europaeus,Trollius europaeus,FALSE
+Trollius europaeus-type,trollius_europaeus_type,Trollius europaeus,FALSE
+Tsuga,tsuga,Tsuga,FALSE
+Tsuga-type,tsuga_type,Tsuga,FALSE
+Tsuga diversifolia-type,tsuga_diversifolia_type,Tsuga diversifolia-type,FALSE
+Tsuga heterophylla,tsuga_heterophylla,Tsuga heterophylla,FALSE
+Tuberaria,tuberaria,Tuberaria,FALSE
+Turgenia-type,turgenia_type,Apiaceae,FALSE
+Turgenia latifolia,turgenia_latifolia,Turgenia latifolia,FALSE
+Turgenia latifolia-type,turgenia_latifolia_type,Turgenia latifolia,FALSE
+Tussilago-type,tussilago_type,Tussilago-type,FALSE
+Tussilago farfara,tussilago_farfara,Tussilago-type,FALSE
+Ulex,ulex,Genista-type,FALSE
+Ulex-type,ulex_type,Genista-type,FALSE
+Ulex/Cytisus sect. Spartopsis,ulex_cytisus_sect_spartopsis,Genista-type,FALSE
+Ulmus,ulmus,Ulmus/Zelkova,FALSE
+Ulmus glabra,ulmus_glabra,Ulmus/Zelkova,FALSE
+Ulmus laevis,ulmus_laevis,Ulmus/Zelkova,FALSE
+Ulmus minor,ulmus_minor,Ulmus/Zelkova,FALSE
+Ulmus.Zelkova,ulmus_zelkova,Ulmus/Zelkova,FALSE
+Umbilicus rupestris,umbilicus_rupestris,Umbilicus-type,FALSE
+Urtica,urtica,Urtica,FALSE
+Urtica-type,urtica_type,Urtica,FALSE
+Urtica cf. U. dioica,urtica_cf_u_dioica,Urtica,FALSE
+Urtica dioica,urtica_dioica,Urtica dioica,FALSE
+Urtica dioica-type,urtica_dioica_type,Urtica dioica-type,FALSE
+Urtica membranacea-type,urtica_membranacea_type,Urtica dubia-type,FALSE
+Urtica pilulifera,urtica_pilulifera,Urtica pilulifera,FALSE
+Urtica undiff.,urtica_undiff,Urtica,FALSE
+Urtica urens,urtica_urens,Urtica urens,FALSE
+Urtica/Parietaria,urtica_parietaria,Urticaceae,FALSE
+Urticaceae,urticaceae,Urticaceae,FALSE
+Urticalean Rosids,urticalean_rosids,Urticaceae/Moraceae,FALSE
+Vaccinioideae,vaccinioideae,Vaccinium,FALSE
+Vaccinium,vaccinium,Vaccinium,FALSE
+Vaccinium-type,vaccinium_type,Vaccinium-type,FALSE
+Vaccinium myrtillus,vaccinium_myrtillus,Vaccinium,FALSE
+Vaccinium oxycoccos,vaccinium_oxycoccos,Vaccinium,FALSE
+Vaccinium sect. Oxycoccus,vaccinium_sect_oxycoccus,Vaccinium,FALSE
+Valeriana,valeriana,Valeriana,FALSE
+Valeriana-type,valeriana_type,Valerianaceae,FALSE
+Valeriana cf. V. dioica,valeriana_cf_v_dioica,Valeriana,FALSE
+Valeriana dioica,valeriana_dioica,Valeriana dioica,FALSE
+Valeriana dioica-type,valeriana_dioica_type,Valeriana dioica,FALSE
+Valeriana dioica subsp. simplicifolia,valeriana_dioica_subsp_simplicifolia,Valeriana dioica,FALSE
+Valeriana excelsa subsp. sambucifolia-type,valeriana_excelsa_subsp_sambucifolia_type,Valeriana officinalis-type,FALSE
+Valeriana officinalis,valeriana_officinalis,Valeriana officinalis-type,FALSE
+Valeriana officinalis-type,valeriana_officinalis_type,Valeriana officinalis-type,FALSE
+Valeriana tripteris-type,valeriana_tripteris_type,Valeriana montana-type,FALSE
+Valerianella,valerianella,Valerianella,FALSE
+Valerianella-type,valerianella_type,Valerianella,FALSE
+Valerianella dentata,valerianella_dentata,Valerianella,FALSE
+Valerianella locusta,valerianella_locusta,Valerianella,FALSE
+Valerianoideae,valerianoideae,Valerianaceae,FALSE
+Veratrum,veratrum,Veratrum,FALSE
+Veratrum-type,veratrum_type,Veratrum,FALSE
+Veratrum album,veratrum_album,Veratrum,FALSE
+Verbascum,verbascum,Verbascum,FALSE
+Verbascum-type,verbascum_type,Verbascum,FALSE
+Verbena,verbena,Verbena officinalis,FALSE
+Verbena officinalis,verbena_officinalis,Verbena officinalis,FALSE
+Verbenaceae,verbenaceae,Verbenaceae,FALSE
+Veronica,veronica,Veronica-type,FALSE
+Veronica-type,veronica_type,Veronica-type,FALSE
+Viburnum,viburnum,Viburnum,FALSE
+Viburnum-type,viburnum_type,Viburnum,FALSE
+Viburnum cf. V. opulus,viburnum_cf_v_opulus,Viburnum,FALSE
+Viburnum lantana,viburnum_lantana,Viburnum lantana,FALSE
+Viburnum lantana-type,viburnum_lantana_type,Viburnum lantana,FALSE
+Viburnum opulus,viburnum_opulus,Viburnum opulus,FALSE
+Viburnum opulus-type,viburnum_opulus_type,Viburnum opulus/V. tinus,FALSE
+Viburnum tinus,viburnum_tinus,Viburnum tinus,FALSE
+Viburnum undiff.,viburnum_undiff,Viburnum,FALSE
+Vicia,vicia,Vicia-type,FALSE
+Vicia-type,vicia_type,Vicia-type,FALSE
+Vicia-type sensu stricto,vicia_type_sensu_stricto,Vicia-type,FALSE
+Vicia cf. V. cracca,vicia_cf_v_cracca,Vicia-type,FALSE
+Vicia cracca,vicia_cracca,Vicia-type,FALSE
+Vicia cracca-type,vicia_cracca_type,Vicia-type,FALSE
+Vicia faba,vicia_faba,Vicia faba,FALSE
+Vicia faba-type,vicia_faba_type,Vicia faba,FALSE
+Vicia sylvatica,vicia_sylvatica,Vicia-type,FALSE
+Vicia sylvatica-type,vicia_sylvatica_type,Vicia-type,FALSE
+Vicia/Lathyrus,vicia_lathyrus,Lathyrus/Vicia-type,FALSE
+Vicia/Lathyrus-type,vicia_lathyrus_type,Lathyrus/Vicia-type,FALSE
+Vincetoxicum,vincetoxicum,Vincetoxicum,FALSE
+Viola,viola,Viola,FALSE
+Viola arvensis,viola_arvensis,Viola tricolor-type,FALSE
+Viola arvensis-type,viola_arvensis_type,Viola tricolor-type,FALSE
+Viola canina-type,viola_canina_type,Viola odorata-type,FALSE
+Viola riviniana,viola_riviniana,Viola odorata-type,FALSE
+Viola tricolor,viola_tricolor,Viola tricolor-type,FALSE
+Viola tricolor-type,viola_tricolor_type,Viola tricolor-type,FALSE
+Violaceae,violaceae,Viola,FALSE
+Viscum,viscum,Viscum,FALSE
+Viscum album,viscum_album,Viscum,FALSE
+Viscum album sensu lato,viscum_album_sensu_lato,Viscum,FALSE
+Vitis,vitis,Vitis,FALSE
+Vitis vinifera,vitis_vinifera,Vitis,FALSE
+Xanthium,xanthium,Xanthium,FALSE
+Xanthium-type,xanthium_type,Ambrosia/Xanthium,FALSE
+Xanthium spinosum-type,xanthium_spinosum_type,Xanthium,FALSE
+Xeranthemum,xeranthemum,Xeranthemum,FALSE
+Zea,zea,Zea mays,FALSE
+Zea mays,zea_mays,Zea mays,FALSE
+Zelkova,zelkova,Ulmus/Zelkova,FALSE
+Ziziphus,ziziphus,Zizyphus,FALSE
+Zygophyllum,zygophyllum,Zygophyllum,FALSE
