@@ -1,6 +1,6 @@
 #----------------------------------------------------------#
 #
-#   Phylogenetic assembly of angiosperms through space and time of Europe and
+#   Phylogenetic assembly of angiosperms through space and time in Europe and
 #                     North America in the Holocene
 #
 # Kuber P. Bhatta, Vivian A. Felde, Hilary H. Birks, and H. John B. Birks

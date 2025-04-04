@@ -1,6 +1,6 @@
 #----------------------------------------------------------#
 #
-#     Phylogenetic assembly of angiosperms through space and time of Europe
+#     Phylogenetic assembly of angiosperms through space and time in Europe
 #                   and North America in the Holocene
 #
 #                         Project setup
