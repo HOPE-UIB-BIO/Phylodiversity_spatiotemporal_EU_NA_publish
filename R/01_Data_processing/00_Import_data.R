@@ -22,6 +22,7 @@ source("R/00_Config_file.R")
 # 2. Load input data ----
 #--------------------------------------------------------#
 # Note: This path will differ as per users!
+# This data is also available at "https://zenodo.org/records/11369243"
 
 data_input <-
   readr::read_rds(
@@ -43,7 +44,7 @@ data_input <-
     pollen_percentage,
     ecozone_koppen_5,
     ecozone_koppen_15
-  ) %>% 
+    ) %>% 
   dplyr::filter(!age_min > 1000) %>% 
   dplyr::filter(!age_max < 8000) 
 
