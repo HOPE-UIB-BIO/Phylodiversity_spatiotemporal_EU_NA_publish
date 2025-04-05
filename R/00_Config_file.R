@@ -133,5 +133,25 @@ color_low_lat <- "#FF0000"
 color_high_age <- "#009E73"
 color_low_age <- "#E69F00"
 
+# Assign unique colour to each climate zone
+my_palette <-
+  c("#FFCC99",
+    "#0066CC",
+    "#00CCCC",
+    "#333333",
+    "#993300",
+    "#99CC00"
+  ) %>% 
+  rlang::set_names(
+    nm = c(
+      "Arid_Steppe",
+      "Cold_Without_dry_season",
+      "Temperate_Without_dry_season",
+      "Polar_Tundra",
+      "Temperate_Dry_Summer",
+      "Cold_Dry_Summer"
+    )
+  )
+
 #----------------------------------------------------------#
 
