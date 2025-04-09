@@ -1,0 +1,21 @@
+df,logLik,AIC,BIC,deviance,df.residual,nobs,adj.r.squared,npar,deviance_explained,model,region,response_variable
+1.00,-20004.62,40013.24,40028.07,18797.22,12249.00,12250,0.00,1.00,0.00,Null model,Europe,ses_mpd
+147.98,-15509.46,31318.39,32428.44,9023.26,12102.02,12250,0.51,161.00,0.52,latitude as predictor,Europe,ses_mpd
+161.30,-12963.06,26252.74,27463.44,5954.02,12088.70,12250,0.68,175.00,0.68,latitude+time as predictor,Europe,ses_mpd
+438.03,-10746.79,22380.56,25668.29,4146.34,11811.97,12250,0.77,1050.00,0.78,latitude+time+latitude:time as predictor,Europe,ses_mpd
+223.90,-12270.86,25003.79,26716.53,5317.77,12026.10,12250,0.71,269.00,0.72,latitude+factor(priod)+latitude by  priod as predictor,Europe,ses_mpd
+1.00,-17945.36,35894.71,35909.54,13430.16,12249.00,12250,0.00,1.00,0.00,Null model,Europe,ses_mntd
+148.00,-13758.30,27815.74,28924.55,6779.49,12102.00,12250,0.49,161.00,0.50,latitude as predictor,Europe,ses_mntd
+160.22,-12128.00,24580.13,25781.57,5195.17,12089.78,12250,0.61,175.00,0.61,latitude+time as predictor,Europe,ses_mntd
+396.36,-10526.05,21853.08,24822.02,3999.57,11853.64,12250,0.69,1050.00,0.70,latitude+time+latitude:time as predictor,Europe,ses_mntd
+225.33,-11626.89,23725.92,25475.99,4787.06,12024.67,12250,0.64,269.00,0.64,latitude+factor(priod)+latitude by  priod as predictor,Europe,ses_mntd
+1.00,-25862.27,51728.55,51743.76,28085.74,14897.00,14898,0.00,1.00,0.00,Null model,North_America,ses_mpd
+311.16,-13480.60,27586.97,29967.72,5328.50,14586.84,14898,0.81,324.00,0.81,latitude as predictor,North_America,ses_mpd
+322.19,-13219.45,27087.62,29555.66,5144.92,14575.81,14898,0.81,338.00,0.82,latitude+time as predictor,North_America,ses_mpd
+394.07,-12622.61,26051.60,29119.50,4748.78,14503.93,14898,0.83,1214.00,0.83,latitude+time+latitude:time as predictor,North_America,ses_mpd
+380.30,-12830.05,26445.84,29435.20,4882.88,14517.70,14898,0.82,432.00,0.83,latitude+factor(priod)+latitude by  priod as predictor,North_America,ses_mpd
+1.00,-24214.81,48433.62,48448.84,22513.08,14897.00,14898,0.00,1.00,0.00,Null model,North_America,ses_mntd
+310.64,-13321.04,27266.67,29642.94,5215.57,14587.36,14898,0.76,324.00,0.77,latitude as predictor,North_America,ses_mntd
+320.97,-13147.21,26940.75,29399.68,5095.27,14577.03,14898,0.77,338.00,0.77,latitude+time as predictor,North_America,ses_mntd
+395.59,-12493.38,25793.25,28861.52,4667.10,14502.41,14898,0.79,1214.00,0.79,latitude+time+latitude:time as predictor,North_America,ses_mntd
+374.27,-12689.04,26158.59,29128.05,4791.31,14523.73,14898,0.78,432.00,0.79,latitude+factor(priod)+latitude by  priod as predictor,North_America,ses_mntd
