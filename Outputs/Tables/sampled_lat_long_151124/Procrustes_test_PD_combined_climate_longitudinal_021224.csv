@@ -1,0 +1,5 @@
+Region,Spatial gradient,Matrix_1 (PCA),Matrix_2 (PCA),Procrustes Sum of Squares (m12 squared),Correlation in a symmetric Procrustes rotation,Procrustes root mean squared error,Significance,Number of permutations
+Europe,Longitude,ses_MPD,temp_cold + prec_summer + prec_winter,0.7876,0.4608,0.2561,0.188,999
+Europe,Longitude,ses_MNTD,temp_cold + prec_summer + prec_winter,0.9338,0.2573,0.2789,0.808,999
+North America,Longitude,ses_MPD,temp_cold + prec_summer + prec_winter,0.5298,0.6857,0.2101,0.003,999
+North America,Longitude,ses_MNTD,temp_cold + prec_summer + prec_winter,0.3523,0.8,0.1713,0.001,999
