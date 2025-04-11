@@ -365,7 +365,7 @@ gam_temporal_smooth_difference_climate <-
            "gam_temporal_smooth_difference_climate_291124.rds")
   )
 
-# Make species by samples dataframe of PD and climate variables
+# Make species-by-samples dataframe of PD and climate variables
 
 # A. Temporal variation in latitudinal patterns of PD and climate ----
 pd_diff_latitudinal <- 
@@ -715,8 +715,6 @@ climate_diff_longitudinal <-
 
 # Perform Procrustes test between PCA of latitudinal PD and each of climate variables
 
-# A. Latitudinal PD vs individual climate, anthropogenic influence ----
-
 pca_pd_latitudinal <- 
   pd_diff_latitudinal %>% 
   dplyr::mutate(
@@ -728,137 +726,8 @@ pca_pd_latitudinal <-
                  ~ vegan::rda(.x))
     )
 
-pca_climate_latitudinal <- 
-  climate_diff_latitudinal %>% 
-  dplyr::mutate(
-    pca_climate_diff_latitudinal = 
-      purrr::map(diff_matrix_climate_latitudinal,
-                 ~ vegan::rda(.x)),
-    pca_standardized_climate_diff_latitudinal = 
-      purrr::map(standardized_diff_matrix_climate_latitudinal,
-                 ~ vegan::rda(.x))
-    )
 
-combined_pd_predictors_latitudinal <- 
-  pca_pd_latitudinal %>% 
-  dplyr::select(
-    region, 
-    pd_metric = vars,
-    pca_pd_diff_latitudinal,
-    pca_standardized_pd_diff_latitudinal) %>% 
-  dplyr::right_join(pca_climate_latitudinal %>% 
-                      dplyr::select(
-                        region,
-                        pred_variable = vars,
-                        pca_climate_diff_latitudinal,
-                        pca_standardized_climate_diff_latitudinal),
-                    by = "region") # Ignore warning, all's OK
-
-# Test of significance of concordance between PD and individual predictor variable
-
-procrustes_test_pd_vs_individual_pred_latitudinal <- 
-  combined_pd_predictors_latitudinal %>% 
-  dplyr::mutate(
-    procrustes_individual = 
-      purrr::map2(
-        .x = pca_pd_diff_latitudinal,
-        .y = pca_climate_diff_latitudinal,
-        .f = ~ {
-          set.seed(2330)
-          res <- 
-            vegan::protest(
-            X = .x,
-            Y = .y,
-            scores = "sites",
-            permutations = 999,
-            choises = c(1, 2))
-          return(res)
-          }
-        ),
-    procrustes_individual_standardized_data = 
-      purrr::map2(
-        .x = pca_standardized_pd_diff_latitudinal,
-        .y = pca_standardized_climate_diff_latitudinal,
-        .f = ~ {
-          set.seed(2330)
-          res <- 
-            vegan::protest(
-              X = .x,
-              Y = .y,
-              scores = "sites",
-              permutations = 999,
-              choises = c(1, 2))
-          return(res)
-          }
-        )
-  )
-
-readr::write_rds(
-  procrustes_test_pd_vs_individual_pred_latitudinal,
-  file = paste0("Outputs/Data/sampled_lat_long_151124/",
-                "procrustes_test_pd_vs_individual_pred_latitudinal.rds"),
-  compress = "gz"
-  )
-
-# Extract summary of Procrustes test
-
-procrustes_test_pd_vs_individual_predictor_latitudinal <- 
-  readr::read_rds(
-    paste0("Outputs/Data/sampled_lat_long_151124/",
-           "procrustes_test_pd_vs_individual_pred_latitudinal.rds")) 
-
-procrustes_summary_pd_vs_individual_predictor_latitudinal <- 
-  procrustes_test_pd_vs_individual_predictor_latitudinal %>% 
-  dplyr::mutate(
-    procrustes_summary = 
-      purrr::pmap(
-        .l = list(region, # ..1
-                  pd_metric, # ..2
-                  pred_variable, # ..3
-                  procrustes_individual, # ..4
-                  procrustes_individual_standardized_data # ..5
-                  ),
-        .f = ~ {
-          summary_proc <- 
-            tibble::tibble(
-              "data_type" = "unstandardized",
-              "region" = ..1,
-              "spatial_gradient" = "latitude",
-              "pd_metric" = ..2,
-              "predictor_variable" = ..3,
-              "Procrustes sum of squares" = summary(..4)$ss,
-              "Procrustes root mean squared error" = summary(..4)$rmse,
-              "Correlation in a symmetric Procrustes rotation" = ..4$t0,
-              "Significance" = ..4$signif,
-              Permutations = ..4$permutation) %>% 
-            dplyr::bind_rows(
-              tibble::tibble(
-                "data_type" = "standardized",
-                "region" = ..1,
-                "spatial_gradient" = "latitude",
-                "pd_metric" = ..2,
-                "predictor_variable" = ..3,
-                "Procrustes sum of squares" = summary(..5)$ss,
-                "Procrustes root mean squared error" = summary(..5)$rmse,
-                "Correlation in a symmetric Procrustes rotation" = ..5$t0,
-                "Significance" = ..5$signif,
-                Permutations = ..5$permutation)
-              )
-          return(summary_proc)
-          }
-        )
-    ) %>% 
-  dplyr::select(procrustes_summary) %>% 
-  tidyr::unnest(procrustes_summary) 
-
-readr::write_csv(
-  procrustes_summary_pd_vs_individual_predictor_latitudinal,
-  file = paste0(
-    "Outputs/Table/sampled_lat_long_151124/",
-    "procrustes_summary_pd_vs_individual_predictor_latitudinal_021224.csv"))
-
-
-# B. Latitudinal PD vs. all climatic variables combined ----
+# Latitudinal PD vs. all climatic variables combined ----
 
 # Combine all climatic variables in one matrix and standardize them
 
@@ -1008,10 +877,6 @@ readr::write_csv(
 #  climate and that in longitudinal pattern of sesMPD/sesMNTD
 #--------------------------------------------------------#
 
-# Perform Procrustes test between PCA of longitudinal PD and each of climate variables
-
-# A. Longitudinal PD vs individual climate, anthropogenic influence ----
-
 pca_pd_longitudinal <- 
   pd_diff_longitudinal %>% 
   dplyr::mutate(
@@ -1023,138 +888,6 @@ pca_pd_longitudinal <-
                  ~ vegan::rda(.x))
     )
 
-pca_climate_longitudinal <- 
-  climate_diff_longitudinal %>% 
-  dplyr::mutate(
-    pca_climate_diff_longitudinal = 
-      purrr::map(diff_matrix_climate_longitudinal,
-                 ~ vegan::rda(.x)),
-    pca_standardized_climate_diff_longitudinal = 
-      purrr::map(standardized_diff_matrix_climate_longitudinal,
-                 ~ vegan::rda(.x))
-    )
-
-combined_pd_predictors_longitudinal <- 
-  pca_pd_longitudinal %>% 
-  dplyr::select(
-    region, 
-    pd_metric = vars,
-    pca_pd_diff_longitudinal,
-    pca_standardized_pd_diff_longitudinal) %>% 
-  dplyr::right_join(pca_climate_longitudinal %>% 
-                      dplyr::select(
-                        region,
-                        pred_variable = vars,
-                        pca_climate_diff_longitudinal,
-                        pca_standardized_climate_diff_longitudinal),
-                    by = "region") # Ignore warning, all's OK
-
-
-# Test of significance of concordance between PD and individual predictor variable
-
-procrustes_test_pd_vs_individual_pred_longitudinal <- 
-  combined_pd_predictors_longitudinal %>% 
-  dplyr::mutate(
-    procrustes_individual = 
-      purrr::map2(
-        .x = pca_pd_diff_longitudinal,
-        .y = pca_climate_diff_longitudinal,
-        .f = ~ {
-          set.seed(2330)
-          res <- 
-            vegan::protest(
-              X = .x,
-              Y = .y,
-              scores = "sites",
-              permutations = 999,
-              choises = c(1, 2))
-          return(res)
-        }
-      ),
-    procrustes_individual_standardized_data = 
-      purrr::map2(
-        .x = pca_standardized_pd_diff_longitudinal,
-        .y = pca_standardized_climate_diff_longitudinal,
-        .f = ~ {
-          set.seed(2330)
-          res <- 
-            vegan::protest(
-              X = .x,
-              Y = .y,
-              scores = "sites",
-              permutations = 999,
-              choises = c(1, 2))
-          return(res)
-        }
-      )
-    )
-
-readr::write_rds(
-  procrustes_test_pd_vs_individual_pred_longitudinal,
-  file = paste0("Outputs/Data/sampled_lat_long_151124/",
-                "procrustes_test_pd_vs_individual_pred_longitudinal.rds"),
-  compress = "gz"
-  )
-
-# Extract summary of Procrustes test
-
-procrustes_test_pd_vs_individual_predictor_longitudinal <- 
-  readr::read_rds(
-    paste0("Outputs/Data/sampled_lat_long_151124/",
-           "procrustes_test_pd_vs_individual_pred_longitudinal.rds")) 
-
-procrustes_summary_pd_vs_individual_predictor_longitudinal <- 
-  procrustes_test_pd_vs_individual_predictor_longitudinal %>% 
-  dplyr::mutate(
-    procrustes_summary = 
-      purrr::pmap(
-        .l = list(region, # ..1
-                  pd_metric, # ..2
-                  pred_variable, # ..3
-                  procrustes_individual, # ..4
-                  procrustes_individual_standardized_data # ..5
-        ),
-        .f = ~ {
-          summary_proc <- 
-            tibble::tibble(
-              "data_type" = "unstandardized",
-              "region" = ..1,
-              "spatial_gradient" = "longitude",
-              "pd_metric" = ..2,
-              "predictor_variable" = ..3,
-              "Procrustes sum of squares" = summary(..4)$ss,
-              "Procrustes root mean squared error" = summary(..4)$rmse,
-              "Correlation in a symmetric Procrustes rotation" = ..4$t0,
-              "Significance" = ..4$signif,
-              Permutations = ..4$permutation) %>% 
-            dplyr::bind_rows(
-              tibble::tibble(
-                "data_type" = "standardized",
-                "region" = ..1,
-                "spatial_gradient" = "longitude",
-                "pd_metric" = ..2,
-                "predictor_variable" = ..3,
-                "Procrustes sum of squares" = summary(..5)$ss,
-                "Procrustes root mean squared error" = summary(..5)$rmse,
-                "Correlation in a symmetric Procrustes rotation" = ..5$t0,
-                "Significance" = ..5$signif,
-                Permutations = ..5$permutation)
-            )
-          return(summary_proc)
-        }
-      )
-  ) %>% 
-  dplyr::select(procrustes_summary) %>% 
-  tidyr::unnest(procrustes_summary) 
-
-readr::write_csv(
-  procrustes_summary_pd_vs_individual_predictor_longitudinal,
-  file = paste0(
-    "Outputs/Table/sampled_lat_long_151124/",
-    "procrustes_summary_pd_vs_individual_predictor_longitudinal_021224.csv"))
-
-
-# B. Latitudinal PD vs. all climatic variables combined ----
 
 # Combine all climatic variables in one matrix and standardize them
 combined_climate_longitudinal_europe <- 
