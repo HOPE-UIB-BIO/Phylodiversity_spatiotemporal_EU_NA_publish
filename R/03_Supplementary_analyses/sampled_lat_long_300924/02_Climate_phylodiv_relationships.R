@@ -106,22 +106,23 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = lat,
-                     y = temp_annual,
-                     group = age,
-                     colour = age)
+                     y = temp_annual)
                    ) +
                  
                  ggplot2::geom_line(
+                   aes(
+                       group = age,
+                       colour = age),
                    linewidth = 0.5,
                    alpha = 1) +
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_age,
                    low = color_low_age) +
+                 
                  ggplot2::theme_classic() +
+                 
                  ggplot2::geom_line(
-                   aes(
-                     x = lat,
-                     y = temp_annual),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat1) +
@@ -130,6 +131,7 @@ plot_lat_climate <-
                    x = element_blank(),
                    y = 'ann_temp',
                    colour = "Time \n(cal yr BP)") +
+                 
                  ggplot2::theme(
                    axis.text.x = element_text(
                      color = color_common,
@@ -155,22 +157,27 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = age,
-                     y = temp_annual,
+                     y = temp_annual)
+                   ) +
+                 
+                 ggplot2::geom_line(
+                   aes(
                      group = lat,
-                     colour = lat)) +
+                     colour = lat),
+                   linewidth = 0.5,
+                   alpha = 1) +
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_lat,
                    low = color_low_lat) +
+                 
+                 ggplot2::theme_classic() +
+                 
                  ggplot2::geom_line(
-                   linewidth = 0.5,
-                   alpha = 1) +
-                 ggplot2::geom_line(
-                   aes(x = age,
-                       y = temp_annual),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat2) +
-                 ggplot2::theme_classic() +
+                 
                  ggplot2::labs(
                    x = element_blank(),
                    y = element_blank(),
@@ -179,6 +186,7 @@ plot_lat_climate <-
                        'Lat ', (degree ~ N))
                      )
                    ) +
+                 
                  ggplot2::scale_x_continuous(
                    limits = c(0, 12000),
                    breaks = seq(0, 12000, 2000)) +
@@ -219,27 +227,32 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = lat,
-                     y = temp_cold,
-                     group = age,
-                     colour = age)
+                     y = temp_cold)
                    ) +
+                 
                  ggplot2::geom_line(
+                   aes(
+                     group = age,
+                     colour = age),
                    linewidth = 0.5,
                    alpha = 1) + 
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_age,
                    low = color_low_age) +
+                 
                  ggplot2::theme_classic() +
+                 
                  ggplot2::geom_line(
-                   aes(x = lat,
-                       y = temp_cold),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat1) +
+                 
                  ggplot2::labs(
                    x = element_blank(),
                    y = 'temp_cold',
                    colour = "Time \n(cal yr BP)") + 
+                 
                  ggplot2::theme(
                    axis.text.x = element_text(
                      color = color_common,
@@ -264,24 +277,26 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = age,
-                     y = temp_cold,
-                     group = lat,
-                     colour = lat)
+                     y = temp_cold)
                    ) +
+                 
+                 ggplot2::geom_line(
+                   aes(group = lat,
+                       colour = lat),
+                   linewidth = 0.5,
+                   alpha = 1) +
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_lat,
                    low = color_low_lat) +
+                 
+                 ggplot2::theme_classic() +
+                 
                  ggplot2::geom_line(
-                   linewidth = 0.5,
-                   alpha = 1) +
-                 ggplot2::geom_line(
-                   aes(
-                     x = age,
-                     y = temp_cold),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat2) +
-                 ggplot2::theme_classic() +
+                 
                  ggplot2::labs(
                    x = element_blank(),
                    y = element_blank(),
@@ -289,9 +304,11 @@ plot_lat_climate <-
                      paste(
                        'Lat ', (degree ~ N)))
                    ) +
+                 
                  ggplot2::scale_x_continuous(
                    limits = c(0, 12000),
                    breaks = seq(0, 12000, 2000)) +
+                 
                  ggplot2::theme(
                    axis.title = element_text(
                      size = 22,
@@ -329,28 +346,32 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = lat,
-                     y = prec_annual,
-                     group = age,
-                     colour = age)
+                     y = prec_annual)
                    ) +
+                 
                  ggplot2::geom_line(
+                   aes(
+                     group = age,
+                     colour = age),
                    linewidth = 0.5,
                    alpha = 1) + 
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_age,
                    low = color_low_age) +
+                 
                  ggplot2::theme_classic() +
+                 
                  ggplot2::geom_line(
-                   aes(
-                     x = lat,
-                     y = prec_annual),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat1) +
+                 
                  ggplot2::labs(
                    x = element_blank(),
                    y = 'ann_prec',
                    colour = "Time \n(cal yr BP)") + 
+                 
                  ggplot2::theme(
                    axis.text.x = element_text(
                      color = color_common,
@@ -376,24 +397,27 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = age,
-                     y = prec_annual,
-                     group = lat,
-                     colour = lat)
+                     y = prec_annual)
                    ) +
+                 
+                 ggplot2::geom_line(
+                   aes(
+                     group = lat,
+                     colour = lat),
+                   linewidth = 0.5,
+                   alpha = 1) +
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_lat,
                    low = color_low_lat) +
+                 
+                 ggplot2::theme_classic() +
+                 
                  ggplot2::geom_line(
-                   linewidth = 0.5,
-                   alpha = 1) +
-                 ggplot2::geom_line(
-                   aes(
-                     x = age,
-                     y = prec_annual),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat2) +
-                 ggplot2::theme_classic() +
+                 
                  ggplot2::labs(
                    x = element_blank(),
                    y = element_blank(),
@@ -402,9 +426,11 @@ plot_lat_climate <-
                        'Lat ', (degree ~ N))
                      )
                    ) +
+                 
                  ggplot2::scale_x_continuous(
                    limits = c(0, 12000),
                    breaks = seq(0, 12000, 2000)) +
+                 
                  ggplot2::theme(
                    axis.title = element_text(
                      size = 22,
@@ -441,28 +467,32 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = lat,
-                     y = prec_summer,
-                     group = age,
-                     colour = age)
+                     y = prec_summer)
                    ) +
+                 
                  ggplot2::geom_line(
+                   aes(
+                     group = age,
+                     colour = age),
                    linewidth = 0.5,
                    alpha = 1) + 
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_age,
                    low = color_low_age) +
+                 
                  ggplot2::theme_classic() +
+                 
                  ggplot2::geom_line(
-                   aes(
-                     x = lat,
-                     y = prec_summer),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat1) +
+                 
                  ggplot2::labs(
                    x = element_blank(),
                    y = 'sum_prec',
-                   colour = "Time \n(cal yr BP)") + 
+                   colour = "Time \n(cal yr BP)") +
+                 
                  ggplot2::theme(
                    axis.text.x = element_text(
                      color = color_common,
@@ -488,24 +518,26 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = age,
-                     y = prec_summer,
-                     group = lat,
-                     colour = lat)
+                     y = prec_summer)
                    ) +
+                 
+                 ggplot2::geom_line(
+                   aes(
+                     group = lat,
+                     colour = lat),
+                   linewidth = 0.5,
+                   alpha = 1) +
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_lat,
                    low = color_low_lat) +
-                 ggplot2::geom_line(
-                   linewidth = 0.5,
-                   alpha = 1) +
-                 ggplot2::geom_line(
-                   aes(
-                     x = age,
-                     y = prec_summer),
-                   linewidth = 1.25,
+                 
+                 ggplot2::theme_classic() +
+                 
+                 ggplot2::geom_line(linewidth = 1.25,
                    colour = color_common,
                    data = dat2) +
-                 ggplot2::theme_classic() +
+                 
                  ggplot2::labs(
                    x = element_blank(),
                    y = element_blank(),
@@ -514,10 +546,12 @@ plot_lat_climate <-
                        'Lat ', (degree ~ N))
                      )
                    ) +
+                 
                  ggplot2::scale_x_continuous(
                    limits = c(0, 12000),
                    breaks = seq(0, 12000, 2000)
                    ) +
+                 
                  ggplot2::theme(
                    axis.title = element_text(
                      size = 22,
@@ -555,28 +589,32 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = lat,
-                     y = prec_win,
-                     group = age,
-                     colour = age)
+                     y = prec_win)
                    ) +
+                 
                  ggplot2::geom_line(
+                   aes(
+                     group = age,
+                     colour = age),
                    linewidth = 0.5,
                    alpha = 1) + 
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_age,
                    low = color_low_age) +
+                 
                  ggplot2::theme_classic() + 
+                 
                  ggplot2::geom_line(
-                   aes(
-                     x = lat,
-                     y = prec_win),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat1) +
+                 
                  ggplot2::labs(
                    x = element_blank(),
                    y = 'wint_prec',
                    colour = "Time \n(cal yr BP)") + 
+                 
                  ggplot2::theme(
                    axis.text.x = element_text(
                      color = color_common,
@@ -602,24 +640,27 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = age,
-                     y = prec_win,
-                     group = lat,
-                     colour = lat)
+                     y = prec_win)
                    ) +
+                 
+                 ggplot2::geom_line(
+                   aes(
+                     group = lat,
+                     colour = lat),
+                   linewidth = 0.5,
+                   alpha = 1) +
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_lat,
                    low = color_low_lat) +
+                 
+                 ggplot2::theme_classic() +
+                 
                  ggplot2::geom_line(
-                   linewidth = 0.5,
-                   alpha = 1) +
-                 ggplot2::geom_line(
-                   aes(
-                     x = age,
-                     y = prec_win),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat2) +
-                 ggplot2::theme_classic() +
+                 
                  ggplot2::labs(
                    x = element_blank(),
                    y = element_blank(),
@@ -628,9 +669,11 @@ plot_lat_climate <-
                        'Lat ', (degree ~ N))
                      )
                    ) +
+                 
                  ggplot2::scale_x_continuous(
                    limits = c(0, 12000),
                    breaks = seq(0, 12000, 2000)) +
+                 
                  ggplot2::theme(
                    axis.title = element_text(
                      size = 22,
@@ -668,24 +711,27 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = lat,
-                     y = anth_ind_taxa,
-                     group = age,
-                     colour = age)
+                     y = anth_ind_taxa)
                    ) +
+                 
                  ggplot2::geom_line(
+                   aes(
+                     group = age,
+                     colour = age),
                    linewidth = 0.5,
                    alpha = 1) + 
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_age,
                    low = color_low_age) +
+                 
                  ggplot2::theme_classic() + 
+                 
                  ggplot2::geom_line(
-                   aes(
-                     x = lat,
-                     y = anth_ind_taxa),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat1) +
+                 
                  ggplot2::labs(
                    x = expression(
                      paste(
@@ -693,6 +739,7 @@ plot_lat_climate <-
                      ),
                    y = 'Anthr_infl',
                    colour = "Time \n(cal yr BP)") + 
+                 
                  ggplot2::theme(
                    axis.text.x = element_text(
                      color = color_common,
@@ -718,24 +765,27 @@ plot_lat_climate <-
                  ggplot2::ggplot(
                    aes(
                      x = age,
-                     y = anth_ind_taxa,
-                     group = lat,
-                     colour = lat)
+                     y = anth_ind_taxa)
                    ) +
+                 
+                 ggplot2::geom_line(
+                   aes(
+                     group = lat,
+                     colour = lat),
+                   linewidth = 0.5,
+                   alpha = 1) +
+                 
                  ggplot2::scale_color_gradient(
                    high = color_high_lat,
                    low = color_low_lat) +
+                 
+                 ggplot2::theme_classic() +
+                 
                  ggplot2::geom_line(
-                   linewidth = 0.5,
-                   alpha = 1) +
-                 ggplot2::geom_line(
-                   aes(
-                     x = age,
-                     y = anth_ind_taxa),
                    linewidth = 1.25,
                    colour = color_common,
                    data = dat2) +
-                 ggplot2::theme_classic() +
+                 
                  ggplot2::labs(
                    x = "Time (cal yr BP)",
                    y = element_blank(),
@@ -744,9 +794,11 @@ plot_lat_climate <-
                        'Lat ', (degree ~ N))
                      )
                    ) +
+                 
                  ggplot2::scale_x_continuous(
                    limits = c(0, 12000),
                    breaks = seq(0, 12000, 2000)) +
+                 
                  ggplot2::theme(
                    axis.title = element_text(
                      size = 22,
@@ -806,7 +858,7 @@ plot_lat_climate <-
 ggplot2::ggsave(
   plot_lat_climate[[1]],
   filename = paste0("Outputs/Figures/sampled_lat_long_151124/",
-                    "europe_predictor_variable_trends_020225.tiff"),
+                    "europe_predictor_variable_latitudinal_trends_201125.tiff"),
   width = 25,
   height = 45,
   units = "cm",
@@ -817,7 +869,7 @@ ggplot2::ggsave(
 ggplot2::ggsave(
   plot_lat_climate[[2]],
   filename = paste0("Outputs/Figures/sampled_lat_long_151124/",
-                    "north_america_predictor_variable_trends_020225.tiff"),
+                    "north_america_predictor_variable_latitudinal_trends_201125.tiff"),
   width = 25,
   height = 45,
   units = "cm",
@@ -850,22 +902,23 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = long,
-                      y = temp_annual,
-                      group = age,
-                      colour = age)
+                      y = temp_annual)
                     ) +
                   
                   ggplot2::geom_line(
+                    aes(
+                      group = age,
+                      colour = age),
                     linewidth = 0.5,
                     alpha = 1) +
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_age,
                     low = color_low_age) +
+                  
                   ggplot2::theme_classic() +
+                  
                   ggplot2::geom_line(
-                    aes(
-                      x = long,
-                      y = temp_annual),
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat1) +
@@ -874,6 +927,7 @@ plot_long_climate <-
                     x = element_blank(),
                     y = 'ann_temp',
                     colour = "Time \n(cal yr BP)") +
+                  
                   ggplot2::theme(
                     axis.text.x = element_text(
                       color = color_common,
@@ -899,22 +953,27 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = age,
-                      y = temp_annual,
+                      y = temp_annual)
+                    ) +
+                  
+                  ggplot2::geom_line(
+                    aes(
                       group = long,
-                      colour = long)) +
+                      colour = long),
+                    linewidth = 0.5,
+                    alpha = 1) +
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_lat,
                     low = color_low_lat) +
+                  
+                  ggplot2::theme_classic() +
+                  
                   ggplot2::geom_line(
-                    linewidth = 0.5,
-                    alpha = 1) +
-                  ggplot2::geom_line(
-                    aes(x = age,
-                        y = temp_annual),
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat2) +
-                  ggplot2::theme_classic() +
+                  
                   ggplot2::labs(
                     x = element_blank(),
                     y = element_blank(),
@@ -923,9 +982,11 @@ plot_long_climate <-
                         'Long ', (degree ~ E))
                       )
                     ) +
+                  
                   ggplot2::scale_x_continuous(
                     limits = c(0, 12000),
                     breaks = seq(0, 12000, 2000)) +
+                  
                   ggplot2::theme(
                     axis.title = element_text(
                       size = 22,
@@ -953,6 +1014,7 @@ plot_long_climate <-
                     annual_temp_temporal,
                     ncol = 2,
                     nrow = 1) +
+                  
                   ggplot2::theme(
                     plot.margin = margin(1, 0, 0, 0.1, "cm")) 
                 
@@ -963,27 +1025,32 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = long,
-                      y = temp_cold,
-                      group = age,
-                      colour = age)
+                      y = temp_cold)
                     ) +
+                  
                   ggplot2::geom_line(
+                    aes(
+                      group = age,
+                      colour = age),
                     linewidth = 0.5,
                     alpha = 1) + 
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_age,
                     low = color_low_age) +
+                  
                   ggplot2::theme_classic() +
+                  
                   ggplot2::geom_line(
-                    aes(x = long,
-                        y = temp_cold),
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat1) +
+                  
                   ggplot2::labs(
                     x = element_blank(),
                     y = 'temp_cold',
                     colour = "Time \n(cal yr BP)") + 
+                  
                   ggplot2::theme(
                     axis.text.x = element_text(
                       color = color_common,
@@ -1008,16 +1075,22 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = age,
-                      y = temp_cold,
-                      group = long,
-                      colour = long)
+                      y = temp_cold)
                     ) +
+                  
+                  ggplot2::geom_line(
+                    aes(
+                      group = long,
+                      colour = long),
+                    linewidth = 0.5,
+                    alpha = 1) +
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_lat,
                     low = color_low_lat) +
-                  ggplot2::geom_line(
-                    linewidth = 0.5,
-                    alpha = 1) +
+                  
+                  ggplot2::theme_classic() +
+                  
                   ggplot2::geom_line(
                     aes(
                       x = age,
@@ -1025,7 +1098,7 @@ plot_long_climate <-
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat2) +
-                  ggplot2::theme_classic() +
+                  
                   ggplot2::labs(
                     x = element_blank(),
                     y = element_blank(),
@@ -1033,9 +1106,11 @@ plot_long_climate <-
                       paste(
                         'Long ', (degree ~ E)))
                   ) +
+                  
                   ggplot2::scale_x_continuous(
                     limits = c(0, 12000),
                     breaks = seq(0, 12000, 2000)) +
+                  
                   ggplot2::theme(
                     axis.title = element_text(
                       size = 22,
@@ -1063,6 +1138,7 @@ plot_long_climate <-
                     temp_cold_temporal,
                     ncol = 2,
                     nrow = 1) +
+                  
                   ggplot2::theme(
                     plot.margin = margin(1, 0, 0, 0.1, "cm")) 
                 
@@ -1073,28 +1149,32 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = long,
-                      y = prec_annual,
-                      group = age,
-                      colour = age)
+                      y = prec_annual)
                     ) +
+                  
                   ggplot2::geom_line(
+                    aes(
+                      group = age,
+                      colour = age),
                     linewidth = 0.5,
                     alpha = 1) + 
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_age,
                     low = color_low_age) +
+                  
                   ggplot2::theme_classic() +
+                  
                   ggplot2::geom_line(
-                    aes(
-                      x = long,
-                      y = prec_annual),
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat1) +
+                  
                   ggplot2::labs(
                     x = element_blank(),
                     y = 'ann_prec',
                     colour = "Time \n(cal yr BP)") + 
+                  
                   ggplot2::theme(
                     axis.text.x = element_text(
                       color = color_common,
@@ -1120,24 +1200,27 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = age,
-                      y = prec_annual,
-                      group = long,
-                      colour = long)
+                      y = prec_annual)
                     ) +
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_lat,
                     low = color_low_lat) +
-                  ggplot2::geom_line(
-                    linewidth = 0.5,
-                    alpha = 1) +
+                  
                   ggplot2::geom_line(
                     aes(
-                      x = age,
-                      y = prec_annual),
+                      group = long,
+                      colour = long),
+                    linewidth = 0.5,
+                    alpha = 1) +
+                  
+                  ggplot2::theme_classic() +
+                  
+                  ggplot2::geom_line(
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat2) +
-                  ggplot2::theme_classic() +
+                  
                   ggplot2::labs(
                     x = element_blank(),
                     y = element_blank(),
@@ -1146,9 +1229,11 @@ plot_long_climate <-
                         'Long ', (degree ~ E))
                       )
                     ) +
+                  
                   ggplot2::scale_x_continuous(
                     limits = c(0, 12000),
                     breaks = seq(0, 12000, 2000)) +
+                  
                   ggplot2::theme(
                     axis.title = element_text(
                       size = 22,
@@ -1175,6 +1260,7 @@ plot_long_climate <-
                     annual_precip_temporal,
                     ncol = 2,
                     nrow = 1) +
+                  
                   ggplot2::theme(
                     plot.margin = margin(1, 0, 0, 0.1, "cm")) 
                 
@@ -1185,28 +1271,32 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = long,
-                      y = prec_summer,
-                      group = age,
-                      colour = age)
+                      y = prec_summer)
                     ) +
+                  
                   ggplot2::geom_line(
+                    aes(
+                      group = age,
+                      colour = age),
                     linewidth = 0.5,
                     alpha = 1) + 
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_age,
                     low = color_low_age) +
+                  
                   ggplot2::theme_classic() +
+                  
                   ggplot2::geom_line(
-                    aes(
-                      x = long,
-                      y = prec_summer),
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat1) +
+                  
                   ggplot2::labs(
                     x = element_blank(),
                     y = 'sum_prec',
                     colour = "Time \n(cal yr BP)") + 
+                  
                   ggplot2::theme(
                     axis.text.x = element_text(
                       color = color_common,
@@ -1232,24 +1322,27 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = age,
-                      y = prec_summer,
-                      group = long,
-                      colour = long)
+                      y = prec_summer)
                     ) +
+                  
+                  ggplot2::geom_line(
+                    aes(
+                      group = long,
+                      colour = long),
+                    linewidth = 0.5,
+                    alpha = 1) +
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_lat,
                     low = color_low_lat) +
+                  
+                  ggplot2::theme_classic() +
+                  
                   ggplot2::geom_line(
-                    linewidth = 0.5,
-                    alpha = 1) +
-                  ggplot2::geom_line(
-                    aes(
-                      x = age,
-                      y = prec_summer),
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat2) +
-                  ggplot2::theme_classic() +
+                  
                   ggplot2::labs(
                     x = element_blank(),
                     y = element_blank(),
@@ -1258,9 +1351,11 @@ plot_long_climate <-
                         'Long ', (degree ~ E))
                       )
                     ) +
+                  
                   ggplot2::scale_x_continuous(
                     limits = c(0, 12000),
                     breaks = seq(0, 12000, 2000)) +
+                  
                   ggplot2::theme(
                     axis.title = element_text(
                       size = 22,
@@ -1288,6 +1383,7 @@ plot_long_climate <-
                     summer_precip_temporal,
                     ncol = 2,
                     nrow = 1) +
+                  
                   ggplot2::theme(
                     plot.margin = margin(1, 0, 0, 0.1, "cm"))     
                 
@@ -1298,28 +1394,32 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = long,
-                      y = prec_win,
-                      group = age,
-                      colour = age)
+                      y = prec_win)
                     ) +
+                  
                   ggplot2::geom_line(
+                    aes(
+                      group = age,
+                      colour = age),
                     linewidth = 0.5,
                     alpha = 1) + 
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_age,
                     low = color_low_age) +
+                  
                   ggplot2::theme_classic() + 
+                  
                   ggplot2::geom_line(
-                    aes(
-                      x = long,
-                      y = prec_win),
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat1) +
+                  
                   ggplot2::labs(
                     x = element_blank(),
                     y = 'wint_prec',
                     colour = "Time \n(cal yr BP)") + 
+                  
                   ggplot2::theme(
                     axis.text.x = element_text(
                       color = color_common,
@@ -1345,24 +1445,27 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = age,
-                      y = prec_win,
-                      group = long,
-                      colour = long)
+                      y = prec_win)
                     ) +
+                  
+                  ggplot2::geom_line(
+                    aes(
+                      group = long,
+                      colour = long),
+                    linewidth = 0.5,
+                    alpha = 1) +
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_lat,
                     low = color_low_lat) +
+                  
+                  ggplot2::theme_classic() +
+                  
                   ggplot2::geom_line(
-                    linewidth = 0.5,
-                    alpha = 1) +
-                  ggplot2::geom_line(
-                    aes(
-                      x = age,
-                      y = prec_win),
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat2) +
-                  ggplot2::theme_classic() +
+                  
                   ggplot2::labs(
                     x = element_blank(),
                     y = element_blank(),
@@ -1371,9 +1474,11 @@ plot_long_climate <-
                         'Long ', (degree ~ E))
                       )
                     ) +
+                  
                   ggplot2::scale_x_continuous(
                     limits = c(0, 12000),
                     breaks = seq(0, 12000, 2000)) +
+                  
                   ggplot2::theme(
                     axis.title = element_text(
                       size = 22,
@@ -1401,6 +1506,7 @@ plot_long_climate <-
                     prec_winter_temporal,
                     ncol = 2,
                     nrow = 1) +
+                  
                   ggplot2::theme(
                     plot.margin = margin(1, 0, 0, 0.1, "cm"))  #t, r, b, l
                 
@@ -1411,24 +1517,27 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = long,
-                      y = anth_ind_taxa,
-                      group = age,
-                      colour = age)
+                      y = anth_ind_taxa)
                     ) +
+                  
                   ggplot2::geom_line(
+                    aes(
+                      group = age,
+                      colour = age),
                     linewidth = 0.5,
                     alpha = 1) + 
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_age,
                     low = color_low_age) +
+                  
                   ggplot2::theme_classic() + 
+                  
                   ggplot2::geom_line(
-                    aes(
-                      x = long,
-                      y = anth_ind_taxa),
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat1) +
+                  
                   ggplot2::labs(
                     x = expression(
                       paste(
@@ -1436,6 +1545,7 @@ plot_long_climate <-
                     ),
                     y = 'Anthr_infl',
                     colour = "Time \n(cal yr BP)") + 
+                  
                   ggplot2::theme(
                     axis.text.x = element_text(
                       color = color_common,
@@ -1461,24 +1571,27 @@ plot_long_climate <-
                   ggplot2::ggplot(
                     aes(
                       x = age,
-                      y = anth_ind_taxa,
-                      group = long,
-                      colour = long)
+                      y = anth_ind_taxa)
                     ) +
+                  
+                  ggplot2::geom_line(
+                    aes(
+                      group = long,
+                      colour = long),
+                    linewidth = 0.5,
+                    alpha = 1) +
+                  
                   ggplot2::scale_color_gradient(
                     high = color_high_lat,
                     low = color_low_lat) +
+                  
+                  ggplot2::theme_classic() +
+                  
                   ggplot2::geom_line(
-                    linewidth = 0.5,
-                    alpha = 1) +
-                  ggplot2::geom_line(
-                    aes(
-                      x = age,
-                      y = anth_ind_taxa),
                     linewidth = 1.25,
                     colour = color_common,
                     data = dat2) +
-                  ggplot2::theme_classic() +
+                  
                   ggplot2::labs(
                     x = "Time (cal yr BP)",
                     y = element_blank(),
@@ -1487,9 +1600,11 @@ plot_long_climate <-
                         'Long ', (degree ~ E))
                     )
                   ) +
+                  
                   ggplot2::scale_x_continuous(
                     limits = c(0, 12000),
                     breaks = seq(0, 12000, 2000)) +
+                  
                   ggplot2::theme(
                     axis.title = element_text(
                       size = 22,
@@ -1517,6 +1632,7 @@ plot_long_climate <-
                     anthto_inf_temporal,
                     ncol = 2,
                     nrow = 1) +
+                  
                   ggplot2::theme(
                     plot.margin = margin(1, 0, 0, 0.1, "cm"))  #t, r, b, l
                 
@@ -1548,7 +1664,7 @@ plot_long_climate <-
 ggplot2::ggsave(
   plot_long_climate[[1]],
   filename = paste0("Outputs/Figures/sampled_lat_long_151124/",
-                    "europe_predictor_variable_longitudinal_trends_020225.tiff"),
+                    "europe_predictor_variable_longitudinal_trends_201125.tiff"),
   width = 25,
   height = 45,
   units = "cm",
@@ -1559,7 +1675,7 @@ ggplot2::ggsave(
 ggplot2::ggsave(
   plot_long_climate[[2]],
   filename = paste0("Outputs/Figures/sampled_lat_long_151124/",
-                    "north_america_predictor_variable_longitudinal_trends_020225.tiff"),
+                    "north_america_predictor_variable_longitudinal_trends_201125.tiff"),
   width = 25,
   height = 45,
   units = "cm",
